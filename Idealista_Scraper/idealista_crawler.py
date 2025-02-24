@@ -1,3 +1,5 @@
+import random
+import time
 from idealista_scraper import IdealistaScraper
 
 # Clase IdealistaCrawler que gestiona el proceso completo de scraping de las páginas de búsqueda
@@ -20,7 +22,8 @@ class IdealistaCrawler:
         while True:
             # Construye la URL para la página npagina          
             url = f"{self.base_url}pagina-{npagina}{self.busqueda_url}"
-            
+            # Pausa aleatoria para evitar ser detectado como un bot
+            time.sleep(random.randint(10, 12))
             ids = self.scraper.get_listing_ids(url)  # Obtiene los IDs de los anuncios
             if not ids:  # Si no hay más IDs en la página, se detiene el scraping
                 break

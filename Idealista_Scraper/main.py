@@ -29,7 +29,7 @@ if __name__ == "__main__":
             DataExporter.save_to_csv(properties, 'casas_idealista.csv')
 
         print ("se ha añadido un piso, total: " + len(properties))
-        time.sleep(random.randint(5, 10))  # Esperar un poco entre peticiones para evitar bloqueos
+        time.sleep(random.randint(4, 8))  # Esperar un poco entre peticiones para evitar bloqueos
 
     # Paso 6: Exportar los datos a un archivo CSV
     DataExporter.save_to_csv(properties, 'casas_idealista.csv')
