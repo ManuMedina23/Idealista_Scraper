@@ -1,7 +1,7 @@
 Scraper básico para la web de Idealista.com.
 
 Cambiar las variables de main.py:
-  base_url
+  base_url,
   busqueda_url
 según convenga 
 
