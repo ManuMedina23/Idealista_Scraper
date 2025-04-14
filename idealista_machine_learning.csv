@@ -1,0 +1,1224 @@
+titulo,localizacion,precio,ascensor,baños,trastero,piso,habitaciones,metros_reales,armarios_empotrados,terraza,garaje,calefaccion,aire_acondicionado,piscina,zonas_verdes
+Alquiler de Piso en calle Jardines,"Recogidas, Granada",510,0.0,1,0,Primeros_pisos,1,35,0,0,0,1,0,0,0
+Alquiler de Piso en Catedral,"Centro, Granada",1050,0.0,1,0,Ultimos_pisos,2,45,0,0,0,0,1,0,0
+"Alquiler de Piso en plaza Aurora, 10","San Miguel, Armilla",550,1.0,1,0,Primeros_pisos,1,55,1,0,1,1,0,0,0
+Alquiler de Ático en calle Zapateros,"Catedral, Granada",680,1.0,1,0,Primeros_pisos,1,60,0,0,0,0,0,0,0
+Alquiler de Casa o chalet independiente en San Ildefonso,Granada,2200,0.0,2,1,Muchas_plantas,4,2,0,1,1,1,1,1,0
+Alquiler de Piso en calle Nicuesa,"Carrera de la Virgen - Paseo del Salón, Granada",850,1.0,1,0,Primeros_pisos,3,85,0,0,0,0,0,0,0
+Alquiler de Piso en calle Ganivet,"Zona Poniente, Armilla",600,1.0,1,0,Primeros_pisos,1,67,0,0,0,1,1,0,0
+Alquiler de Piso en calle Henríquez de Jorquera,"Polígono Cartuja, Granada",980,1.0,1,0,Ultimos_pisos,3,90,0,1,0,0,0,0,0
+"Alquiler de Piso en calle José Recuerda, 3","Ronda - Arabial, Granada",1100,1.0,2,0,Ultimos_pisos,4,85,1,0,0,1,1,0,0
+Alquiler de Piso en calle Mariana Pineda,"San Matías - Pavaneras, Granada",1600,0.0,2,0,Primeros_pisos,4,1,0,0,0,1,0,0,0
+"Alquiler de Piso en calle Ramón y Cajal, 14","Casco Historico, Churriana de la Vega",750,1.0,3,0,Primeros_pisos,3,1,0,0,1,0,1,0,0
+"Alquiler de Piso en plaza del Realejo, 2","Molinos - Santiago, Granada",750,1.0,1,0,Bajo,2,80,1,0,0,1,1,0,0
+Alquiler de Piso en plaza de Santo Domingo,"San Matías - Pavaneras, Granada",650,1.0,1,0,Primeros_pisos,1,60,1,0,0,1,0,0,0
+Alquiler de Piso en calle Fray Leopoldo de Alpandeire,"Los Pajaritos, Granada",960,1.0,2,0,Primeros_pisos,4,1,1,0,0,0,1,0,0
+"Alquiler de Piso en calle Almireceros, 7 --9","Gran Vía, Granada",800,1.0,1,0,Primeros_pisos,1,66,1,0,1,1,0,0,0
+Alquiler de Estudio en Molinos - Santiago,"Realejo, Granada",420,0.0,1,0,Bajo,1,45,0,0,0,0,0,0,1
+Alquiler de Piso en calle Portería de Santo Domingo,"San Matías - Pavaneras, Granada",650,1.0,1,0,Primeros_pisos,1,60,1,0,0,1,0,0,0
+Alquiler de Piso en puente de Castañeda,"Figares, Granada",1200,1.0,1,0,Bajo,2,75,1,0,0,1,1,0,0
+Alquiler de Piso en Zaidín,Granada,750,1.0,1,0,Bajo,3,90,0,0,0,1,1,0,0
+Alquiler de Piso en calle Pdta Aquilino Morcillo Ha,"Barrio de los Periodistas, Granada",1100,1.0,2,0,Ultimos_pisos,3,1,1,1,1,1,1,1,1
+Alquiler de Piso en avenida de la Constitución,"Los Pajaritos, Granada",1300,1.0,2,0,Ultimos_pisos,4,1,0,1,0,1,0,0,0
+"Alquiler de Piso en Ramón y Cajal, 36",Maracena,650,1.0,1,0,Primeros_pisos,2,70,1,0,1,1,1,0,0
+Alquiler de Piso en avenida Doctor Oloriz,"Plaza de Toros, Granada",1300,1.0,2,1,Ultimos_pisos,4,1,1,0,0,1,1,0,0
+Alquiler de Piso en calle Lagartijillo,"La Cruz, Granada",950,0.0,1,0,Bajo,3,80,0,1,0,1,1,0,0
+Alquiler de Piso en Del Angel,"Cervantes-Palacio de Deportes, Granada",1350,1.0,2,0,Primeros_pisos,4,1,0,1,1,1,1,1,1
+Alquiler de Piso en camino de Ronda,"Figares, Granada",890,1.0,2,0,Primeros_pisos,3,1,1,0,0,1,1,0,0
+Alquiler de Piso en calle Solarillo de Gracia,"Recogidas, Granada",1200,1.0,2,0,Ultimos_pisos,3,1,0,0,0,1,0,0,0
+Alquiler de Piso en calle Horno del Oro,"Albaicín, Granada",650,0.0,1,0,Primeros_pisos,2,55,0,1,0,1,0,0,0
+Alquiler de Piso en avenida García Lorca,"Campus de la Salud, Armilla",1200,1.0,2,0,Bajo,3,90,0,1,1,1,0,1,0
+"Alquiler de Piso en calle Ruiseñor, 7","Los Pajaritos, Granada",775,1.0,1,0,Ultimos_pisos,2,70,1,0,0,1,1,0,0
+Alquiler de Piso en plaza de Gracia,"Recogidas, Granada",1000,1.0,1,0,Ultimos_pisos,3,1,1,1,0,1,1,0,0
+"Alquiler de Piso en calle Periodista Fernando Gómez de la Cruz, 51","Barrio de los Periodistas, Granada",1100,1.0,1,0,Primeros_pisos,2,85,1,0,1,0,1,1,1
+Alquiler de Piso en avenida Federico García Lorca,"Barrio de los Periodistas, Granada",870,1.0,2,1,Ultimos_pisos,2,72,1,0,1,0,1,1,0
+Alquiler de Piso en Figares,Granada,950,0.0,1,1,Primeros_pisos,3,1,1,0,0,0,0,0,0
+Alquiler de Piso en calle Castañeda,"Carrera de la Virgen - Paseo del Salón, Granada",650,0.0,1,0,Primeros_pisos,1,60,0,0,0,0,0,0,0
+"Alquiler de Piso en calle Aracena, 27",Cullar-Vega,650,0.0,1,0,Primeros_pisos,2,85,0,1,0,1,0,0,0
+Alquiler de Piso en camino Gójar,"Altos de la Zubia, La Zubia",750,1.0,2,0,Primeros_pisos,3,90,1,1,1,0,0,0,0
+"Alquiler de Piso en calle Gran Vía de Colón, 46","Gran Vía, Granada",950,1.0,1,0,Ultimos_pisos,1,82,1,0,0,1,1,0,0
+"Alquiler de Piso en calle Periodista José Fernández Martínez, 3","Barrio de los Periodistas, Granada",1000,1.0,2,0,Ultimos_pisos,3,1,1,1,1,1,1,1,0
+"Alquiler de Piso en paseo de Colón, 5",Albolote,730,1.0,2,0,Ultimos_pisos,3,90,1,0,0,0,1,0,0
+"Alquiler de Piso en pasaje profesor sainz cantero, 3","Gran Capitán, Granada",700,1.0,1,1,Bajo,2,87,1,0,1,1,1,0,1
+"Alquiler de Casa o chalet independiente en calle Pernaleros Bajo, 17","San Ildefonso, Granada",700,0.0,1,0,Muchas_plantas,2,70,0,1,0,0,0,0,0
+"Alquiler de Casa o chalet independiente en calle Amapola, 9",Atarfe,650,0.0,2,0,Muchas_plantas,2,79,0,1,0,0,1,0,0
+"Alquiler de Piso en calle la Palmita, 8","Barrio de los Periodistas, Granada",950,1.0,2,1,Primeros_pisos,3,1,0,0,1,1,1,1,1
+Alquiler de Piso en calle Sederos,"Figares, Granada",1300,1.0,2,0,Primeros_pisos,4,1,0,0,0,1,1,0,0
+Alquiler de Piso en calle Gonzalo Gallas s/n,"Ronda - Arabial, Granada",1200,1.0,2,0,Primeros_pisos,4,1,1,0,0,0,0,0,0
+Alquiler de Piso en calle san anton,"Figares, Granada",1100,1.0,2,0,Primeros_pisos,3,90,0,0,0,0,1,0,0
+Alquiler de Piso en calle Doctor Barraquer,"Plaza de Toros, Granada",1000,1.0,2,0,Primeros_pisos,3,80,1,1,0,0,1,0,0
+"Alquiler de Piso en calle Bacaque, 2","Carretera de Granada-La Alcazaba, Alhendin",750,1.0,2,1,Primeros_pisos,3,1,1,0,1,1,1,1,1
+"Alquiler de Piso en Santa Cecilia, 18","Zona de San Cayetano, Churriana de la Vega",595,1.0,1,0,Bajo,2,85,1,1,0,1,0,0,0
+Alquiler de Piso en calle Frascuelo s/n,"Zona Parque de San Roque, Churriana de la Vega",625,1.0,2,0,Primeros_pisos,2,70,1,1,0,1,0,1,1
+"Alquiler de Piso en avenida Profesor Domínguez Ortiz, 4 n","Barrio de los Periodistas, Granada",800,1.0,2,0,Primeros_pisos,3,90,1,0,1,1,1,0,0
+"Alquiler de Piso en calle Santa Clotilde, 49 b","Ronda - Arabial, Granada",800,1.0,1,0,Primeros_pisos,3,80,1,0,0,1,0,0,0
+Alquiler de Chalet adosado en Barrio de los Periodistas,Granada,700,0.0,2,0,Muchas_plantas,4,1,0,0,0,1,0,0,0
+Alquiler de Ático en avenida Doctor Oloriz,"Plaza de Toros, Granada",1200,1.0,2,0,Ultimos_pisos,4,89,0,1,1,1,0,1,0
+Alquiler de Piso en Catedral,"Centro, Granada",1000,1.0,2,0,Bajo,4,1,0,1,0,1,1,0,0
+Alquiler de Piso en calle Real de Cartuja,"San Ildefonso, Granada",990,0.0,1,0,Primeros_pisos,3,80,0,1,0,1,1,0,0
+Alquiler de Piso en calle Ángel Barrios,"Ronda - Arabial, Granada",870,1.0,1,0,Primeros_pisos,3,90,0,0,0,0,0,0,0
+Alquiler de Piso en pasaje Algaba,"Casería de Montijo, Granada",1480,0.0,2,0,Primeros_pisos,5,1,1,1,0,1,1,0,0
+Alquiler de Piso en ronda de Alfareros,"Casería de Montijo, Granada",1200,0.0,2,0,Primeros_pisos,4,1,0,1,0,1,0,0,0
+Alquiler de Piso en camino de ronda,"Ronda - Arabial, Granada",850,1.0,1,0,Ultimos_pisos,3,95,0,0,0,0,0,0,0
+"Alquiler de Piso en avenida de Madrid, 18","San Ildefonso, Granada",1040,1.0,1,0,Primeros_pisos,4,95,0,1,0,1,0,0,0
+Alquiler de Piso en calle Doctor Sánchez Mariscal,"Plaza de Toros, Granada",1200,1.0,2,0,Primeros_pisos,4,1,0,1,0,1,0,0,0
+Alquiler de Piso en Gran Capitán,"Centro, Granada",850,1.0,1,0,Bajo,2,70,1,0,0,1,1,0,0
+Alquiler de Piso en Ronda - Arabial,"Ronda - Arabial, Granada",1300,1.0,2,0,Ultimos_pisos,4,1,0,0,0,1,0,0,0
+Alquiler de Piso en calle Pedro Antonio de Alarcón,"Gran Capitán, Granada",1100,1.0,1,0,Primeros_pisos,3,1,0,1,0,1,0,0,0
+Alquiler de Ático en Doctor Fidel Fernandez,"Plaza de Toros, Granada",930,1.0,1,0,Ultimos_pisos,3,90,0,0,0,1,1,0,0
+Alquiler de Piso en avenida de Pulianas,"San Francisco Javier, Granada",900,1.0,1,0,Primeros_pisos,3,90,1,0,0,0,0,0,0
+Alquiler de Piso en calle Torre de la Cautiva,"Cervantes-Palacio de Deportes, Granada",1400,1.0,2,0,Bajo,3,1,1,1,1,1,0,1,1
+"Alquiler de Piso en calle Rosa Chacel, 4","Parque Nueva Granada, Granada",840,1.0,2,1,Bajo,3,96,1,1,1,0,0,1,1
+"Alquiler de Piso en calle Rosa Chacel, 4","Parque Nueva Granada, Granada",692,1.0,2,1,Bajo,2,76,1,1,1,0,0,1,1
+Alquiler de Piso en tiña,"Albaicín, Granada",750,0.0,1,0,Bajo,1,50,0,1,0,0,1,0,0
+"Alquiler de Piso en calle Rosa Chacel, 4","Parque Nueva Granada, Granada",516,1.0,1,1,Bajo,1,54,1,1,1,0,0,1,1
+Alquiler de Piso en calle Cisne,"Los Pajaritos, Granada",800,1.0,1,0,Primeros_pisos,2,80,0,0,0,0,0,0,0
+Alquiler de Piso en Albaicín,Granada,700,1.0,1,0,Primeros_pisos,1,59,0,0,0,1,0,0,0
+Alquiler de Piso en Arabial s/n,"Ronda - Arabial, Granada",870,1.0,1,0,Primeros_pisos,3,85,0,0,0,0,0,0,0
+Alquiler de Piso en Carrera de la Virgen - Paseo del Salón,"Realejo, Granada",2400,1.0,2,0,Ultimos_pisos,6,1,0,0,0,1,0,0,0
+Alquiler de Piso en calle Ángel Barrios,"Ronda - Arabial, Granada",870,1.0,1,0,Primeros_pisos,3,70,0,0,0,1,1,0,0
+"Alquiler de Piso en camino de Ronda, 81","Ronda - Arabial, Granada",1400,1.0,2,0,Primeros_pisos,4,1,1,0,0,1,1,0,0
+Alquiler de Piso en camino de Ronda,"Ronda - Arabial, Granada",1300,1.0,2,0,Ultimos_pisos,4,1,0,0,0,1,0,0,0
+Alquiler de Piso en avenida de Dílar,"Zaidín, Granada",690,1.0,1,0,Primeros_pisos,3,85,0,1,0,1,0,0,0
+Alquiler de Estudio en cuesta de Rodrigo del Campo,"Molinos - Santiago, Granada",450,0.0,1,0,Primeros_pisos,1,25,0,1,0,1,0,0,0
+Alquiler de Piso en camino de Ronda,"Ronda - Arabial, Granada",850,1.0,1,0,Ultimos_pisos,3,90,0,1,0,0,1,0,0
+Alquiler de Estudio en calle Honda del Realejo,"Molinos - Santiago, Granada",600,1.0,1,0,Ultimos_pisos,1,30,0,0,0,1,1,0,0
+"Alquiler de Piso en avenida de la Ilustración, 57","Campus de la Salud, Granada",1250,1.0,2,0,Primeros_pisos,4,1,1,1,1,0,1,1,1
+Alquiler de Piso en Plaza de Toros,"Los Pajaritos - Plaza de Toros, Granada",650,1.0,1,0,Primeros_pisos,1,58,1,0,0,1,1,0,0
+Alquiler de Piso en Plaza de Toros,"Los Pajaritos - Plaza de Toros, Granada",1200,1.0,2,0,Bajo,2,1,1,1,1,1,1,1,0
+Alquiler de Piso en Placeta de las Escuelas,"Albaicín, Granada",650,1.0,1,0,Bajo,1,42,0,0,0,1,0,0,0
+Alquiler de Chalet adosado en paseo de la Ermita,"Zona Parque de la Ermita, Churriana de la Vega",800,0.0,2,0,Muchas_plantas,4,1,0,1,1,0,1,0,0
+Alquiler de Casa o chalet independiente en Cajar,"Área de Granada, Granada",1200,0.0,4,1,Muchas_plantas,4,1,1,1,1,1,0,1,0
+Alquiler de Piso en calle Santa Teresa,"Recogidas, Granada",1400,0.0,2,0,Primeros_pisos,5,1,0,0,0,1,0,0,0
+"Alquiler de Piso en calle Santa Clotilde, 47","Ronda - Arabial, Granada",1320,1.0,2,0,Ultimos_pisos,4,1,1,0,0,1,0,0,0
+Alquiler de Chalet pareado en calle Chipre,Belicena,900,0.0,3,1,Muchas_plantas,4,2,1,1,1,0,0,0,0
+Alquiler de Piso en calle Hortensia,Santa Fe,780,1.0,2,0,Primeros_pisos,3,1,0,1,0,1,1,0,0
+"Alquiler de Piso en calle Cristo de la Yedra, 19","San Ildefonso, Granada",850,1.0,2,0,Primeros_pisos,3,90,0,1,0,0,0,0,0
+Alquiler de Piso en San Blas,"San Francisco Javier, Granada",1350,0.0,2,0,Bajo,4,1,1,1,0,1,1,0,0
+"Alquiler de Piso en calle Arandas, 8","Catedral, Granada",1400,1.0,2,0,Ultimos_pisos,4,1,1,1,0,1,1,0,0
+"Alquiler de Piso en calle San Jerónimo, 12","Catedral, Granada",550,0.0,1,0,Bajo,1,38,0,0,0,1,0,0,0
+"Alquiler de Piso en calle San Antón, 41","Figares, Granada",700,1.0,1,0,Primeros_pisos,1,50,1,0,0,1,1,0,0
+Alquiler de Piso en plaza Gertrudis Gómez de Avellaneda,"Cervantes-Palacio de Deportes, Granada",1300,0.0,3,1,Primeros_pisos,3,2,1,1,1,1,1,0,0
+Alquiler de Piso en calle Santa Clotilde,"Ronda - Arabial, Granada",1000,0.0,2,0,Primeros_pisos,4,95,0,1,0,1,0,0,0
+"Alquiler de Piso en calle Mano de Hierro, 4","Gran Capitán, Granada",650,1.0,1,0,Primeros_pisos,1,50,1,0,0,1,1,0,0
+Alquiler de Casa o chalet independiente en calle Epifanio Lupión,"Joaquina Eguaras, Granada",1200,0.0,3,0,Muchas_plantas,6,1,0,1,0,0,0,0,0
+Alquiler de Piso en calle Maestro Vives,"Figares, Granada",830,1.0,1,0,Ultimos_pisos,3,80,0,1,0,0,0,0,0
+"Alquiler de Piso en plaza de Santo Domingo, 26","San Matías - Pavaneras, Granada",600,1.0,1,0,Primeros_pisos,1,45,1,0,0,1,1,0,0
+Alquiler de Piso en calle Santiago Rusiñol,"Rosaleda - Juventud, Granada",950,1.0,2,1,Ultimos_pisos,2,75,1,1,1,1,1,1,0
+Alquiler de Piso en Polígono Cartuja,"Norte, Granada",1000,1.0,1,0,Ultimos_pisos,4,1,0,0,0,0,1,0,0
+Alquiler de Piso en calle del Filólogo Julio Casares,"Rosaleda - Juventud, Granada",1200,1.0,2,1,Primeros_pisos,3,1,1,1,1,1,1,1,0
+Alquiler de Piso en calle Nicuesa,"Carrera de la Virgen - Paseo del Salón, Granada",850,1.0,1,0,Primeros_pisos,1,61,0,0,1,1,0,0,0
+Alquiler de Piso en calle Doctor Fidel Fernández,"Plaza de Toros, Granada",660,1.0,1,0,Primeros_pisos,3,71,0,0,0,1,0,0,0
+Alquiler de Piso en plaza de San Lázaro,"Plaza de Toros, Granada",800,1.0,1,0,Primeros_pisos,1,59,1,1,1,1,0,0,0
+Alquiler de Piso en calle Cristo de la Yedra,"San Ildefonso, Granada",850,1.0,1,0,Bajo,2,70,1,1,0,1,1,1,1
+Alquiler de Piso en calle Cristo de la Yedra,"San Ildefonso, Granada",850,1.0,1,0,Bajo,2,70,1,1,0,1,1,1,1
+"Alquiler de Piso en camino de Ronda, 32","Figares, Granada",900,1.0,1,0,Primeros_pisos,4,1,0,0,0,0,1,0,0
+"Alquiler de Piso en calle Melchor Almagro, 9","Gran Capitán, Granada",1080,1.0,2,0,Primeros_pisos,4,1,1,1,1,1,1,0,0
+Alquiler de Piso en avenida de América,"Zaidín, Granada",750,1.0,1,0,Ultimos_pisos,2,65,0,0,0,0,1,0,0
+"Alquiler de Piso en calle San Juan de Dios, 12","Gran Capitán, Granada",540,1.0,1,0,Primeros_pisos,1,55,1,0,0,1,1,0,0
+"Alquiler de Piso en Isla de la gomera, 4","Barrio de los Periodistas, Granada",747,1.0,2,0,Ultimos_pisos,3,99,0,0,1,0,0,0,0
+"Alquiler de Piso en Isla de la gomera, 4","Barrio de los Periodistas, Granada",695,1.0,2,0,Primeros_pisos,3,98,0,0,0,0,0,0,0
+"Alquiler de Piso en Isla de la gomera, 4","Barrio de los Periodistas, Granada",721,1.0,2,0,Primeros_pisos,3,99,0,0,1,0,0,0,0
+"Alquiler de Piso en Isla de la gomera, 4","Barrio de los Periodistas, Granada",721,1.0,2,0,Primeros_pisos,3,98,0,0,0,0,0,0,0
+"Alquiler de Piso en calle Aconcagua, 50","Bola de Oro, Granada",790,1.0,2,0,Primeros_pisos,2,67,1,0,1,1,1,1,0
+Alquiler de Piso en mercurio s/n,Maracena,700,0.0,1,0,Primeros_pisos,3,80,0,0,0,1,0,0,0
+Alquiler de Piso en plaza de Europa,"Barrio de los Periodistas, Granada",850,1.0,1,0,Ultimos_pisos,2,76,1,0,1,1,0,0,0
+"Alquiler de Piso en calle Bacaque, 2","Carretera de Granada-La Alcazaba, Alhendin",730,1.0,2,0,Ultimos_pisos,3,93,1,0,1,1,1,0,0
+Alquiler de Chalet adosado en Chile s/n,"San Francisco - El Chorrillo, Las Gabias",750,0.0,2,1,Muchas_plantas,3,1,1,1,0,1,0,0,0
+Alquiler de Ático en calle José Luis Pérez Pujadas,"Parque Lagos, Granada",1250,1.0,2,0,Ultimos_pisos,2,1,0,1,1,0,1,1,1
+"Alquiler de Dúplex en cuesta Corvales, 3",La Zubia,950,1.0,2,0,Primeros_pisos,2,85,1,1,1,1,1,0,0
+"Alquiler de Chalet pareado en calle Cañada Real, 14 -a","Aljomahima - Ermita, Las Gabias",750,0.0,2,0,Muchas_plantas,3,1,1,1,0,1,1,0,0
+Alquiler de Piso en calle Frascuelo,"Zona Parque de San Roque, Churriana de la Vega",880,1.0,2,0,Primeros_pisos,3,1,0,1,1,0,0,1,1
+Alquiler de Piso en calle Rey Abu Said,"Figares, Granada",820,1.0,2,0,Primeros_pisos,2,70,0,0,1,0,0,0,1
+Alquiler de Piso en calle Gran Vía de Colón,"Gran Vía, Granada",750,1.0,1,0,Primeros_pisos,1,60,1,1,1,1,1,0,0
+"Alquiler de Piso en calle Enriqueta Lozano, 15","Carrera de la Virgen - Paseo del Salón, Granada",1200,1.0,2,0,Primeros_pisos,3,1,0,0,0,1,0,0,0
+Alquiler de Piso en calle Emperatriz Eugenia,"Gran Capitán, Granada",1100,1.0,2,0,Primeros_pisos,4,1,0,1,1,1,1,0,0
+"Alquiler de Piso en avenida de Barcelona, 20","Zaidín, Granada",1000,0.0,2,0,Primeros_pisos,3,98,0,0,0,0,0,0,0
+"Alquiler de Piso en calle Pintor Zuloaga, 40","Figares, Granada",950,1.0,1,0,Ultimos_pisos,3,78,0,1,0,1,1,0,0
+"Alquiler de Piso en avenida de la Estación, 97",Atarfe,670,1.0,2,1,Bajo,3,96,1,0,1,1,0,0,0
+Alquiler de Piso en avenida de Madrid,"Plaza de Toros, Granada",1040,1.0,1,0,Primeros_pisos,4,92,0,1,1,1,1,0,0
+Alquiler de Piso en calle Ancha de Capuchinos,"San Ildefonso, Granada",1180,1.0,2,0,Primeros_pisos,4,1,0,1,0,1,0,0,0
+"Alquiler de Piso en avenida Agustina de Aragón, 2","Casco Historico, Churriana de la Vega",670,1.0,1,0,Muchas_plantas,2,83,1,0,0,0,0,0,0
+Alquiler de Piso en pasaje de Ardales,"Casería de Montijo, Granada",1480,0.0,2,0,Primeros_pisos,5,1,1,1,0,1,1,0,0
+Alquiler de Piso en avenida de Francisco Ayala,"Barrio de los Periodistas, Granada",920,1.0,2,0,Primeros_pisos,4,1,1,1,0,1,1,0,0
+Alquiler de Piso en avenida de Francisco Ayala,"Barrio de los Periodistas, Granada",920,1.0,2,0,Primeros_pisos,4,1,1,1,0,1,1,0,0
+Alquiler de Piso en avenida de Madrid,"Plaza de Toros, Granada",1040,1.0,1,0,Primeros_pisos,4,92,0,1,1,1,1,0,0
+Alquiler de Piso en avenida de Francisco Ayala,"Barrio de los Periodistas, Granada",920,1.0,2,0,Primeros_pisos,4,1,1,1,0,1,1,0,0
+Alquiler de Piso en calle Real de Cartuja,"San Ildefonso, Granada",990,0.0,1,0,Primeros_pisos,3,91,0,0,0,1,1,0,0
+Alquiler de Casa o chalet independiente en calle Lagartijillo,"La Cruz, Granada",950,0.0,1,0,Muchas_plantas,3,1,0,1,0,1,1,0,0
+Alquiler de Piso en calle Periodista Francisco Giles Jiménez,"Polígono Cartuja, Granada",1100,1.0,1,0,Ultimos_pisos,4,1,0,1,0,1,1,0,1
+Alquiler de Chalet adosado en camino de los Tramposos,Ogijares,950,0.0,3,1,Muchas_plantas,4,1,1,1,1,1,1,0,0
+Alquiler de Piso en Carrera de la Virgen - Paseo del Salón,"Realejo, Granada",900,0.0,1,0,Primeros_pisos,2,62,1,0,0,1,1,0,0
+Alquiler de Piso en Bola de Oro,Granada,700,1.0,2,0,Primeros_pisos,2,87,0,0,0,1,0,1,1
+Alquiler de Piso en calle Solarillo de Gracia s/n,"Recogidas, Granada",1200,1.0,2,0,Primeros_pisos,3,1,1,0,0,1,1,0,0
+"Alquiler de Piso en calle Alhóndiga, 20","Recogidas, Granada",1000,1.0,2,0,Primeros_pisos,4,1,0,0,0,1,1,0,0
+"Alquiler de Piso en calle Cerro del Caballo, 4","Bola de Oro, Granada",800,0.0,1,0,Bajo,1,50,0,0,0,1,0,0,0
+Alquiler de Piso en calle Cristo de la Yedra,"San Ildefonso, Granada",650,1.0,1,0,Bajo,1,45,1,1,0,1,1,0,0
+Alquiler de Ático en calle Veracruz,Ogijares,750,1.0,1,0,Primeros_pisos,2,94,1,1,1,1,0,0,0
+"Alquiler de Piso en avenida Federico Garía Lorca, 30","Barrio de los Periodistas, Granada",840,1.0,2,1,Primeros_pisos,2,73,0,1,1,0,0,1,0
+Alquiler de Piso en calle Gobernador Pedro Temboury,"Joaquina Eguaras, Granada",800,1.0,2,0,Primeros_pisos,3,92,1,0,0,1,1,0,0
+"Alquiler de Piso en avenida Federico Garía Lorca, 30","Barrio de los Periodistas, Granada",810,1.0,2,1,Primeros_pisos,2,78,0,1,1,0,0,1,0
+Alquiler de Piso en calle Mesones,"Catedral, Granada",850,0.0,1,0,Primeros_pisos,1,50,0,0,0,1,1,0,0
+"Alquiler de Piso en avenida Federico Garía Lorca, 30","Barrio de los Periodistas, Granada",940,1.0,2,1,Primeros_pisos,3,1,0,1,1,0,0,1,0
+"Alquiler de Piso en avenida Federico Garía Lorca, 30","Barrio de los Periodistas, Granada",830,1.0,1,1,Bajo,1,63,0,1,1,0,0,1,0
+"Alquiler de Piso en avenida Federico Garía Lorca, 30","Barrio de los Periodistas, Granada",950,1.0,2,1,Primeros_pisos,3,99,0,1,1,0,0,1,0
+Alquiler de Piso en calle Alcoholera,Atarfe,595,1.0,1,0,Bajo,1,40,0,1,0,0,1,1,1
+"Alquiler de Piso en avenida Federico Garía Lorca, 30","Barrio de los Periodistas, Granada",870,1.0,2,1,Primeros_pisos,2,73,0,1,1,0,0,1,0
+"Alquiler de Piso en avenida Federico Garía Lorca, 30","Barrio de los Periodistas, Granada",850,1.0,2,1,Primeros_pisos,2,73,0,1,1,0,0,1,0
+Alquiler de Piso en calle Gloria,"Albaicín, Granada",500,0.0,1,0,Bajo,1,43,1,1,0,1,0,0,0
+Alquiler de Piso en pasaje de Teba,"Casería de Montijo, Granada",990,1.0,3,0,Primeros_pisos,5,90,1,0,0,1,1,0,0
+Alquiler de Piso en calle Alcoholera,Atarfe,595,1.0,1,0,Bajo,1,40,0,1,0,0,1,1,1
+Alquiler de Piso en Maestro Cebrián,"Ronda - Arabial, Granada",1100,1.0,2,0,Primeros_pisos,4,1,0,1,1,1,0,0,0
+"Alquiler de Piso en avenida Federico Garía Lorca, 30","Barrio de los Periodistas, Granada",1100,1.0,2,1,Bajo,3,1,0,1,1,0,0,1,0
+"Alquiler de Piso en avenida Federico Garía Lorca, 30","Barrio de los Periodistas, Granada",950,1.0,2,1,Primeros_pisos,3,99,0,1,1,0,0,1,0
+"Alquiler de Piso en avenida Federico Garía Lorca, 30","Barrio de los Periodistas, Granada",940,1.0,2,1,Primeros_pisos,3,1,0,1,1,0,0,1,0
+Alquiler de Piso en camino de los Ogijares,La Zubia,650,1.0,2,0,Primeros_pisos,2,68,0,0,1,0,0,0,0
+Alquiler de Piso en calle Nicuesa,"Carrera de la Virgen - Paseo del Salón, Granada",850,1.0,1,0,Primeros_pisos,3,95,0,1,0,1,0,0,0
+Alquiler de Piso en calle María de Maeztu,"Parque Nueva Granada, Granada",700,1.0,2,0,Primeros_pisos,3,1,0,0,1,1,0,1,0
+Alquiler de Piso en calle Alejandro Dumas,"Polígono Cartuja, Granada",700,1.0,1,0,Ultimos_pisos,3,92,0,0,0,1,0,0,0
+"Alquiler de Estudio en Pintor Lopez Mezquita, 14","Gran Capitán, Granada",400,1.0,1,0,Ultimos_pisos,1,32,1,0,0,1,0,0,0
+Alquiler de Piso en calle Pedro Antonio de Alarcón,"Ronda - Arabial, Granada",875,1.0,2,0,Ultimos_pisos,4,1,0,1,0,0,1,0,0
+"Alquiler de Piso en calle Rosa Chacel, 6","Parque Nueva Granada, Granada",526,1.0,1,1,Ultimos_pisos,1,53,1,1,1,0,0,1,1
+"Alquiler de Piso en calle Acera del Darro, 30","Carrera de la Virgen - Paseo del Salón, Granada",1800,1.0,2,0,Muchas_plantas,3,1,1,1,0,0,1,0,0
+"Alquiler de Chalet adosado en calle Avellano, 22",Cajar,990,0.0,3,1,Muchas_plantas,4,2,1,1,1,1,1,0,0
+Alquiler de Piso en avenida de Cadiz,"Zaidín, Granada",850,1.0,2,0,Ultimos_pisos,2,91,1,1,1,1,1,0,1
+Alquiler de Chalet adosado en Marie Curie,"San Miguel, Armilla",990,0.0,3,1,Muchas_plantas,3,1,1,0,1,1,1,0,0
+"Alquiler de Piso en calle la Iruela, 45","Ctra Sierra - Acceso Nuevo Alhambra, Granada",700,0.0,1,0,Primeros_pisos,1,65,0,1,0,1,1,1,0
+Alquiler de Estudio en calle Nuestra Señora de la Salud s/n,"Los Pajaritos, Granada",525,1.0,1,0,Bajo,1,40,0,0,0,1,1,0,0
+Alquiler de Piso en calle Ancha de Capuchinos,"San Ildefonso, Granada",775,1.0,1,0,Primeros_pisos,3,82,0,1,0,0,1,0,0
+Alquiler de Piso en calle Agustina de Aragón,"Figares, Granada",850,1.0,1,0,Ultimos_pisos,3,75,0,1,0,0,1,0,0
+Alquiler de Ático en calle Andalucía,Maracena,775,0.0,1,0,Primeros_pisos,3,90,1,0,0,1,1,0,0
+Alquiler de Casa o chalet independiente en plaza Puntal de Vacares,"Bola de Oro, Granada",690,0.0,1,0,Muchas_plantas,2,40,0,0,0,0,1,0,0
+Alquiler de Estudio en calle Ribera del Beiro,"San Francisco Javier, Granada",525,0.0,1,0,Bajo,1,35,0,0,0,1,0,0,0
+"Alquiler de Ático en Arabial, 16","Figares, Granada",1000,1.0,1,0,Primeros_pisos,1,1,1,1,0,0,1,0,0
+Alquiler de Piso en Ctra Sierra - Acceso Nuevo Alhambra,Granada,800,0.0,1,0,Primeros_pisos,2,70,1,0,0,1,0,0,0
+Alquiler de Estudio en avenida Avenue Avenue Doctor Oloriz,"Plaza de Toros, Granada",525,0.0,1,0,Bajo,1,32,0,0,0,1,0,0,0
+Alquiler de Piso en paseo del Emperador Carlos V,"Zaidín, Granada",800,1.0,2,0,Bajo,3,90,1,0,0,1,1,0,0
+"Alquiler de Ático en calle Bacaque, 2","Carretera de Granada-La Alcazaba, Alhendin",730,1.0,2,1,Ultimos_pisos,3,93,0,0,1,1,1,1,1
+Alquiler de Piso en calle Cerro de los Machos,"Bola de Oro, Granada",700,1.0,2,0,Bajo,2,89,1,0,1,1,0,1,0
+"Alquiler de Piso en avenida de Cervantes, 10","Cervantes-Palacio de Deportes, Granada",900,1.0,1,0,Primeros_pisos,3,1,0,1,0,1,0,0,0
+"Alquiler de Piso en calle Granja, 38",La Zubia,580,1.0,1,0,Bajo,2,62,0,0,1,0,0,0,0
+Alquiler de Piso en calle Montereros,"Catedral, Granada",1100,1.0,2,0,Primeros_pisos,2,80,1,0,0,1,1,0,0
+Alquiler de Piso en calle Sol,"Ronda - Arabial, Granada",1200,1.0,2,0,Ultimos_pisos,3,90,0,1,0,1,0,0,0
+Alquiler de Piso en calle Sócrates,"Ronda - Arabial, Granada",1090,1.0,1,0,Primeros_pisos,3,85,0,0,0,0,1,0,0
+Alquiler de Ático en calle periodista rafael gago palomo s/n,"Barrio de los Periodistas, Granada",900,1.0,2,0,Ultimos_pisos,3,1,1,1,1,1,1,1,0
+"Alquiler de Piso en calle Obispo Hurtado, 15","Recogidas, Granada",750,1.0,2,0,Primeros_pisos,2,95,1,0,0,1,0,0,0
+"Alquiler de Piso en camino de los Ogijares, 6",La Zubia,650,1.0,2,0,Primeros_pisos,2,90,0,0,0,1,1,0,0
+"Alquiler de Piso en camino de Ronda, 180","Ronda - Arabial, Granada",950,1.0,1,0,Primeros_pisos,4,1,1,1,0,1,0,0,0
+Alquiler de Piso en C/montalban,"Jardín Botánico, Granada",1200,1.0,2,0,Primeros_pisos,4,1,0,1,0,1,0,0,0
+Alquiler de Ático en zafra s/n,"Albaicín, Granada",650,0.0,1,0,Primeros_pisos,1,50,0,0,0,0,0,0,0
+Alquiler de Piso en calle Maestro Noguerol,Monachil,585,1.0,1,0,Primeros_pisos,1,55,1,0,0,0,1,0,0
+"Alquiler de Piso en calle Aguado, 11","San Matías - Pavaneras, Granada",900,0.0,1,0,Muchas_plantas,2,67,0,0,0,0,0,0,0
+"Alquiler de Piso en plaza de Cuchilleros, 1","Molinos - Santiago, Granada",700,0.0,1,0,Ultimos_pisos,2,70,1,0,0,1,0,0,0
+Alquiler de Piso en camino de los Ogijares,La Zubia,650,1.0,2,0,Primeros_pisos,2,74,0,0,0,0,0,0,0
+Alquiler de Piso en calle Ángel,"Recogidas, Granada",675,0.0,1,0,Primeros_pisos,1,60,1,1,0,1,0,0,0
+Alquiler de Piso en Santiago Lozano,"Campo Verde, Granada",700,1.0,1,0,Ultimos_pisos,3,1,0,1,0,1,0,0,0
+Alquiler de Piso en calle Palencia,"Zaidín, Granada",795,1.0,2,0,Ultimos_pisos,3,89,0,1,0,1,0,0,0
+Alquiler de Piso en calle Sirena s/n,"La Chana, Granada",1200,1.0,2,1,Primeros_pisos,4,1,1,1,0,1,1,0,0
+Alquiler de Piso en calle Carreterías,Maracena,800,0.0,1,0,Primeros_pisos,3,86,0,0,0,0,0,0,0
+"Alquiler de Piso en Severo Ochoa, 11","Gran Capitán, Granada",1200,1.0,2,0,Primeros_pisos,4,1,1,0,0,1,1,0,0
+"Alquiler de Chalet pareado en calle Río Monachil, Ogíjares, 9",Ogijares,1300,0.0,3,1,Muchas_plantas,3,2,0,1,1,1,1,1,0
+Alquiler de Ático en calle Poniente,"Zona Poniente, Armilla",900,1.0,1,1,Primeros_pisos,2,75,0,1,1,1,1,0,0
+Alquiler de Piso en camino de Ronda,"Los Pajaritos, Granada",595,1.0,1,0,Primeros_pisos,1,59,0,0,1,0,1,0,0
+"Alquiler de Chalet adosado en calle Avellano, 24",Cajar,990,0.0,3,1,Muchas_plantas,4,2,1,1,1,1,1,0,0
+Alquiler de Piso en Rosaleda - Juventud,"Ronda - Arabial, Granada",900,1.0,2,1,Primeros_pisos,2,75,1,1,1,1,1,1,0
+Alquiler de Piso en calle Henríquez de Jorquera,"Polígono Cartuja, Granada",800,1.0,1,0,Ultimos_pisos,3,90,1,1,0,0,0,0,0
+Alquiler de Piso en Santa Fe,"Área de Granada, Granada",650,0.0,1,0,Primeros_pisos,3,88,0,0,0,0,0,0,0
+"Alquiler de Piso en plaza de las Descalzas, 1","San Matías - Pavaneras, Granada",1100,1.0,1,0,Ultimos_pisos,2,80,1,0,1,1,1,0,0
+Alquiler de Piso en calle Solarillo de Gracia,"Recogidas, Granada",1200,1.0,2,0,Primeros_pisos,3,1,1,0,0,1,1,0,0
+Alquiler de Piso en pasaje Algaba,"Casería de Montijo, Granada",1480,0.0,2,0,Primeros_pisos,5,1,1,1,0,1,1,0,1
+Alquiler de Piso en paseo de las Palmas,"Ctra Sierra - Acceso Nuevo Alhambra, Granada",700,1.0,1,0,Primeros_pisos,1,58,1,1,1,1,1,1,0
+"Alquiler de Piso en calle Palencia, 10","Zaidín, Granada",1050,0.0,1,0,Primeros_pisos,3,76,0,0,0,1,0,0,0
+Alquiler de Piso en calle Real de Cartuja,"San Ildefonso, Granada",990,0.0,1,0,Primeros_pisos,3,80,1,0,0,1,1,0,0
+Alquiler de Piso en ronda de Alfareros,"Casería de Montijo, Granada",1200,0.0,2,1,Primeros_pisos,4,1,1,0,0,1,1,0,1
+Alquiler de Piso en calle Cañaveral,"Ronda - Arabial, Granada",1400,1.0,1,0,Ultimos_pisos,4,1,0,0,0,1,0,0,0
+Alquiler de Piso en calle San Rafael,Huétor-Vega,690,0.0,1,0,Bajo,3,86,0,1,0,0,1,0,0
+"Alquiler de Piso en avenida de las Fuerzas Armadas, 1","Los Pajaritos, Granada",850,1.0,2,0,Primeros_pisos,3,65,1,0,0,1,1,0,0
+Alquiler de Piso en calle Doctor Marañón,"Plaza de Toros, Granada",740,1.0,1,0,Primeros_pisos,2,75,0,1,0,1,1,0,0
+Alquiler de Caserón en calle San Andrés,"Gran Vía, Granada",890,0.0,2,0,Muchas_plantas,4,1,1,0,0,0,0,0,0
+"Alquiler de Chalet adosado en calle San Juan de los Reyes, 91","Albaicín, Granada",1400,0.0,2,0,Muchas_plantas,3,1,0,1,1,0,0,0,0
+"Alquiler de Chalet adosado en calle Lagartijillo, 16","La Cruz, Granada",950,0.0,1,0,Muchas_plantas,3,1,1,1,0,1,0,0,0
+Alquiler de Piso en calle Ventanilla,"Gran Capitán, Granada",545,0.0,1,0,Primeros_pisos,2,50,0,1,0,1,0,0,0
+"Alquiler de Piso en calle Pedro Antonio de Alarcón, 77","Ronda - Arabial, Granada",850,1.0,1,0,Ultimos_pisos,3,1,1,0,0,1,1,0,0
+"Alquiler de Chalet adosado en calle Santa Herminia, 8","San Francisco Javier, Granada",1350,0.0,2,0,Muchas_plantas,4,85,0,1,0,1,1,0,0
+Alquiler de Piso en calle Estepona,"Carrera de la Virgen - Paseo del Salón, Granada",690,0.0,1,0,Primeros_pisos,1,60,0,0,0,1,0,0,0
+Alquiler de Piso en calle Recogidas,"Figares, Granada",1200,1.0,2,1,Ultimos_pisos,3,1,1,0,0,1,1,0,0
+Alquiler de Piso en calle Doctor Marañón,"Plaza de Toros, Granada",900,1.0,1,0,Ultimos_pisos,3,80,0,0,0,1,0,0,0
+Alquiler de Ático en calle Santa Teresa,"Recogidas, Granada",1600,0.0,2,0,Primeros_pisos,5,1,0,1,0,1,0,0,0
+Alquiler de Piso en calle Cañaveral,"Ronda - Arabial, Granada",1400,1.0,1,0,Ultimos_pisos,4,1,0,1,0,1,0,0,0
+Alquiler de Dúplex en San Francisco,Cajar,500,1.0,1,0,Bajo,1,80,0,0,1,1,1,0,0
+Alquiler de Piso en calle Gloria,"Albaicín, Granada",500,0.0,1,0,Bajo,1,35,0,0,0,0,0,0,0
+Alquiler de Piso en camino de Ronda,"Ronda - Arabial, Granada",1050,1.0,2,0,Bajo,3,1,0,0,0,1,1,0,0
+Alquiler de Piso en calle Poeta Manuel de Góngora,"Cervantes-Palacio de Deportes, Granada",1000,1.0,2,0,Ultimos_pisos,4,1,1,1,0,1,1,0,0
+Alquiler de Piso en calle Matilde Cantos,"Parque Nueva Granada, Granada",750,1.0,2,0,Primeros_pisos,3,90,0,0,0,1,0,1,0
+Alquiler de Piso en calle Doctor Marañón,"Plaza de Toros, Granada",900,1.0,1,0,Ultimos_pisos,3,80,0,0,0,1,0,0,0
+Alquiler de Piso en camino de Ronda,"Ronda - Arabial, Granada",1050,1.0,2,0,Bajo,3,1,0,0,0,1,1,0,0
+Alquiler de Piso en calle Jardines,"Recogidas, Granada",800,0.0,1,0,Primeros_pisos,2,65,1,0,0,1,1,0,0
+Alquiler de Piso en plaza de San Lázaro,"Plaza de Toros, Granada",1100,1.0,2,0,Primeros_pisos,2,1,0,1,1,1,0,0,0
+Alquiler de Dúplex en San Francisco,Cajar,500,1.0,1,0,Bajo,1,80,0,0,1,1,1,0,0
+Alquiler de Piso en calle Cañaveral,"Ronda - Arabial, Granada",1400,1.0,1,0,Ultimos_pisos,4,1,0,1,0,1,0,0,0
+"Alquiler de Piso en calle Doctor López Font, 19","Figares, Granada",1100,1.0,2,0,Primeros_pisos,2,1,1,1,1,1,1,1,1
+"Alquiler de Piso en calle Valle Gran Rey, 13","Barrio de los Periodistas, Granada",1200,1.0,2,0,Muchas_plantas,3,1,1,1,1,0,0,1,0
+Alquiler de Piso en calle Poeta Manuel de Góngora,"Cervantes-Palacio de Deportes, Granada",1000,1.0,2,0,Ultimos_pisos,4,1,1,1,0,1,1,0,0
+Alquiler de Piso en calle Cristo de la Yedra,"San Ildefonso, Granada",1180,1.0,2,0,Primeros_pisos,4,1,0,1,0,1,0,0,0
+"Alquiler de Piso en calle Periodista José Fernández Martínez, 3","Barrio de los Periodistas, Granada",1000,1.0,2,0,Ultimos_pisos,3,1,1,1,1,1,1,1,1
+Alquiler de Ático en Ronda - Arabial,"Ronda - Arabial, Granada",1600,1.0,2,0,Ultimos_pisos,3,1,1,1,0,1,1,0,0
+Alquiler de Piso en Zona Poniente,Armilla,1200,1.0,2,0,Primeros_pisos,3,1,1,1,1,1,1,1,0
+Alquiler de Piso en calle Sol,"Ronda - Arabial, Granada",1200,1.0,2,0,Ultimos_pisos,3,1,0,0,0,1,0,0,0
+Alquiler de Chalet pareado en calle Pernaleros Bajo,"San Ildefonso, Granada",1150,0.0,2,0,Muchas_plantas,3,1,0,0,0,1,1,0,0
+"Alquiler de Piso en avenida de la Ilustración, 89","Campus de la Salud, Granada",900,1.0,2,0,Primeros_pisos,2,1,1,1,1,1,0,1,1
+Alquiler de Piso en Figares,Granada,1000,1.0,2,0,Primeros_pisos,3,1,1,0,0,1,1,0,0
+Alquiler de Piso en San Francisco Javier,Granada,1300,1.0,2,0,Ultimos_pisos,3,1,0,0,0,1,0,0,0
+Alquiler de Piso en calle Goya,"Gran Capitán, Granada",900,1.0,2,0,Bajo,3,1,0,0,0,1,0,0,0
+"Alquiler de Estudio en avenida de la Ilustración, 101","Campus de la Salud, Granada",800,1.0,1,0,Primeros_pisos,1,47,0,1,1,1,1,1,0
+"Alquiler de Ático en calle Profesor Agustín Escribano, 1","Figares, Granada",1200,1.0,2,0,Ultimos_pisos,4,1,1,0,1,1,1,0,1
+Alquiler de Chalet adosado en San Miguel,Armilla,1200,0.0,3,0,Muchas_plantas,4,2,1,1,1,1,1,0,0
+Alquiler de Piso en plaza de San Lázaro,"Plaza de Toros, Granada",1250,1.0,2,1,Primeros_pisos,3,1,1,0,1,1,1,0,0
+Alquiler de Piso en Carrera de la Virgen - Paseo del Salón,"Realejo, Granada",900,1.0,2,0,Primeros_pisos,3,82,0,0,0,1,1,0,0
+"Alquiler de Chalet pareado en Río Monachil, Ogíjares",Ogijares,1300,0.0,3,1,Muchas_plantas,3,2,0,1,1,1,1,1,0
+"Alquiler de Chalet adosado en calle Gonzalo Torrente Ballester, 8","San Miguel, Armilla",1300,0.0,3,1,Muchas_plantas,3,1,1,1,1,1,1,0,0
+Alquiler de Casa o chalet independiente en calle San Nicolás,"Zona Parque de San Roque, Churriana de la Vega",720,0.0,1,0,Muchas_plantas,2,90,0,1,0,0,1,0,0
+Alquiler de Piso en calle Horno de Haza,"Jardín Botánico, Granada",695,1.0,1,0,Primeros_pisos,1,47,0,0,0,1,1,0,0
+Alquiler de Chalet adosado en San Miguel,Armilla,1200,0.0,3,0,Muchas_plantas,4,2,1,1,1,1,1,0,0
+Alquiler de Piso en calle Mercurio s/n,Maracena,800,0.0,1,0,Bajo,2,81,1,0,0,1,1,0,0
+Alquiler de Piso en Figares,Granada,990,1.0,2,0,Primeros_pisos,3,1,0,1,0,1,0,0,0
+"Alquiler de Piso en Reyes Católicos, 20","San Matías - Pavaneras, Granada",995,0.0,1,1,Primeros_pisos,3,90,0,0,0,1,1,0,0
+"Alquiler de Piso en calle San Juan de Dios, 17","Gran Capitán, Granada",1100,1.0,2,0,Primeros_pisos,4,1,0,0,0,1,0,0,0
+Alquiler de Piso en San Ildefonso,Granada,1950,1.0,3,0,Ultimos_pisos,3,2,0,1,0,1,1,1,1
+"Alquiler de Piso en calle Pedro Antonio de Alarcón, 40","Recogidas, Granada",1100,1.0,2,0,Ultimos_pisos,2,1,1,1,0,1,1,0,0
+Alquiler de Piso en Bola de Oro,Granada,825,0.0,2,0,Bajo,2,1,0,0,1,1,1,1,1
+Alquiler de Piso en calle Gran Vía de Colón,"Gran Vía, Granada",770,1.0,1,0,Muchas_plantas,1,60,0,0,1,1,0,0,0
+"Alquiler de Piso en Arabial, 117","Ronda - Arabial, Granada",1100,1.0,2,0,Ultimos_pisos,4,1,0,1,0,1,0,0,0
+Alquiler de Piso en calle Almireceros,"Gran Vía, Granada",740,1.0,1,0,Primeros_pisos,1,87,1,1,0,0,1,0,0
+Alquiler de Piso en Figares,Granada,1300,1.0,2,0,Ultimos_pisos,4,1,1,0,0,1,0,0,0
+"Alquiler de Piso en calle carreterias, 4",Maracena,680,0.0,1,0,Primeros_pisos,3,86,0,1,0,0,0,0,0
+Alquiler de Piso en calle la Cortijuela,"Ctra Sierra - Acceso Nuevo Alhambra, Granada",1100,1.0,2,0,Ultimos_pisos,3,1,1,0,1,1,0,0,0
+Alquiler de Chalet pareado en calle San Leonardo s/n,La Zubia,1100,0.0,2,1,Muchas_plantas,3,1,1,1,1,0,1,0,0
+"Alquiler de Piso en calle Rosa Chacel, 4","Parque Nueva Granada, Granada",504,1.0,1,1,Primeros_pisos,1,50,1,0,1,0,0,1,1
+Alquiler de Piso en camino de Ronda,"Ronda - Arabial, Granada",840,1.0,1,0,Ultimos_pisos,3,1,0,1,0,1,0,0,0
+Alquiler de Piso en calle Alejandro Dumas,"Polígono Cartuja, Granada",720,1.0,1,0,Ultimos_pisos,3,95,0,1,0,1,0,0,1
+"Alquiler de Piso en calle Honda del Realejo, 30","Molinos - Santiago, Granada",1200,0.0,2,0,Bajo,3,1,1,1,0,1,0,0,0
+Alquiler de Piso en Urbanizacion Carmenes de la Alberzana,"Albaicín, Granada",560,0.0,1,0,Bajo,1,31,0,0,0,0,0,0,0
+Alquiler de Piso en calle Sol,"Gran Capitán, Granada",1100,1.0,2,0,Ultimos_pisos,3,95,1,1,0,0,0,0,0
+Alquiler de Ático en calle Nueva,"Zona Ayuntamiento, Alhendin",700,1.0,2,0,Primeros_pisos,3,1,0,1,0,1,1,0,0
+Alquiler de Piso en Babolé,"Albaicín, Granada",800,0.0,1,0,Primeros_pisos,2,75,1,1,0,1,0,0,0
+"Alquiler de Piso en calle la Palmita, 14","Barrio de los Periodistas, Granada",750,1.0,2,1,Ultimos_pisos,3,1,0,0,1,1,0,0,0
+Alquiler de Piso en calle Recogidas,"Recogidas, Granada",950,1.0,2,0,Primeros_pisos,3,1,1,1,1,1,0,0,0
+Alquiler de Piso en calle Tortola,"Los Pajaritos, Granada",700,1.0,1,0,Primeros_pisos,1,50,0,0,1,0,1,0,0
+Alquiler de Piso en San Juan de los Reyes,"Albaicín, Granada",600,0.0,1,0,Primeros_pisos,1,55,0,0,0,0,0,0,0
+"Alquiler de Chalet adosado en calle Río Monachil, Ogíjares, 9",Ogijares,1300,0.0,3,1,Muchas_plantas,3,2,1,1,1,1,1,1,0
+Alquiler de Piso en Zaidín,Granada,550,0.0,1,0,Ultimos_pisos,3,90,0,1,0,0,0,0,0
+"Alquiler de Piso en calle Navas, 28","San Matías - Pavaneras, Granada",1100,1.0,1,0,Primeros_pisos,2,75,0,0,0,1,1,0,0
+"Alquiler de Piso en carretera de Málaga, 115","La Chana, Granada",1000,1.0,2,0,Primeros_pisos,4,1,1,1,0,1,0,0,0
+Alquiler de Piso en calle Tortola,"Los Pajaritos, Granada",700,1.0,1,0,Primeros_pisos,1,50,0,0,1,0,1,0,0
+"Alquiler de Piso en calle Tórtola, 37","Los Pajaritos, Granada",1200,1.0,2,0,Primeros_pisos,4,96,0,0,0,0,0,0,0
+"Alquiler de Piso en calle Limón, 3","Albaicín, Granada",650,0.0,1,0,Primeros_pisos,1,50,0,0,0,1,0,0,0
+"Alquiler de Piso en calle Henríquez de Jorquera, 10","Polígono Cartuja, Granada",850,1.0,2,0,Primeros_pisos,4,1,0,1,0,1,0,0,0
+Alquiler de Piso en avenida de Madrid,"Plaza de Toros, Granada",1000,1.0,1,0,Primeros_pisos,4,81,1,0,0,0,0,0,0
+Alquiler de Piso en calle Verónica de la Virgen s/n,"Figares, Granada",950,1.0,1,0,Primeros_pisos,2,60,1,0,0,0,1,0,0
+Alquiler de Piso en calle Recogidas,"Recogidas, Granada",950,1.0,2,0,Primeros_pisos,3,1,1,1,1,1,0,0,0
+"Alquiler de Piso en calle Ribera del Beiro, 43","San Francisco Javier, Granada",1200,1.0,2,0,Primeros_pisos,4,1,1,1,0,0,1,1,1
+"Alquiler de Piso en calle Recogidas, 9","Figares, Granada",1100,1.0,1,0,Primeros_pisos,3,93,0,0,0,1,1,0,0
+Alquiler de Piso en calle Jardines,"Recogidas, Granada",650,0.0,1,0,Primeros_pisos,1,45,1,0,0,1,1,0,0
+"Alquiler de Piso en plaza Poeta Garcilaso de la Vega, 10","Joaquina Eguaras, Granada",800,1.0,1,0,Ultimos_pisos,3,95,1,1,0,1,1,0,0
+"Alquiler de Piso en calle Horno Espadero, 16","Figares, Granada",1200,1.0,2,0,Primeros_pisos,4,1,1,0,0,1,1,0,0
+"Alquiler de Piso en calle Don Emilio Durán Durán, 4","Plaza de Toros, Granada",850,1.0,1,0,Primeros_pisos,1,65,0,0,1,1,1,0,0
+Alquiler de Piso en avenida Rafael Leyva Loro,Atarfe,650,1.0,1,1,Primeros_pisos,2,70,1,1,1,1,1,1,0
+"Alquiler de Piso en puente del Carbón, 1","San Matías - Pavaneras, Granada",890,0.0,1,0,Primeros_pisos,3,90,0,0,0,0,0,0,0
+"Alquiler de Piso en juan pablo ii, 2","La Cruz, Granada",1200,1.0,3,0,Ultimos_pisos,4,1,1,1,0,0,0,0,0
+Alquiler de Piso en calle Pedro Antonio de Alarcón,"Figares, Granada",1380,1.0,2,0,Ultimos_pisos,4,1,1,1,0,1,0,0,0
+Alquiler de Piso en calle Solarillo de Gracia,"Recogidas, Granada",1600,1.0,2,0,Ultimos_pisos,5,2,0,1,0,1,0,0,0
+Alquiler de Piso en Ronda - Arabial,"Ronda - Arabial, Granada",1600,1.0,2,0,Ultimos_pisos,4,1,0,0,0,0,1,0,0
+"Alquiler de Estudio en Placeta del Hospicio Viejo, s/n, 1","Molinos - Santiago, Granada",700,0.0,1,0,Bajo,1,30,1,0,0,0,0,0,0
+Alquiler de Piso en Gran Capitán,"Centro, Granada",700,0.0,1,0,Primeros_pisos,2,75,0,0,0,0,0,0,0
+"Alquiler de Chalet adosado en calle Pilar Miró, 20","San Miguel, Armilla",1000,0.0,3,1,Muchas_plantas,3,1,0,0,1,1,0,0,0
+Alquiler de Piso en avenida de Madrid,"Plaza de Toros, Granada",1040,1.0,1,0,Primeros_pisos,4,1,0,1,0,1,1,0,0
+Alquiler de Piso en avenida Rafael Leyva Loro,Atarfe,750,1.0,2,1,Primeros_pisos,2,70,1,1,1,1,1,1,0
+"Alquiler de Ático en carril del Picón, 8","Jardín Botánico, Granada",870,1.0,2,0,Ultimos_pisos,2,80,0,0,0,1,1,0,0
+Alquiler de Piso en avenida Divina Pastora,"San Ildefonso, Granada",1850,1.0,3,0,Ultimos_pisos,3,2,1,0,1,1,1,1,1
+"Alquiler de Ático en carril del Picón, 8","Jardín Botánico, Granada",870,1.0,2,0,Ultimos_pisos,2,80,0,0,0,1,1,0,0
+Alquiler de Piso en avenida de Madrid,"Plaza de Toros, Granada",1040,1.0,1,0,Primeros_pisos,4,1,0,1,0,1,1,0,0
+"Alquiler de Piso en avenida blas de otero, 13",Maracena,960,1.0,1,0,Ultimos_pisos,3,90,1,0,0,0,0,0,0
+Alquiler de Chalet adosado en calle Miguel Valle - Tendero,Jun,1200,0.0,3,0,Muchas_plantas,4,2,1,1,1,1,1,0,0
+Alquiler de Piso en avenida Rafael Leyva Loro,Atarfe,750,1.0,2,1,Primeros_pisos,2,70,1,1,1,1,1,1,0
+"Alquiler de Chalet adosado en calle Pilar Miró, 20","San Miguel, Armilla",1000,0.0,3,1,Muchas_plantas,3,1,0,0,1,1,0,0,0
+Alquiler de Piso en calle Ramón y Cajal,"Rosaleda - Juventud, Granada",900,1.0,2,0,Primeros_pisos,4,1,1,0,1,1,0,1,0
+Alquiler de Piso en Gran Capitán,"Centro, Granada",700,0.0,1,0,Primeros_pisos,2,75,0,0,0,0,0,0,0
+Alquiler de Ático en avenida Rafael Leyva Loro,Atarfe,750,1.0,2,1,Primeros_pisos,2,80,1,1,1,1,1,1,0
+Alquiler de Piso en calle Ribera del Beiro,"La Cruz, Granada",1200,1.0,2,1,Primeros_pisos,3,1,1,0,1,1,1,0,1
+"Alquiler de Piso en puente del Carbón, 1","San Matías - Pavaneras, Granada",890,0.0,1,0,Primeros_pisos,3,90,0,0,0,0,0,0,0
+"Alquiler de Piso en Placeta de los Negros, 2","Albaicín, Granada",850,0.0,1,0,Primeros_pisos,1,42,1,0,0,0,0,0,0
+"Alquiler de Piso en San Miguel, 7","Zona Poniente, Armilla",1280,1.0,2,1,Bajo,3,90,1,0,1,1,1,1,1
+Alquiler de Piso en avenida de Cervantes,"Cervantes-Palacio de Deportes, Granada",800,1.0,1,0,Ultimos_pisos,3,91,1,0,0,1,1,0,0
+"Alquiler de Chalet pareado en calle Cadiz, 9",Ogijares,1200,0.0,3,1,Muchas_plantas,3,2,1,1,1,1,0,0,0
+Alquiler de Piso en calle Hermigua,"Barrio de los Periodistas, Granada",1000,1.0,2,0,Ultimos_pisos,2,80,1,1,1,1,1,1,1
+"Alquiler de Piso en calle Obispo Hurtado, 6","Jardín Botánico, Granada",800,1.0,1,0,Primeros_pisos,3,85,0,1,1,1,0,0,0
+Alquiler de Piso en avenida Rafael Leyva Loro,Atarfe,680,1.0,2,1,Primeros_pisos,2,64,1,1,1,1,1,1,0
+Alquiler de Piso en calle Solarillo de Gracia,"Recogidas, Granada",1200,1.0,2,0,Ultimos_pisos,3,1,0,0,0,1,0,0,0
+"Alquiler de Piso en camino de ronda, 55","Figares, Granada",1500,1.0,2,0,Primeros_pisos,5,1,1,1,0,1,1,0,1
+Alquiler de Piso en camino de Ronda,"Ronda - Arabial, Granada",1200,1.0,1,0,Primeros_pisos,4,1,1,0,0,0,0,0,0
+Alquiler de Piso en calle Calicasas,"Barrio de los Periodistas, Granada",850,1.0,2,0,Primeros_pisos,2,1,1,0,1,1,1,0,0
+Alquiler de Piso en calle Varela,"San Matías - Pavaneras, Granada",690,1.0,1,0,Primeros_pisos,1,56,1,0,0,1,1,0,0
+"Alquiler de Piso en calle Doctor Pareja Yébenes, 7","Plaza de Toros, Granada",1400,1.0,2,0,Primeros_pisos,4,1,1,0,0,1,0,0,0
+Alquiler de Piso en calle Goya,"Gran Capitán, Granada",900,1.0,2,0,Primeros_pisos,3,1,0,0,0,0,1,0,0
+Alquiler de Piso en avenida Rafael Leyva Loro,Atarfe,700,1.0,2,1,Primeros_pisos,2,70,0,0,1,1,1,1,0
+"Alquiler de Piso en calle Aconcagua, 16","Bola de Oro, Granada",850,1.0,2,1,Primeros_pisos,2,93,1,1,1,1,1,1,1
+Alquiler de Piso en avenida de Madrid,"San Ildefonso, Granada",1040,1.0,1,0,Primeros_pisos,4,1,0,0,0,1,1,0,0
+"Alquiler de Piso en calle Aconcagua, 18","Bola de Oro, Granada",1100,1.0,2,1,Primeros_pisos,3,1,1,1,1,1,1,1,1
+"Alquiler de Piso en calle Cañaveral, 10","Ronda - Arabial, Granada",1400,1.0,1,0,Ultimos_pisos,4,1,0,1,0,1,0,0,0
+"Alquiler de Piso en calle Aconcagua, 16","Bola de Oro, Granada",850,1.0,2,1,Primeros_pisos,2,93,1,1,1,1,1,1,1
+Alquiler de Piso en Aljomahima - Ermita,Las Gabias,600,1.0,1,0,Bajo,2,88,0,0,1,1,1,1,0
+Alquiler de Piso en Casería de Montijo,"Norte, Granada",1480,1.0,2,1,Ultimos_pisos,5,1,0,0,1,0,1,0,0
+Alquiler de Piso en calle San Jerónimo,"Catedral, Granada",850,1.0,2,0,Primeros_pisos,3,1,0,0,0,0,1,0,0
+Alquiler de Piso en San Miguel,Armilla,1150,1.0,2,1,Primeros_pisos,3,85,1,1,1,1,0,1,0
+"Alquiler de Piso en calle Sol, 22","Ronda - Arabial, Granada",975,1.0,1,0,Ultimos_pisos,3,91,1,1,0,1,1,0,0
+Alquiler de Ático en calle San Pablo s/n,"San Francisco Javier, Granada",680,1.0,1,0,Ultimos_pisos,1,60,0,0,0,1,1,0,0
+"Alquiler de Piso en camino de Ronda, 134","Ronda - Arabial, Granada",860,1.0,1,0,Ultimos_pisos,3,1,1,0,0,1,0,0,0
+Alquiler de Piso en avenida Divina Pastora,"San Ildefonso, Granada",800,1.0,1,0,Ultimos_pisos,2,75,1,1,1,1,0,1,1
+Alquiler de Piso en calle Doctor García y García de Castro,"La Chana, Granada",820,0.0,1,0,Primeros_pisos,3,70,0,0,0,1,1,0,0
+Alquiler de Casa o chalet independiente en Albaicín,Granada,1550,0.0,2,0,Muchas_plantas,4,2,0,1,1,1,1,1,0
+Alquiler de Piso en calle Santa Águeda,"San Francisco Javier, Granada",1100,0.0,1,0,Primeros_pisos,3,1,0,1,0,1,1,0,0
+Alquiler de Piso en plaza Parrilla,"Casco Historico, Churriana de la Vega",850,0.0,1,0,Primeros_pisos,2,84,0,0,0,0,0,0,0
+Alquiler de Piso en Figares,Granada,800,1.0,2,0,Ultimos_pisos,3,1,0,0,0,1,1,0,0
+Alquiler de Ático en puente de la Virgen s/n,"Carrera de la Virgen - Paseo del Salón, Granada",780,1.0,1,0,Ultimos_pisos,1,50,1,0,0,0,1,0,0
+Alquiler de Piso en Junto Mesones,"Catedral, Granada",800,1.0,1,0,Primeros_pisos,2,70,1,0,0,1,1,0,0
+Alquiler de Piso en plaza de San Lázaro,"Plaza de Toros, Granada",1250,1.0,2,1,Primeros_pisos,3,1,1,0,1,1,1,0,0
+Alquiler de Chalet adosado en plaza Gertrudis Gómez de Avellaneda,"Cervantes-Palacio de Deportes, Granada",1300,0.0,3,1,Muchas_plantas,4,2,1,1,1,1,1,0,0
+Alquiler de Piso en plaza Gerardo Cuerva,"Figares, Granada",1150,1.0,3,1,Bajo,3,1,0,1,1,1,1,0,0
+Alquiler de Piso en calle Palencia,"Zaidín, Granada",850,1.0,2,0,Ultimos_pisos,3,98,1,0,0,1,0,0,0
+Alquiler de Piso en plaza de San Lázaro,"Plaza de Toros, Granada",1250,1.0,2,1,Primeros_pisos,3,1,1,0,1,1,1,0,0
+Alquiler de Piso en calle Parra de San Cecilio,"Cuesta Escoriaza - Barranco del Abogado, Granada",590,0.0,1,0,Primeros_pisos,1,57,0,0,0,1,0,0,0
+Alquiler de Piso en Arabial,"Ronda - Arabial, Granada",1400,1.0,2,0,Primeros_pisos,5,1,0,1,0,1,1,0,0
+Alquiler de Piso en calle Julio Moreno Dávila,"Polígono Cartuja, Granada",800,1.0,2,0,Ultimos_pisos,4,1,0,1,0,1,1,0,1
+Alquiler de Piso en calle Alejandro Dumas,"Polígono Cartuja, Granada",720,1.0,1,0,Ultimos_pisos,3,93,0,0,0,0,0,0,0
+Alquiler de Piso en calle Joaquina Eguaras,"Joaquina Eguaras, Granada",700,1.0,2,0,Primeros_pisos,2,74,0,0,1,1,1,0,0
+Alquiler de Piso en puente del Carbón,"San Matías - Pavaneras, Granada",1600,0.0,3,0,Primeros_pisos,4,1,1,1,0,1,1,0,0
+"Alquiler de Piso en pasaje Algaba, 4","Casería de Montijo, Granada",1480,0.0,2,0,Primeros_pisos,5,1,1,0,0,0,0,0,0
+"Alquiler de Piso en calle Real de Cartuja, 18","San Ildefonso, Granada",625,1.0,1,0,Primeros_pisos,1,50,1,0,0,1,1,0,0
+Alquiler de Piso en calle San Juan de Dios,"Gran Capitán, Granada",950,1.0,1,1,Bajo,2,89,1,0,1,1,0,0,0
+Alquiler de Piso en calle Ángel Ganivet,"Carrera de la Virgen - Paseo del Salón, Granada",1000,1.0,1,0,Primeros_pisos,1,85,1,0,0,1,1,0,0
+Alquiler de Piso en calle Sacromonte,Albolote,675,1.0,1,0,Primeros_pisos,3,93,1,0,0,1,1,0,0
+Alquiler de Piso en Carrera de la Virgen - Paseo del Salón,"Realejo, Granada",850,0.0,1,0,Primeros_pisos,1,60,0,0,0,1,0,0,0
+Alquiler de Piso en calle Alejandro Dumas,"Polígono Cartuja, Granada",720,1.0,1,0,Ultimos_pisos,3,93,0,0,0,0,0,0,0
+Alquiler de Piso en calle Gutierre Tibón,"Campo Verde, Granada",1050,1.0,1,0,Primeros_pisos,3,1,1,1,0,1,1,0,0
+Alquiler de Piso en Campus de la Salud s/n,"Campus de la Salud, Granada",925,1.0,2,1,Ultimos_pisos,2,85,0,0,1,1,0,1,1
+Alquiler de Piso en Arabial,"Ronda - Arabial, Granada",1250,1.0,2,0,Ultimos_pisos,3,1,1,0,0,1,1,0,0
+Alquiler de Piso en avenida Federico García Lorca,"Barrio de los Periodistas, Granada",1000,1.0,2,0,Primeros_pisos,4,1,1,0,0,1,1,1,0
+Alquiler de Piso en calle Curro Cúchares,"La Cruz, Granada",950,0.0,1,0,Primeros_pisos,4,1,1,0,0,1,0,0,0
+"Alquiler de Ático en calle Acera de San Ildefonso, 30","San Ildefonso, Granada",700,1.0,1,0,Primeros_pisos,1,70,1,1,0,1,1,0,0
+Alquiler de Piso en calle Víctor Hugo,"Campo Verde, Granada",1200,1.0,3,0,Ultimos_pisos,4,1,0,1,0,1,1,0,0
+Alquiler de Piso en calle Faisán,"Los Pajaritos, Granada",1080,1.0,1,0,Primeros_pisos,4,1,0,1,0,1,1,0,0
+Alquiler de Piso en ronda de Alfareros s/n,"Casería de Montijo, Granada",1200,0.0,2,0,Primeros_pisos,4,1,1,1,0,0,0,0,0
+Alquiler de Piso en calle Acera de Canasteros,"Gran Vía, Granada",1100,1.0,2,0,Ultimos_pisos,4,1,0,0,0,1,0,0,0
+Alquiler de Piso en calle San Rafael,Huétor-Vega,700,0.0,1,0,Primeros_pisos,3,89,1,0,0,1,1,0,0
+Alquiler de Piso en calle Joaquina Eguaras,"Joaquina Eguaras, Granada",700,1.0,2,0,Primeros_pisos,2,74,0,0,1,1,1,0,0
+"Alquiler de Piso en calle Otura, 217","Campus de la Salud, Granada",1100,1.0,2,0,Primeros_pisos,3,1,1,1,1,1,1,1,1
+Alquiler de Piso en calle Gardenia,"Figares, Granada",1200,1.0,2,0,Ultimos_pisos,4,1,1,0,1,1,0,1,0
+Alquiler de Piso en calle Laguna de Aguas Verdes,"Bola de Oro, Granada",850,1.0,2,0,Primeros_pisos,2,88,0,1,0,1,0,1,0
+Alquiler de Piso en calle Periodista Francisco Giles Jiménez,"Polígono Cartuja, Granada",1000,1.0,1,0,Primeros_pisos,4,1,0,1,0,1,1,0,1
+Alquiler de Piso en calle Acera de Canasteros,"Gran Vía, Granada",1400,1.0,2,0,Primeros_pisos,4,1,0,0,0,1,0,0,0
+Alquiler de Piso en avenida de la Constitución,"Los Pajaritos, Granada",1230,1.0,2,0,Primeros_pisos,3,1,0,1,0,1,0,0,0
+Alquiler de Piso en calle Pintor López Mezquita,"Gran Capitán, Granada",900,1.0,2,0,Primeros_pisos,4,1,0,1,0,1,0,0,0
+Alquiler de Piso en avenida Doctor Oloriz,"Plaza de Toros, Granada",830,1.0,2,1,Primeros_pisos,3,95,1,0,0,1,0,0,0
+Alquiler de Piso en calle Parras,Ogijares,550,1.0,1,0,Bajo,2,60,1,0,1,1,0,0,0
+Alquiler de Piso en avenida Doctor Oloriz,"Plaza de Toros, Granada",800,0.0,1,0,Ultimos_pisos,3,80,0,1,0,0,0,0,0
+Alquiler de Piso en plaza de los Neveros,"Bola de Oro, Granada",825,0.0,2,0,Primeros_pisos,2,89,1,1,1,1,0,1,0
+"Alquiler de Piso en calle Ruiseñor, 8","Los Pajaritos, Granada",990,1.0,1,0,Ultimos_pisos,4,1,1,1,0,1,1,0,0
+Alquiler de Piso en calle Horno de Haza,"Jardín Botánico, Granada",760,0.0,2,0,Primeros_pisos,3,1,1,1,0,1,0,0,0
+Alquiler de Piso en calle Doctor Marañón,"Plaza de Toros, Granada",900,1.0,1,0,Ultimos_pisos,3,90,0,0,0,1,1,0,0
+Alquiler de Piso en calle Cristo de la Yedra,"San Ildefonso, Granada",550,1.0,1,0,Primeros_pisos,1,55,0,0,0,1,1,0,0
+Alquiler de Piso en calle Horno de Haza,"Jardín Botánico, Granada",720,0.0,2,0,Primeros_pisos,3,90,1,0,0,1,0,0,0
+Alquiler de Piso en calle Pintor López Mezquita,"Gran Capitán, Granada",900,1.0,2,0,Primeros_pisos,4,1,0,1,0,1,0,0,0
+Alquiler de Piso en calle Calderón,Santa Fe,580,0.0,1,0,Primeros_pisos,2,72,0,0,0,1,0,0,0
+Alquiler de Piso en camino de Ronda,"Los Pajaritos, Granada",595,1.0,1,0,Primeros_pisos,1,60,1,0,1,0,0,0,0
+Alquiler de Piso en calle Gonzalo Gallas,"Ronda - Arabial, Granada",990,1.0,2,0,Primeros_pisos,2,86,0,0,0,1,1,0,0
+Alquiler de Piso en cristo de la yedra,"San Ildefonso, Granada",1180,1.0,2,0,Primeros_pisos,4,1,0,0,0,0,0,0,0
+Alquiler de Ático en calle Cisne,"Los Pajaritos, Granada",1500,1.0,2,0,Ultimos_pisos,4,80,0,0,0,1,1,0,0
+Alquiler de Piso en ronda de Alfareros,"Casería de Montijo, Granada",1200,0.0,2,1,Primeros_pisos,4,1,0,1,1,1,1,0,0
+Alquiler de Estudio en calle Martínez de la Rosa,"Ronda - Arabial, Granada",775,1.0,1,0,Primeros_pisos,1,40,1,0,0,1,0,0,0
+Alquiler de Piso en Arabial,"Figares, Granada",750,1.0,1,0,Ultimos_pisos,3,95,0,0,0,1,0,0,0
+Alquiler de Piso en calle Manuel de Falla,"Figares, Granada",1200,1.0,2,1,Ultimos_pisos,4,1,1,1,0,1,0,0,0
+Alquiler de Casa o chalet independiente en calle everest s/n,La Zubia,2500,0.0,5,1,Muchas_plantas,5,9,1,1,1,1,1,1,0
+Alquiler de Piso en paseo de la Bomba s/n,"Carrera de la Virgen - Paseo del Salón, Granada",1750,1.0,4,0,Primeros_pisos,5,2,1,0,1,1,1,1,1
+Alquiler de Piso en Carrera de la Virgen - Paseo del Salón,"Realejo, Granada",900,0.0,1,0,Primeros_pisos,2,94,0,0,0,1,0,0,0
+Alquiler de Ático en Arabial,"Ronda - Arabial, Granada",850,1.0,1,0,Ultimos_pisos,3,1,1,1,1,1,1,0,0
+Alquiler de Piso en calle Cisne,"Los Pajaritos, Granada",900,0.0,1,0,Primeros_pisos,3,65,0,0,0,0,0,0,0
+"Alquiler de Piso en calle Gran Vía de Colón, 26","Gran Vía, Granada",1000,1.0,2,0,Primeros_pisos,1,80,1,0,0,1,1,0,0
+"Alquiler de Chalet pareado en avenida Cristóbal Colón, 169","Casco Historico, Churriana de la Vega",2200,0.0,3,1,Muchas_plantas,3,2,1,1,1,1,1,0,0
+Alquiler de Piso en calle limon,"Gran Vía, Granada",650,0.0,1,0,Bajo,1,50,0,0,0,0,0,0,0
+Alquiler de Piso en Figares,Granada,1400,1.0,2,0,Primeros_pisos,4,1,0,1,0,1,0,0,0
+Alquiler de Dúplex en calle Isaac Peral,Cajar,530,0.0,1,0,Primeros_pisos,2,50,1,1,0,1,1,0,0
+Alquiler de Piso en calle Quijada s/n,"Albaicín, Granada",500,0.0,1,0,Bajo,1,45,0,0,0,1,0,0,0
+Alquiler de Piso en calle limon,"Gran Vía, Granada",650,0.0,1,0,Bajo,1,50,0,0,0,0,0,0,0
+Alquiler de Piso en Casería de Montijo,"Norte, Granada",1480,0.0,2,0,Primeros_pisos,5,1,0,0,0,1,0,0,0
+"Alquiler de Piso en calle Gran Vía de Colón, 26","Gran Vía, Granada",1000,1.0,2,0,Primeros_pisos,1,80,1,0,0,1,1,0,0
+Alquiler de Piso en calle Hermigua,"Barrio de los Periodistas, Granada",650,0.0,1,0,Bajo,1,31,0,1,1,1,0,0,0
+"Alquiler de Piso en Tortola, 35","Los Pajaritos, Granada",1400,1.0,2,1,Primeros_pisos,4,1,0,1,0,0,0,0,0
+Alquiler de Piso en Ronda - Arabial,"Ronda - Arabial, Granada",900,1.0,2,0,Ultimos_pisos,3,1,0,0,0,1,0,0,0
+Alquiler de Piso en Ctra Sierra - Acceso Nuevo Alhambra,Granada,1100,1.0,2,0,Ultimos_pisos,3,1,1,1,1,1,0,0,0
+Alquiler de Estudio en Molinos - Santiago,"Realejo, Granada",550,0.0,1,0,Primeros_pisos,1,35,1,1,0,1,1,0,0
+Alquiler de Ático en Ronda - Arabial,"Ronda - Arabial, Granada",1400,1.0,2,0,Primeros_pisos,3,1,1,0,1,1,1,0,0
+Alquiler de Piso en calle Motril,Albolote,750,1.0,2,0,Primeros_pisos,2,68,1,1,1,1,1,0,0
+"Alquiler de Piso en calle Cristo de la Yedra, 9","San Ildefonso, Granada",850,1.0,1,0,Primeros_pisos,2,70,1,1,0,1,1,0,0
+"Alquiler de Chalet adosado en San Blas, 9","San Francisco Javier, Granada",1350,0.0,2,0,Muchas_plantas,4,90,1,1,0,1,1,0,0
+"Alquiler de Piso en calle Cocheras de San Cecilio, 9","Cuesta Escoriaza - Barranco del Abogado, Granada",650,0.0,1,0,Primeros_pisos,1,45,1,0,0,1,1,0,0
+Alquiler de Piso en calle Sol,"Ronda - Arabial, Granada",1200,1.0,1,0,Ultimos_pisos,3,1,0,0,0,1,0,0,0
+Alquiler de Chalet adosado en calle Cuarto Dorado,"Albaicín, Granada",1400,0.0,3,0,Muchas_plantas,3,1,1,1,0,1,1,0,0
+Alquiler de Casa o chalet independiente en calle Lagartijillo,"La Cruz, Granada",950,0.0,1,0,Muchas_plantas,3,1,1,1,0,1,0,0,0
+Alquiler de Piso en Castañeda,"Carrera de la Virgen - Paseo del Salón, Granada",630,0.0,1,0,Primeros_pisos,1,60,0,0,0,0,0,0,0
+"Alquiler de Piso en avenida Don Bosco, 35","Zaidín, Granada",840,1.0,2,0,Primeros_pisos,4,1,0,0,0,1,0,0,0
+"Alquiler de Piso en camino de Ronda, 22","Figares, Granada",1100,1.0,2,0,Ultimos_pisos,5,1,0,1,1,1,1,1,1
+Alquiler de Piso en real de cartuja,"San Ildefonso, Granada",990,0.0,1,0,Primeros_pisos,3,70,0,0,0,1,1,0,0
+Alquiler de Estudio en calle Misericordia,"Jardín Botánico, Granada",500,0.0,1,0,Primeros_pisos,1,30,0,0,0,1,0,0,0
+"Alquiler de Estudio en calle Darro del Boquerón, 15","Gran Capitán, Granada",650,0.0,1,0,Primeros_pisos,1,50,0,0,0,1,0,0,0
+"Alquiler de Piso en camino de Ronda, 190","Los Pajaritos, Granada",595,1.0,1,0,Primeros_pisos,1,70,1,0,1,1,1,0,0
+Alquiler de Piso en calle San Matías,"San Matías - Pavaneras, Granada",950,1.0,2,0,Primeros_pisos,4,1,1,1,0,1,0,0,0
+"Alquiler de Piso en calle del Filólogo Julio Casares, 10","Rosaleda - Juventud, Granada",1200,1.0,2,1,Primeros_pisos,3,1,1,1,1,1,1,1,1
+Alquiler de Piso en pasaje Profesor Sainz Cantero,"Gran Capitán, Granada",720,1.0,1,0,Bajo,2,87,1,0,1,1,1,0,0
+Alquiler de Piso en Montereros,"Catedral, Granada",650,1.0,1,0,Primeros_pisos,1,60,0,0,0,1,1,0,0
+Alquiler de Piso en calle Alhóndiga s/n,"Recogidas, Granada",1200,0.0,2,0,Primeros_pisos,4,1,0,0,0,0,0,0,0
+Alquiler de Piso en calle Profesor García Gómez,"Figares, Granada",1150,1.0,2,0,Ultimos_pisos,3,1,1,0,1,1,1,0,0
+"Alquiler de Chalet adosado en calle Lepanto, 9","Las Flores - La Huerta, Las Gabias",850,0.0,3,0,Muchas_plantas,3,1,0,1,1,1,1,0,0
+Alquiler de Piso en real de cartuja,"San Ildefonso, Granada",990,0.0,1,0,Primeros_pisos,3,70,0,0,0,1,1,0,0
+Alquiler de Estudio en calle Acera del Darro,"Figares, Granada",900,1.0,1,0,Muchas_plantas,1,40,0,0,0,0,1,0,0
+Alquiler de Piso en calle Doctor Fermín Garrido,"Plaza de Toros, Granada",950,0.0,1,0,Ultimos_pisos,3,90,0,0,0,0,0,0,0
+Alquiler de Piso en calle Lérida,"Zona Poniente, Armilla",750,1.0,2,0,Primeros_pisos,3,95,0,1,1,0,1,0,0
+Alquiler de Piso en Av. de ilustracion,"Campus de la Salud, Granada",850,1.0,1,0,Ultimos_pisos,1,80,1,0,0,1,1,1,0
+"Alquiler de Piso en calle San Antón, 49","Figares, Granada",700,1.0,1,0,Primeros_pisos,1,60,1,0,0,1,1,0,0
+Alquiler de Piso en La Chana,Granada,1200,1.0,2,0,Ultimos_pisos,4,1,0,1,0,1,0,0,0
+Alquiler de Ático en camino de Ronda,"Ronda - Arabial, Granada",900,1.0,1,0,Ultimos_pisos,2,65,0,1,0,1,1,0,0
+Alquiler de Piso en calle Álvaro de Bazán,"Gran Vía, Granada",725,1.0,1,0,Primeros_pisos,1,50,0,0,0,1,0,0,0
+Alquiler de Ático en Barrio de los Periodistas,Granada,1200,1.0,2,0,Ultimos_pisos,2,90,1,1,1,1,1,1,0
+Alquiler de Piso en calle Solarillo de Gracia,"Recogidas, Granada",1200,1.0,1,0,Primeros_pisos,4,1,0,0,0,1,0,0,0
+Alquiler de Piso en calle Henríquez de Jorquera,"Polígono Cartuja, Granada",940,1.0,1,0,Ultimos_pisos,3,1,1,1,0,1,1,0,0
+Alquiler de Dúplex en Reyes Católicos,"Molinos - Santiago, Granada",750,0.0,1,0,Ultimos_pisos,1,55,1,1,0,1,1,0,0
+Alquiler de Chalet adosado en plaza Gertrudis Gómez de Avellaneda,"Cervantes-Palacio de Deportes, Granada",1300,0.0,3,0,Muchas_plantas,4,2,1,1,1,1,1,0,0
+Alquiler de Piso en calle Gras y Granollers,"La Chana, Granada",700,1.0,1,0,Primeros_pisos,2,65,1,0,0,1,0,0,0
+Alquiler de Piso en calle Santa Teresa,"Recogidas, Granada",1200,0.0,1,0,Primeros_pisos,4,1,0,0,0,1,0,0,0
+Alquiler de Piso en calle Elvira,"Albaicín, Granada",720,1.0,1,0,Bajo,2,65,1,1,0,1,1,0,0
+Alquiler de Chalet adosado en calle Atenea,"San Miguel, Armilla",1200,0.0,3,1,Muchas_plantas,3,2,1,1,1,1,0,0,0
+Alquiler de Piso en camino De Ronda,"Ronda - Arabial, Granada",1000,1.0,2,0,Ultimos_pisos,4,1,0,1,0,1,0,0,0
+Alquiler de Piso en camino De Ronda,"Ronda - Arabial, Granada",1390,1.0,2,0,Primeros_pisos,4,1,0,1,0,1,0,0,0
+Alquiler de Piso en Gran Via De Colon,"Gran Vía, Granada",770,1.0,1,0,Primeros_pisos,1,60,0,0,1,0,1,0,0
+Alquiler de Piso en calle Martínez Campos,"Figares, Granada",1100,1.0,2,0,Bajo,4,1,0,1,0,1,0,0,0
+Alquiler de Piso en Solarillo,"Recogidas, Granada",1200,0.0,1,0,Primeros_pisos,4,1,0,0,0,1,0,0,0
+Alquiler de Piso en Zaidín,Granada,850,1.0,1,0,Primeros_pisos,3,1,0,1,1,1,1,0,0
+Alquiler de Piso en calle Doctor Sánchez Mariscal,"Plaza de Toros, Granada",1100,1.0,2,0,Primeros_pisos,4,1,1,1,0,1,1,0,0
+Alquiler de Piso en avenida de Madrid,"Plaza de Toros, Granada",1290,1.0,2,0,Primeros_pisos,4,1,0,0,0,1,1,0,0
+Alquiler de Piso en Santa Teresa,"Recogidas, Granada",1600,0.0,1,1,Primeros_pisos,5,1,1,1,0,1,0,0,0
+Alquiler de Piso en camino De Ronda,"Ronda - Arabial, Granada",730,1.0,1,0,Primeros_pisos,3,95,0,1,0,1,0,0,0
+Alquiler de Piso en calle Profesor Francisco Dalmau,"Joaquina Eguaras, Granada",750,1.0,1,0,Ultimos_pisos,3,95,0,0,0,1,1,0,0
+Alquiler de Piso en camino de Ronda,"Figares, Granada",1150,1.0,2,0,Ultimos_pisos,4,1,1,1,0,1,0,0,0
+Alquiler de Piso en calle Santa Teresa,"Recogidas, Granada",1200,0.0,1,0,Primeros_pisos,4,1,0,0,0,1,0,0,0
+Alquiler de Piso en Parque Nueva Granada,"Norte, Granada",700,1.0,2,0,Primeros_pisos,3,1,1,0,1,1,1,1,1
+Alquiler de Piso en calle Santa Teresa,"Recogidas, Granada",1400,0.0,2,0,Bajo,5,1,1,1,0,1,0,0,0
+Alquiler de Piso en calle Doctor Pareja Yébenes,"Plaza de Toros, Granada",780,0.0,1,0,Primeros_pisos,3,85,0,1,0,1,0,0,0
+Alquiler de Piso en calle Gras y Granollers,"La Chana, Granada",700,1.0,1,0,Primeros_pisos,2,65,1,0,0,1,0,0,0
+Alquiler de Piso en camino De Ronda,"Figares, Granada",660,0.0,1,0,Primeros_pisos,3,90,0,0,0,1,0,0,0
+Alquiler de Piso en Santa Teresa,"Recogidas, Granada",1600,0.0,1,1,Primeros_pisos,5,1,1,1,0,1,0,0,0
+Alquiler de Piso en calle Doctor Víctor Escribano,"Plaza de Toros, Granada",800,1.0,1,0,Primeros_pisos,3,90,1,0,0,1,0,0,0
+Alquiler de Piso en calle San Juan Baja,"Figares, Granada",900,0.0,1,0,Primeros_pisos,2,95,1,0,0,1,1,0,0
+Alquiler de Piso en camino De Ronda,"Ronda - Arabial, Granada",730,1.0,1,0,Primeros_pisos,3,95,0,1,0,1,0,0,0
+Alquiler de Piso en calle Doctor Sánchez Mariscal,"Plaza de Toros, Granada",1100,1.0,2,0,Primeros_pisos,4,1,1,1,0,1,1,0,0
+Alquiler de Piso en calle Martínez Campos,"Figares, Granada",1100,1.0,2,0,Bajo,4,1,0,1,0,1,0,0,0
+Alquiler de Piso en calle Elvira,"Albaicín, Granada",720,1.0,1,0,Bajo,2,65,1,1,0,1,1,0,0
+Alquiler de Piso en avenida de Madrid,"Plaza de Toros, Granada",800,1.0,2,0,Primeros_pisos,4,95,0,0,0,1,0,0,0
+Alquiler de Casa o chalet independiente en Bola de Oro,Granada,1500,0.0,3,0,Muchas_plantas,5,2,1,1,1,1,1,0,0
+Alquiler de Piso en Conde Cifuentes,"Figares, Granada",1000,1.0,2,0,Ultimos_pisos,4,1,1,1,0,1,0,0,0
+Alquiler de Piso en calle Joaquina Eguaras,"Joaquina Eguaras, Granada",700,1.0,1,0,Primeros_pisos,3,85,0,1,0,1,0,0,0
+Alquiler de Piso en Arzobispo Pedro De Castro,"Joaquina Eguaras, Granada",840,1.0,2,0,Ultimos_pisos,3,1,1,1,0,1,1,0,0
+"Alquiler de Piso en calle San Marcos, 8","Figares, Granada",1300,1.0,1,0,Primeros_pisos,4,1,1,0,1,1,1,0,0
+"Alquiler de Piso en calle Profesor Tierno Galván, 4","Zaidín, Granada",750,1.0,1,0,Primeros_pisos,3,58,0,0,0,1,1,0,0
+Alquiler de Piso en calle Martínez de la Rosa,"Gran Capitán, Granada",1400,1.0,2,0,Primeros_pisos,4,1,1,1,0,1,0,0,0
+Alquiler de Piso en Pintor Rodriguez Acosta,"Gran Capitán, Granada",950,1.0,2,0,Ultimos_pisos,4,1,1,1,0,1,0,0,0
+Alquiler de Piso en Buensuceso,"Recogidas, Granada",950,0.0,2,0,Bajo,3,1,1,0,0,1,0,0,0
+Alquiler de Piso en calle Morayma,"Bola de Oro, Granada",850,1.0,2,1,Primeros_pisos,4,1,1,0,1,1,0,0,1
+Alquiler de Piso en Solarillo,"Recogidas, Granada",1200,0.0,1,0,Primeros_pisos,4,1,0,0,0,1,0,0,0
+Alquiler de Piso en camino De Ronda,"Ronda - Arabial, Granada",1390,1.0,2,0,Primeros_pisos,4,1,0,1,0,1,0,0,0
+Alquiler de Piso en calle Ribera del Beiro,"La Cruz, Granada",1200,1.0,2,0,Primeros_pisos,3,1,1,0,0,1,0,0,0
+Alquiler de Piso en calle San Jerónimo,"Catedral, Granada",1100,1.0,2,0,Primeros_pisos,4,1,1,1,0,1,1,0,0
+Alquiler de Piso en Ancha de Gracia,"Ronda - Arabial, Granada",1150,1.0,2,0,Ultimos_pisos,2,1,1,0,1,1,1,0,0
+Alquiler de Piso en Cervantes-Palacio de Deportes,Granada,1600,1.0,2,0,Primeros_pisos,5,1,0,1,0,1,1,0,0
+Alquiler de Chalet adosado en Ctra Sierra - Acceso Nuevo Alhambra,Granada,1050,0.0,2,0,Muchas_plantas,2,2,1,1,1,1,0,1,0
+Alquiler de Piso en carretera De Alfacar,"Casería de Montijo, Granada",630,1.0,1,0,Bajo,3,95,1,1,0,1,0,0,0
+Alquiler de Piso en calle San Jerónimo,"Catedral, Granada",1100,1.0,2,0,Primeros_pisos,4,1,1,1,0,1,1,0,0
+Alquiler de Piso en Albaicín,Granada,1200,0.0,1,0,Bajo,1,1,0,0,0,1,1,0,0
+"Alquiler de Piso en calle Rosa Chacel, 4","Parque Nueva Granada, Granada",609,1.0,2,1,Primeros_pisos,2,70,1,0,1,0,0,1,1
+Alquiler de Piso en Ancha de Gracia,"Ronda - Arabial, Granada",1150,1.0,2,0,Ultimos_pisos,2,1,1,0,1,1,1,0,0
+Alquiler de Piso en Campus de la Salud,Granada,950,1.0,2,0,Ultimos_pisos,2,86,1,0,0,1,1,1,0
+Alquiler de Piso en camino de Ronda,"La Chana, Granada",595,1.0,1,0,Primeros_pisos,1,50,1,0,0,1,1,0,0
+Alquiler de Piso en Ronda - Arabial,"Ronda - Arabial, Granada",1400,1.0,2,0,Primeros_pisos,4,1,1,1,0,1,0,0,0
+Alquiler de Piso en Figares,Granada,850,1.0,1,0,Ultimos_pisos,2,73,1,0,1,1,1,0,0
+Alquiler de Piso en camino de Ronda,"Ronda - Arabial, Granada",930,1.0,1,0,Ultimos_pisos,3,95,1,1,0,1,0,0,0
+"Alquiler de Piso en calle Rosa Chacel, 4","Parque Nueva Granada, Granada",780,1.0,2,1,Primeros_pisos,3,90,1,0,1,0,0,1,1
+Alquiler de Casa o chalet independiente en Belicena,"Área de Granada, Granada",1300,0.0,2,0,Muchas_plantas,3,2,1,0,1,1,0,1,0
+Alquiler de Piso en Bola de Oro,Granada,680,1.0,1,0,Primeros_pisos,2,75,1,0,1,1,0,1,1
+Alquiler de Piso en avenida de la Constitución,"Los Pajaritos, Granada",1300,1.0,2,0,Primeros_pisos,4,1,0,0,0,1,0,0,0
+Alquiler de Piso en Carrera de la Virgen - Paseo del Salón,"Realejo, Granada",900,0.0,1,0,Primeros_pisos,2,61,0,0,0,1,1,0,0
+Alquiler de Piso en San Francisco Javier,Granada,680,1.0,1,0,Ultimos_pisos,1,51,1,0,0,1,1,0,0
+"Alquiler de Piso en calle Doctor García y García de Castro, 8","La Chana, Granada",850,0.0,1,0,Primeros_pisos,3,85,0,1,0,1,0,0,0
+Alquiler de Piso en Carrera de la Virgen - Paseo del Salón,"Realejo, Granada",1750,1.0,4,0,Primeros_pisos,5,2,0,1,1,1,0,1,0
+Alquiler de Piso en calle Nueva de Cartuja,"San Ildefonso, Granada",705,1.0,2,0,Primeros_pisos,3,1,0,1,0,1,0,0,0
+Alquiler de Piso en Placeta de las Escuelas,"Albaicín, Granada",650,0.0,1,0,Bajo,1,40,0,0,0,0,0,0,0
+"Alquiler de Piso en calle Fray Juan Sánchez Cotán, 3","La Paz, Granada",600,0.0,1,0,Primeros_pisos,3,85,1,0,0,1,1,0,0
+Alquiler de Estudio en Misericordia,"Jardín Botánico, Granada",590,0.0,1,0,Primeros_pisos,1,35,0,0,0,0,1,0,0
+Alquiler de Ático en calle Cisne,"Los Pajaritos, Granada",1600,1.0,2,0,Ultimos_pisos,4,90,0,1,0,1,1,0,0
+Alquiler de Piso en ronda de Alfareros,"Casería de Montijo, Granada",1200,0.0,2,0,Primeros_pisos,4,1,1,1,0,1,1,0,0
+Alquiler de Piso en Figares,Granada,1250,1.0,1,0,Primeros_pisos,2,90,0,0,0,1,1,0,0
+Alquiler de Piso en Gran Vía,"Centro, Granada",820,1.0,1,0,Primeros_pisos,1,62,0,0,1,1,0,0,0
+Alquiler de Piso en calle Doctor Pareja Yébenes,"Plaza de Toros, Granada",1350,1.0,1,0,Primeros_pisos,4,1,1,0,0,1,1,0,0
+Alquiler de Piso en avenida de la Ilustración,"Campus de la Salud, Granada",950,1.0,1,0,Primeros_pisos,2,71,1,0,0,1,1,1,0
+"Alquiler de Piso en camino de Alfacar, 3","Campo Verde, Granada",900,1.0,1,0,Primeros_pisos,4,1,1,1,0,0,0,0,0
+Alquiler de Piso en Gran Vía,"Centro, Granada",750,0.0,1,0,Bajo,1,60,0,0,1,1,1,0,0
+Alquiler de Piso en Gran Vía,"Centro, Granada",820,1.0,1,0,Primeros_pisos,1,62,0,0,1,1,0,0,0
+Alquiler de Ático en calle Cisne,"Los Pajaritos, Granada",1600,1.0,2,0,Ultimos_pisos,4,90,0,1,0,1,1,0,0
+Alquiler de Piso en calle Nueva de Cartuja,"San Ildefonso, Granada",705,1.0,2,0,Primeros_pisos,3,1,0,1,0,1,0,0,0
+"Alquiler de Piso en calle Fray Juan Sánchez Cotán, 3","La Paz, Granada",600,0.0,1,0,Primeros_pisos,3,85,1,0,0,1,1,0,0
+Alquiler de Chalet adosado en Cajar,"Área de Granada, Granada",900,0.0,3,0,Muchas_plantas,5,2,1,0,1,1,1,0,0
+Alquiler de Estudio en Misericordia,"Jardín Botánico, Granada",590,0.0,1,0,Primeros_pisos,1,35,0,0,0,0,1,0,0
+Alquiler de Piso en calle Delfín,"La Chana, Granada",1050,1.0,2,0,Primeros_pisos,3,90,1,1,0,1,1,0,0
+Alquiler de Piso en Los Pajaritos,"Los Pajaritos - Plaza de Toros, Granada",1200,1.0,2,0,Primeros_pisos,3,1,0,1,0,1,1,0,0
+Alquiler de Piso en calle Real de Cartuja,"San Ildefonso, Granada",990,0.0,1,0,Primeros_pisos,3,70,0,1,0,1,1,0,0
+Alquiler de Piso en calle Jesús y María,"San Matías - Pavaneras, Granada",630,0.0,1,0,Primeros_pisos,1,80,1,0,0,1,1,0,0
+"Alquiler de Piso en pasaje Violeta, 4",Santa Fe,660,1.0,1,0,Primeros_pisos,2,95,0,1,0,0,1,0,0
+"Alquiler de Piso en calle Alhóndiga, 17","Recogidas, Granada",850,1.0,1,0,Primeros_pisos,2,75,0,0,0,1,1,0,0
+Alquiler de Ático en calle Cisne,"Los Pajaritos, Granada",1500,1.0,2,0,Ultimos_pisos,4,1,1,1,0,1,1,0,0
+Alquiler de Estudio en cuesta de Gomérez,"Molinos - Santiago, Granada",480,0.0,1,0,Primeros_pisos,1,31,1,1,0,1,0,0,0
+Alquiler de Piso en calle Faisán,"Los Pajaritos, Granada",1080,1.0,2,0,Primeros_pisos,4,1,0,0,0,1,0,0,0
+Alquiler de Piso en calle Sol,"Ronda - Arabial, Granada",1100,1.0,2,0,Ultimos_pisos,3,1,1,1,0,1,0,0,0
+"Alquiler de Piso en calle Doctor Fermín Garrido, 6","Plaza de Toros, Granada",1200,1.0,2,0,Primeros_pisos,4,1,0,0,0,1,1,0,0
+"Alquiler de Piso en calle Cocheras de San Cecilio, 3","Cuesta Escoriaza - Barranco del Abogado, Granada",650,1.0,1,0,Primeros_pisos,1,50,0,0,0,1,1,0,0
+Alquiler de Piso en Jose Recuerda,"Ronda - Arabial, Granada",1150,1.0,2,0,Primeros_pisos,4,1,1,0,0,1,0,0,0
+Alquiler de Casa o chalet independiente en plaza Castilla,"Avda. de los Ogijares, Armilla",2600,0.0,3,0,Muchas_plantas,8,1,0,1,0,1,1,0,0
+Alquiler de Piso en camino de Ronda,"Ronda - Arabial, Granada",1400,1.0,2,0,Bajo,5,1,0,0,0,1,1,0,0
+Alquiler de Piso en calle Recogidas s/n,"Figares, Granada",850,1.0,1,0,Primeros_pisos,1,60,0,0,0,1,1,0,0
+"Alquiler de Chalet adosado en Granada, 44",Huétor-Vega,1200,0.0,3,0,Muchas_plantas,5,1,1,1,1,1,1,1,0
+Alquiler de Piso en Barrio de los Periodistas,Granada,995,1.0,2,1,Ultimos_pisos,3,1,1,1,1,1,1,1,1
+Alquiler de Piso en Polígono Cartuja,"Norte, Granada",1000,1.0,1,0,Primeros_pisos,4,1,0,1,0,0,1,0,0
+Alquiler de Piso en Gran Capitán,"Centro, Granada",650,1.0,1,0,Primeros_pisos,1,55,0,0,0,0,0,0,0
+Alquiler de Piso en Casería de Montijo,"Norte, Granada",1480,0.0,2,1,Primeros_pisos,5,1,0,1,0,1,1,0,0
+Alquiler de Piso en Albaicín,Granada,650,0.0,1,0,Bajo,1,40,0,0,0,0,1,0,1
+Alquiler de Piso en calle Doctor Pareja Yébenes,"Plaza de Toros, Granada",1000,1.0,2,0,Primeros_pisos,4,1,1,0,0,1,1,0,0
+Alquiler de Piso en San Ildefonso,Granada,990,0.0,1,0,Primeros_pisos,3,72,0,0,0,0,1,0,0
+"Alquiler de Piso en puente del Carbón, 4","San Matías - Pavaneras, Granada",1600,0.0,2,1,Primeros_pisos,6,1,1,1,0,1,0,0,0
+Alquiler de Piso en Barrio de los Periodistas,Granada,995,1.0,2,1,Ultimos_pisos,3,1,1,1,1,1,1,1,1
+Alquiler de Chalet adosado en Albaicín,Granada,1400,0.0,2,1,Muchas_plantas,3,1,1,1,1,1,1,0,0
+Alquiler de Piso en Polígono Cartuja,"Norte, Granada",1000,1.0,1,0,Primeros_pisos,4,1,0,1,0,0,1,0,0
+"Alquiler de Piso en calle Palencia, 5","Zaidín, Granada",900,1.0,1,0,Ultimos_pisos,3,90,0,0,1,0,0,0,0
+"Alquiler de Piso en calle Campoamor, 2","Zaidín, Granada",740,0.0,1,0,Primeros_pisos,2,74,1,1,0,0,1,0,0
+"Alquiler de Ático en avenida del Conocimiento, 1","Campus de la Salud, Granada",900,1.0,1,0,Ultimos_pisos,1,85,1,1,1,1,1,1,1
+"Alquiler de Chalet adosado en Granada, 44",Huétor-Vega,1200,0.0,3,0,Muchas_plantas,5,1,1,1,1,1,1,1,0
+Alquiler de Piso en Santa Fe,"Área de Granada, Granada",580,0.0,1,0,Primeros_pisos,2,68,0,0,0,1,0,0,0
+Alquiler de Piso en Campo del Príncipe,"Cuesta Escoriaza - Barranco del Abogado, Granada",700,1.0,1,0,Primeros_pisos,1,65,0,0,0,1,1,0,0
+Alquiler de Piso en Bola de Oro,Granada,1300,0.0,1,0,Bajo,1,96,0,0,0,1,1,0,0
+"Alquiler de Piso en calle Islas, 2","Híjar, Las Gabias",600,1.0,1,0,Bajo,2,55,0,0,0,1,1,0,0
+"Alquiler de Piso en pasaje de la Algaba, 6","Gran Vía, Granada",1480,0.0,2,1,Primeros_pisos,4,1,0,1,0,1,1,0,1
+"Alquiler de Piso en calle Río Fardes, 2","Zaidín, Granada",850,1.0,1,0,Primeros_pisos,2,65,0,0,0,1,1,0,0
+"Alquiler de Piso en calle del Filólogo Julio Casares, 18","Rosaleda - Juventud, Granada",1200,1.0,2,1,Primeros_pisos,3,1,1,1,1,0,1,1,1
+Alquiler de Piso en Cajar,"Área de Granada, Granada",400,1.0,1,0,Bajo,1,40,0,0,0,0,0,0,0
+Alquiler de Piso en Figares,Granada,1200,0.0,1,0,Bajo,2,76,1,0,0,1,1,0,0
+Alquiler de Piso en Carrera de la Virgen - Paseo del Salón,"Realejo, Granada",1700,1.0,3,0,Ultimos_pisos,6,1,1,1,1,1,1,0,0
+Alquiler de Estudio en avenida de Madrid,"San Ildefonso, Granada",550,1.0,1,0,Primeros_pisos,1,35,0,0,0,1,0,0,0
+Alquiler de Piso en Los Pajaritos,"Los Pajaritos - Plaza de Toros, Granada",800,1.0,1,0,Ultimos_pisos,2,96,1,1,1,1,1,0,0
+"Alquiler de Piso en calle Cristo de la Yedra, 12","San Ildefonso, Granada",1180,0.0,2,0,Primeros_pisos,4,1,0,1,0,1,0,0,0
+Alquiler de Piso en Gran Capitán,"Centro, Granada",1200,1.0,2,0,Primeros_pisos,4,1,0,0,0,1,1,0,0
+"Alquiler de Piso en Virgen de la consolación, 4","La Chana, Granada",780,1.0,1,0,Primeros_pisos,3,80,0,1,0,0,0,0,0
+"Alquiler de Piso en calle Gran Vía de Colón, 46","Gran Vía, Granada",750,1.0,1,0,Primeros_pisos,1,70,1,0,1,1,1,0,0
+"Alquiler de Chalet adosado en Zona San Cayetano, 1","Zona de San Cayetano, Churriana de la Vega",900,0.0,2,1,Muchas_plantas,3,1,1,1,1,0,0,0,0
+"Alquiler de Piso en avenida Reyes Católicos, 33",Albolote,675,1.0,1,0,Primeros_pisos,3,90,0,0,0,0,0,0,0
+"Alquiler de Piso en ronda de Alfareros, 2","Casería de Montijo, Granada",1200,0.0,2,1,Primeros_pisos,4,1,1,1,1,1,1,0,1
+"Alquiler de Piso en camino de Ronda, 126","Ronda - Arabial, Granada",1100,1.0,2,0,Ultimos_pisos,4,94,1,1,0,1,0,0,0
+Alquiler de Estudio en avenida de Madrid,"San Ildefonso, Granada",550,1.0,1,0,Primeros_pisos,1,35,0,0,0,1,0,0,0
+Alquiler de Piso en Cajar,"Área de Granada, Granada",400,1.0,1,0,Bajo,1,40,0,0,0,0,0,0,0
+"Alquiler de Piso en calle del Filólogo Julio Casares, 18","Rosaleda - Juventud, Granada",1200,1.0,2,1,Primeros_pisos,3,1,1,1,1,0,1,1,1
+"Alquiler de Piso en calle Río Fardes, 2","Zaidín, Granada",850,1.0,1,0,Primeros_pisos,2,65,0,0,0,1,1,0,0
+"Alquiler de Piso en pasaje de la Algaba, 6","Gran Vía, Granada",1480,0.0,2,1,Primeros_pisos,4,1,0,1,0,1,1,0,1
+Alquiler de Piso en Bola de Oro,Granada,1300,0.0,1,0,Bajo,1,96,0,0,0,1,1,0,0
+"Alquiler de Piso en calle Cristo de la Yedra, 12","San Ildefonso, Granada",1180,0.0,2,0,Primeros_pisos,4,1,0,1,0,1,0,0,0
+Alquiler de Piso en calle Jesús y María,"San Matías - Pavaneras, Granada",700,1.0,1,0,Bajo,1,56,1,0,0,1,0,0,0
+"Alquiler de Piso en avenida Fernando de los Ríos, 28","Parque Lagos, Granada",850,1.0,2,0,Primeros_pisos,2,72,1,0,1,1,1,1,1
+Alquiler de Piso en Ronda - Arabial,"Ronda - Arabial, Granada",1300,1.0,1,0,Ultimos_pisos,4,97,0,0,0,0,0,0,0
+Alquiler de Piso en calle Infanta Beatriz s/n,"Ronda - Arabial, Granada",1250,1.0,2,0,Ultimos_pisos,3,1,1,0,0,1,1,0,0
+Alquiler de Piso en calle Jesús y María,"San Matías - Pavaneras, Granada",700,1.0,1,0,Bajo,1,56,1,0,0,1,0,0,0
+Alquiler de Piso en calle Jesús y María,"San Matías - Pavaneras, Granada",700,1.0,1,0,Bajo,1,56,1,0,0,1,0,0,0
+Alquiler de Piso en Recogidas,"Centro, Granada",800,0.0,1,0,Primeros_pisos,4,1,1,1,0,1,0,0,0
+Alquiler de Piso en Cervantes-Palacio de Deportes,Granada,1200,1.0,2,0,Ultimos_pisos,4,1,1,1,1,1,0,0,1
+Alquiler de Piso en Figares,Granada,950,1.0,2,0,Primeros_pisos,2,72,1,0,0,1,1,0,0
+Alquiler de Piso en Plaza de Toros,"Los Pajaritos - Plaza de Toros, Granada",1500,0.0,2,0,Primeros_pisos,5,1,0,0,0,1,1,0,0
+Alquiler de Piso en Ctra Sierra - Acceso Nuevo Alhambra,Granada,1100,1.0,1,0,Ultimos_pisos,4,99,0,1,0,1,1,0,0
+"Alquiler de Piso en calle Benalua, 8","Albaicín, Granada",650,0.0,1,0,Primeros_pisos,1,50,0,0,0,1,0,0,0
+"Alquiler de Piso en lavadero de las tablas, 10","Jardín Botánico, Granada",800,1.0,1,0,Ultimos_pisos,3,95,0,1,0,1,0,0,0
+"Alquiler de Piso en calle Nuestra Señora de la Salud, 3","Los Pajaritos, Granada",850,1.0,1,0,Primeros_pisos,2,85,1,1,1,0,1,0,1
+"Alquiler de Ático en calle Estacadas, 1",Maracena,675,1.0,2,1,Primeros_pisos,1,70,1,1,1,1,1,0,0
+"Alquiler de Estudio en calle Doctor Guirao Gea, 1","Plaza de Toros, Granada",600,1.0,1,0,Ultimos_pisos,1,30,1,0,0,0,1,0,0
+Alquiler de Piso en Figares,Granada,900,1.0,1,0,Primeros_pisos,2,83,1,0,0,1,0,0,0
+Alquiler de Piso en San Ildefonso,Granada,840,0.0,1,0,Primeros_pisos,3,84,0,0,0,0,0,0,0
+Alquiler de Piso en calle San Diego,"Figares, Granada",750,0.0,1,0,Primeros_pisos,2,66,0,0,0,0,1,0,0
+Alquiler de Dúplex en Gran Vía,"Centro, Granada",950,1.0,2,0,Primeros_pisos,3,1,0,0,0,1,1,0,0
+Alquiler de Piso en Zaidín,Granada,850,1.0,2,0,Primeros_pisos,3,1,0,0,0,0,1,0,0
+"Alquiler de Piso en calle Benalua, 8","Albaicín, Granada",650,0.0,1,0,Primeros_pisos,1,50,0,0,0,1,0,0,0
+Alquiler de Piso en calle Jesús y María,"San Matías - Pavaneras, Granada",700,1.0,1,0,Bajo,1,56,1,0,0,1,0,0,0
+Alquiler de Piso en San Ildefonso,Granada,840,0.0,1,0,Primeros_pisos,3,84,0,0,0,0,0,0,0
+Alquiler de Piso en La Chana,Granada,800,0.0,1,0,Ultimos_pisos,4,82,0,0,0,1,0,0,0
+"Alquiler de Piso en avenida de Cadiz, 42","Zaidín, Granada",960,1.0,1,0,Primeros_pisos,3,1,1,0,0,0,1,0,0
+Alquiler de Piso en calle Infanta Beatriz s/n,"Ronda - Arabial, Granada",1250,1.0,2,0,Ultimos_pisos,3,1,1,0,0,1,1,0,0
+"Alquiler de Piso en calle Nuestra Señora de la Salud, 3","Los Pajaritos, Granada",850,1.0,1,0,Primeros_pisos,2,85,1,1,1,0,1,0,1
+"Alquiler de Piso en lavadero de las tablas, 10","Jardín Botánico, Granada",800,1.0,1,0,Ultimos_pisos,3,95,0,1,0,1,0,0,0
+"Alquiler de Piso en calle Real de Cartuja, 63","San Ildefonso, Granada",990,0.0,1,0,Primeros_pisos,3,70,0,0,0,1,0,0,0
+Alquiler de Piso en puente del Carbón,"San Matías - Pavaneras, Granada",800,1.0,1,0,Primeros_pisos,2,90,0,0,0,1,0,0,0
+Alquiler de Estudio en misericordia,"Jardín Botánico, Granada",550,0.0,1,0,Primeros_pisos,1,35,1,0,0,0,0,0,0
+Alquiler de Piso en calle Sirena,"La Chana, Granada",1200,1.0,2,0,Primeros_pisos,4,1,1,0,0,1,1,0,0
+Alquiler de Piso en plaza de Fontiveros,"Zaidín, Granada",770,1.0,1,0,Primeros_pisos,2,70,1,0,0,1,1,0,0
+"Alquiler de Piso en plaza trinidad, 7","Jardín Botánico, Granada",800,0.0,1,0,Primeros_pisos,3,1,0,1,0,0,0,0,0
+Alquiler de Piso en calle Buensuceso,"Recogidas, Granada",1300,1.0,2,1,Primeros_pisos,3,1,0,0,0,1,1,0,0
+Alquiler de Piso en Barrio de los Periodistas,Granada,1000,1.0,2,0,Ultimos_pisos,3,1,0,0,1,0,0,1,0
+"Alquiler de Piso en calle san juan de dios, 40","Gran Capitán, Granada",1400,1.0,2,0,Ultimos_pisos,4,1,1,1,0,0,1,0,0
+Alquiler de Piso en calle Circunvalación,"Carretera de Granada-La Alcazaba, Alhendin",700,1.0,1,0,Primeros_pisos,2,70,0,0,1,1,0,0,1
+Alquiler de Piso en Zona Poniente,Armilla,700,0.0,1,0,Primeros_pisos,2,52,1,0,0,1,1,0,0
+Alquiler de Piso en Ronda - Arabial,"Ronda - Arabial, Granada",1140,1.0,1,0,Ultimos_pisos,3,90,0,0,0,0,1,0,0
+Alquiler de Ático en calle Gran Vía de Colón,"Gran Vía, Granada",900,1.0,1,1,Ultimos_pisos,1,55,1,0,1,1,1,0,0
+Alquiler de Piso en calle Cristo de la Yedra,"San Ildefonso, Granada",850,1.0,1,0,Bajo,2,70,1,1,0,1,0,0,0
+Alquiler de Piso en calle Doctor Muñoz Fernández,"Plaza de Toros, Granada",1200,1.0,2,0,Ultimos_pisos,3,1,1,1,0,1,0,0,0
+Alquiler de Chalet adosado en calle Perete,"La Cruz, Granada",1000,0.0,3,0,Muchas_plantas,3,1,0,0,0,1,0,0,0
+Alquiler de Piso en calle Adelfa,"Figares, Granada",1000,1.0,2,0,Primeros_pisos,4,1,1,0,1,1,0,0,0
+Alquiler de Piso en calle Águila,"Recogidas, Granada",1100,1.0,1,0,Primeros_pisos,2,60,1,1,0,1,1,0,0
+Alquiler de Piso en puente del Carbón,"San Matías - Pavaneras, Granada",850,0.0,1,0,Primeros_pisos,2,72,0,0,0,1,0,0,0
+Alquiler de Piso en Barrio de los Periodistas,Granada,1000,1.0,2,1,Primeros_pisos,3,1,1,1,1,1,1,1,0
+Alquiler de Piso en cuesta del Pescado,"Cuesta Escoriaza - Barranco del Abogado, Granada",770,0.0,1,0,Bajo,2,64,1,0,0,1,1,0,0
+Alquiler de Piso en plaza de los Naranjos,"Zona Polideportivo, Alhendin",700,0.0,2,1,Bajo,3,71,1,0,1,1,0,0,0
+Alquiler de Ático en calle Gran Vía de Colón,"Gran Vía, Granada",900,1.0,1,1,Ultimos_pisos,1,55,1,0,1,1,1,0,0
+Alquiler de Piso en Ronda - Arabial,"Ronda - Arabial, Granada",1140,1.0,1,0,Ultimos_pisos,3,90,0,0,0,0,1,0,0
+Alquiler de Piso en plaza de Fontiveros,"Zaidín, Granada",770,1.0,1,0,Primeros_pisos,2,70,1,0,0,1,1,0,0
+Alquiler de Piso en Barrio de los Periodistas,Granada,1000,1.0,2,0,Ultimos_pisos,3,1,0,0,1,0,0,1,0
+Alquiler de Chalet adosado en Zona de San Cayetano,Churriana de la Vega,1200,0.0,1,1,Muchas_plantas,3,1,1,1,1,1,1,0,0
+Alquiler de Estudio en calle pintor francisco pradilla,"Los Pajaritos, Granada",550,1.0,1,0,Primeros_pisos,1,30,0,0,0,0,1,0,0
+Alquiler de Piso en La Zubia,La Zubia,675,1.0,2,0,Primeros_pisos,3,95,0,1,0,1,0,0,0
+Alquiler de Piso en Ronda - Arabial,"Ronda - Arabial, Granada",890,1.0,1,0,Primeros_pisos,1,51,1,0,1,1,1,1,0
+Alquiler de Piso en calle Recogidas,"Figares, Granada",850,1.0,1,0,Ultimos_pisos,1,65,1,0,1,1,1,0,0
+Alquiler de Casa o chalet independiente en calle Honduras,"Zona Polideportivo, Alhendin",1200,0.0,3,0,Muchas_plantas,3,1,1,1,0,1,0,0,0
+"Alquiler de Chalet adosado en avenida García Lorca, 9","Campus de la Salud, Armilla",1300,0.0,3,1,Muchas_plantas,3,1,1,1,1,1,1,1,0
+Alquiler de Piso en San Ildefonso,Granada,1100,1.0,1,0,Ultimos_pisos,4,1,0,0,0,0,0,0,0
+Alquiler de Piso en Avda. de los Ogijares,Armilla,600,0.0,1,0,Bajo,2,80,0,1,0,0,0,0,0
+Alquiler de Piso en calle Albondón s/n,"Rosaleda - Juventud, Granada",550,1.0,1,0,Primeros_pisos,2,70,0,0,0,1,0,0,0
+"Alquiler de Estudio en calle Capuchinas, 8","Catedral, Granada",490,0.0,1,0,Primeros_pisos,1,20,0,0,0,0,0,0,0
+Alquiler de Piso en calle Darro del Boquerón,"Gran Capitán, Granada",800,1.0,1,0,Primeros_pisos,1,75,0,0,0,1,1,0,0
+Alquiler de Piso en Recogidas,"Centro, Granada",1500,1.0,2,0,Ultimos_pisos,5,2,0,1,0,1,0,0,0
+Alquiler de Piso en Molinos - Santiago,"Realejo, Granada",750,1.0,1,0,Primeros_pisos,2,75,1,0,0,1,1,0,0
+Alquiler de Piso en calle Doctor Fleming,"Plaza de Toros, Granada",900,1.0,1,0,Ultimos_pisos,3,90,0,0,0,1,1,0,0
+"Alquiler de Piso en calle las Cruces, 7",Ogijares,695,1.0,1,1,Primeros_pisos,2,1,1,1,1,1,1,0,1
+"Alquiler de Piso en calle Sirena, 14","La Chana, Granada",1200,1.0,2,0,Primeros_pisos,4,1,1,0,0,0,1,0,0
+Alquiler de Piso en Ronda - Arabial,"Ronda - Arabial, Granada",1250,1.0,2,0,Ultimos_pisos,4,1,0,0,0,1,0,0,0
+Alquiler de Piso en calle Alfonso XIII s/n,Albolote,800,1.0,2,0,Primeros_pisos,3,90,0,0,1,0,0,0,0
+"Alquiler de Piso en avenida de Italia, 8","Zaidín, Granada",1300,1.0,2,0,Primeros_pisos,4,1,1,1,0,0,1,0,0
+Alquiler de Piso en calle Ribera del Beiro,"Los Pajaritos, Granada",1000,1.0,1,0,Ultimos_pisos,2,80,0,0,1,0,1,0,0
+Alquiler de Piso en cuesta de Gomérez,"Molinos - Santiago, Granada",700,0.0,1,0,Primeros_pisos,1,68,1,0,0,1,1,0,0
+"Alquiler de Piso en puente del Carbón, 4","San Matías - Pavaneras, Granada",1100,0.0,1,1,Primeros_pisos,3,1,0,0,0,1,1,0,0
+Alquiler de Piso en calle Doctor Fleming,"Plaza de Toros, Granada",900,1.0,1,0,Ultimos_pisos,3,90,0,0,0,1,1,0,0
+Alquiler de Dúplex en Gran Capitán,"Centro, Granada",1100,0.0,2,0,Primeros_pisos,3,1,0,0,1,1,0,0,0
+Alquiler de Piso en Figares,Granada,1350,1.0,2,0,Primeros_pisos,3,90,1,1,0,1,1,0,0
+"Alquiler de Piso en puente del Carbón, 4","San Matías - Pavaneras, Granada",1100,0.0,1,1,Primeros_pisos,3,1,0,0,0,1,1,0,0
+Alquiler de Piso en Los Pajaritos,"Los Pajaritos - Plaza de Toros, Granada",1200,0.0,2,0,Primeros_pisos,4,1,1,0,0,1,1,1,0
+Alquiler de Piso en Recogidas,"Centro, Granada",1500,1.0,2,0,Ultimos_pisos,5,2,0,1,0,1,0,0,0
+Alquiler de Piso en cuesta de Gomérez,"Molinos - Santiago, Granada",700,0.0,1,0,Primeros_pisos,1,68,1,0,0,1,1,0,0
+Alquiler de Piso en La Chana,Granada,850,0.0,1,0,Primeros_pisos,3,95,0,1,0,0,0,0,0
+Alquiler de Piso en calle Sol,"Gran Capitán, Granada",1100,1.0,2,0,Ultimos_pisos,3,84,0,0,0,1,0,0,0
+"Alquiler de Piso en García Morato, 36","San Ildefonso, Granada",950,0.0,1,0,Primeros_pisos,2,96,0,1,0,1,1,0,0
+Alquiler de Piso en Fray Leopoldo de Alpandeire,"Los Pajaritos, Granada",850,1.0,2,0,Ultimos_pisos,2,67,1,0,1,0,1,0,0
+Alquiler de Piso en San Ildefonso,Granada,850,1.0,1,0,Bajo,2,75,1,1,0,1,0,0,0
+Alquiler de Estudio en carretera de la Sierra,"Ctra Sierra - Acceso Nuevo Alhambra, Granada",450,0.0,1,0,Bajo,1,30,0,0,0,1,0,0,1
+"Alquiler de Casa o chalet independiente en calle Horno del Moral, 4","Albaicín, Granada",1350,0.0,2,0,Muchas_plantas,3,1,1,1,0,1,0,0,0
+"Alquiler de Piso en avenida de Murcia, 14","San Ildefonso, Granada",950,1.0,1,0,Primeros_pisos,2,90,1,0,1,1,1,0,0
+Alquiler de Piso en Faisan,"Los Pajaritos, Granada",1080,1.0,1,0,Primeros_pisos,4,1,0,1,0,0,0,0,0
+"Alquiler de Piso en plaza Poeta Garcilaso de la Vega, 10","Joaquina Eguaras, Granada",800,1.0,1,0,Ultimos_pisos,3,95,1,1,0,1,1,0,0
+"Alquiler de Piso en calle Almireceros, 7","Gran Vía, Granada",1300,1.0,2,0,Primeros_pisos,4,1,1,0,0,1,0,0,0
+"Alquiler de Piso en calle Pedro Antonio de Alarcón, 9","Figares, Granada",1150,1.0,2,1,Ultimos_pisos,4,1,1,0,0,0,0,0,0
+Alquiler de Piso en calle Cristo de la Yedra,"San Ildefonso, Granada",850,1.0,1,0,Bajo,2,80,0,1,0,1,1,0,0
+Alquiler de Piso en Los Pajaritos,"Los Pajaritos - Plaza de Toros, Granada",900,0.0,1,0,Primeros_pisos,3,65,0,0,0,1,0,0,0
+Alquiler de Ático en Monachil,"Área de Granada, Granada",650,0.0,1,0,Primeros_pisos,2,50,0,1,0,1,0,0,0
+"Alquiler de Piso en calle Ribera del Beiro, 13","San Francisco Javier, Granada",1200,1.0,2,1,Primeros_pisos,3,1,1,0,0,1,1,0,1
+Alquiler de Piso en La Chana,Granada,1200,1.0,2,0,Primeros_pisos,4,1,1,0,0,1,0,0,0
+Alquiler de Piso en Albaicín,Granada,650,0.0,1,0,Bajo,1,40,0,0,0,1,0,0,0
+"Alquiler de Piso en calle San Isidro, 17","Figares, Granada",1200,1.0,1,0,Primeros_pisos,1,50,1,0,0,1,1,1,0
+"Alquiler de Ático en calle las Cruces, 5",Ogijares,695,1.0,1,1,Primeros_pisos,2,1,1,1,1,1,1,0,1
+"Alquiler de Piso en calle Pedro Antonio de Alarcón, 23","Ronda - Arabial, Granada",1900,1.0,2,0,Ultimos_pisos,3,1,1,1,0,1,1,0,0
+Alquiler de Piso en calle Arzobispo Pedro de Castro,"Joaquina Eguaras, Granada",800,1.0,2,0,Primeros_pisos,3,92,0,0,0,1,0,0,0
+"Alquiler de Piso en avenida de la Constitución, 23","Los Pajaritos, Granada",1500,1.0,2,0,Ultimos_pisos,4,1,1,0,0,0,1,0,0
+"Alquiler de Piso en García Morato, 36","San Ildefonso, Granada",950,0.0,1,0,Primeros_pisos,2,96,0,1,0,1,1,0,0
+"Alquiler de Piso en avenida de Murcia, 14","San Ildefonso, Granada",950,1.0,1,0,Primeros_pisos,2,90,1,0,1,1,1,0,0
+"Alquiler de Piso en calle Méndez Núñez, 8","Ronda - Arabial, Granada",1250,1.0,2,0,Primeros_pisos,4,1,0,1,0,0,0,0,0
+Alquiler de Piso en Los Pajaritos,"Los Pajaritos - Plaza de Toros, Granada",800,0.0,1,0,Primeros_pisos,3,90,1,0,0,1,0,0,0
+"Alquiler de Piso en calle Comendadoras de Santiago, 10","San Matías - Pavaneras, Granada",700,0.0,1,0,Primeros_pisos,3,70,0,0,0,1,0,0,0
+"Alquiler de Piso en pasaje de Teba, 2","Casería de Montijo, Granada",995,0.0,1,0,Primeros_pisos,5,87,1,0,0,1,1,0,0
+Alquiler de Piso en Cuesta Escoriaza - Barranco del Abogado,"Realejo, Granada",770,0.0,1,0,Bajo,2,64,0,0,0,1,1,0,0
+Alquiler de Piso en Carrera de la Virgen - Paseo del Salón,"Realejo, Granada",800,1.0,1,0,Bajo,1,60,0,0,0,1,1,0,0
+Alquiler de Estudio en carretera de la Sierra,"Ctra Sierra - Acceso Nuevo Alhambra, Granada",450,0.0,1,0,Bajo,1,30,0,0,0,1,0,0,1
+Alquiler de Piso en Los Pajaritos,"Los Pajaritos - Plaza de Toros, Granada",900,0.0,1,0,Primeros_pisos,3,65,0,0,0,1,0,0,0
+"Alquiler de Piso en calle Pedro Antonio de Alarcón, 9","Figares, Granada",1150,1.0,2,1,Ultimos_pisos,4,1,1,0,0,0,0,0,0
+Alquiler de Piso en calle Solarillo de Gracia,"Recogidas, Granada",1600,1.0,2,0,Ultimos_pisos,5,1,0,1,0,1,0,0,0
+"Alquiler de Piso en calle San Jerónimo, 5","Catedral, Granada",1200,1.0,2,0,Primeros_pisos,4,1,1,1,0,1,0,0,0
+"Alquiler de Ático en calle las Cruces, 5",Ogijares,695,1.0,1,1,Primeros_pisos,2,1,1,1,1,1,1,0,1
+"Alquiler de Piso en calle Buensuceso, 24","Recogidas, Granada",1290,0.0,2,1,Primeros_pisos,3,1,1,1,0,1,1,0,0
+Alquiler de Piso en Eva Yerbabuena,Ogijares,800,1.0,2,0,Primeros_pisos,3,80,1,0,1,1,1,1,1
+"Alquiler de Piso en calle Ribera del Beiro, 13","San Francisco Javier, Granada",1200,1.0,2,1,Primeros_pisos,3,1,1,0,0,1,1,0,1
+"Alquiler de Piso en calle San Isidro, 17","Figares, Granada",1200,1.0,1,0,Primeros_pisos,1,50,1,0,0,1,1,1,0
+"Alquiler de Ático en calle las Cruces, 1",Ogijares,695,1.0,1,1,Primeros_pisos,2,1,1,0,1,1,1,0,1
+Alquiler de Piso en Fray Leopoldo de Alpandeire,"Los Pajaritos, Granada",850,1.0,2,0,Ultimos_pisos,2,67,1,0,1,0,1,0,0
+Alquiler de Piso en calle Arzobispo Pedro de Castro,"Joaquina Eguaras, Granada",800,1.0,2,0,Primeros_pisos,3,92,0,0,0,1,0,0,0
+"Alquiler de Chalet pareado en calle Rio Monachil, 9",Ogijares,1300,0.0,3,1,Muchas_plantas,3,2,1,1,1,0,1,1,0
+"Alquiler de Piso en calle Gloria, 10","Albaicín, Granada",500,0.0,1,1,Bajo,1,40,0,1,0,1,0,0,1
+"Alquiler de Piso en calle las cruces, 7",Ogijares,695,1.0,1,1,Primeros_pisos,2,1,1,0,1,1,1,0,0
+Alquiler de Piso en La Chana,Granada,1200,1.0,2,0,Primeros_pisos,4,1,1,0,0,1,0,0,0
+Alquiler de Piso en Albaicín,Granada,650,0.0,1,0,Bajo,1,40,0,0,0,1,0,0,0
+Alquiler de Ático en Monachil,"Área de Granada, Granada",650,0.0,1,0,Primeros_pisos,2,50,0,1,0,1,0,0,0
+"Alquiler de Piso en calle Isla Madeira, 4","Residencial Triana - Barrio Alto, Las Gabias",670,1.0,1,0,Primeros_pisos,2,89,0,0,1,0,1,1,0
+Alquiler de Piso en La Chana,Granada,1200,1.0,2,0,Primeros_pisos,4,1,1,0,0,1,0,0,0
+Alquiler de Piso en calle Gregorio Espín,"Gran Capitán, Granada",850,1.0,1,0,Ultimos_pisos,2,70,0,0,1,1,1,0,0
+"Alquiler de Piso en calle Ribera del Beiro, 13","San Francisco Javier, Granada",1200,1.0,2,1,Primeros_pisos,3,1,1,0,0,1,1,0,1
+Alquiler de Piso en calle Arzobispo Pedro de Castro,"Joaquina Eguaras, Granada",800,1.0,2,0,Primeros_pisos,3,92,0,0,0,1,0,0,0
+"Alquiler de Piso en calle Isla Madeira, 4","Residencial Triana - Barrio Alto, Las Gabias",670,1.0,1,0,Primeros_pisos,2,89,0,0,1,0,1,1,0
+Alquiler de Piso en calle Cañar,"Rosaleda - Juventud, Granada",1100,1.0,2,0,Primeros_pisos,4,1,0,0,0,1,1,0,0
+Alquiler de Piso en Los Pajaritos,"Los Pajaritos - Plaza de Toros, Granada",900,0.0,1,0,Primeros_pisos,3,65,0,0,0,1,0,0,0
+Alquiler de Piso en calle Solarillo de Gracia,"Recogidas, Granada",1600,1.0,2,0,Ultimos_pisos,5,1,0,1,0,1,0,0,0
+Alquiler de Piso en Albaicín,Granada,570,0.0,1,0,Bajo,1,46,1,1,0,1,0,0,0
+Alquiler de Piso en carretera de Málaga,"La Chana, Granada",900,1.0,2,0,Primeros_pisos,4,95,0,0,0,1,0,0,0
+Alquiler de Piso en calle Agua de Cartuja,"San Ildefonso, Granada",750,1.0,1,0,Primeros_pisos,2,65,0,0,0,1,0,0,0
+Alquiler de Piso en calle Darro del Boquerón,"Gran Capitán, Granada",800,1.0,1,0,Primeros_pisos,1,67,0,0,0,1,0,0,0
+"Alquiler de Piso en calle Sócrates, 14","Jardín Botánico, Granada",1200,1.0,2,0,Primeros_pisos,3,1,1,0,0,1,0,0,0
+Alquiler de Piso en Plaza de Toros,"Los Pajaritos - Plaza de Toros, Granada",840,0.0,1,0,Ultimos_pisos,3,80,0,0,0,1,0,0,0
+Alquiler de Piso en carretera de Málaga,"La Chana, Granada",900,1.0,2,0,Primeros_pisos,4,95,0,0,0,1,0,0,0
+Alquiler de Piso en calle Damasqueros s/n,"Molinos - Santiago, Granada",700,0.0,1,0,Primeros_pisos,1,35,0,0,0,0,0,0,0
+"Alquiler de Piso en camino de Ronda, 72","Figares, Granada",1278,1.0,2,0,Ultimos_pisos,4,1,0,1,0,0,1,0,0
+"Alquiler de Piso en calle Recogidas, 10","Figares, Granada",1200,1.0,2,0,Ultimos_pisos,3,1,1,1,0,1,1,0,0
+"Alquiler de Piso en calle Recoletos, 21","Ronda - Arabial, Granada",950,1.0,1,0,Primeros_pisos,3,80,0,0,0,1,1,0,0
+Alquiler de Piso en ronda de Alfareros,"Casería de Montijo, Granada",1200,0.0,2,1,Primeros_pisos,4,1,0,1,1,1,1,0,1
+Alquiler de Piso en calle Jesús y María,"San Matías - Pavaneras, Granada",700,1.0,1,0,Bajo,1,56,1,0,0,1,0,0,0
+Alquiler de Piso en calle Doctor Fidel Fernández,"Plaza de Toros, Granada",800,1.0,1,0,Primeros_pisos,3,85,1,0,0,1,0,0,0
+Alquiler de Piso en Plaza de Toros,"Los Pajaritos - Plaza de Toros, Granada",840,0.0,1,0,Ultimos_pisos,3,80,0,0,0,1,0,0,0
+"Alquiler de Casa o chalet independiente en calle Verea de Enmedio, 19","Albaicín, Granada",2500,0.0,2,0,Muchas_plantas,4,2,1,1,0,0,1,0,0
+"Alquiler de Estudio en calle Moral de la Magdalena, 19","Recogidas, Granada",380,0.0,1,0,Primeros_pisos,1,35,0,0,0,0,0,0,0
+"Alquiler de Piso en camino de Ronda, 139","Ronda - Arabial, Granada",1200,1.0,1,0,Primeros_pisos,3,1,1,0,0,1,1,0,0
+"Alquiler de Piso en jesse Owens, 1","Rosaleda - Juventud, Granada",1000,1.0,2,1,Ultimos_pisos,3,1,0,1,1,1,1,0,1
+Alquiler de Piso en Recogidas,"Centro, Granada",1200,0.0,2,0,Primeros_pisos,3,1,0,0,0,0,0,0,0
+Alquiler de Piso en calle Benalua,"Albaicín, Granada",650,0.0,1,0,Primeros_pisos,1,50,0,0,0,0,0,0,0
+Alquiler de Piso en calle Aconcagua,"Bola de Oro, Granada",850,1.0,1,0,Primeros_pisos,2,92,0,0,1,1,0,1,1
+Alquiler de Piso en avenida Fernando de los Ríos,"Parque Lagos, Granada",795,1.0,2,1,Ultimos_pisos,2,85,1,0,1,1,0,1,1
+Alquiler de Chalet adosado en calle Tudela,"Zaidín, Granada",850,0.0,1,0,Muchas_plantas,4,90,1,1,0,1,0,0,0
+Alquiler de Piso en calle Santa Clara,"Zaidín, Granada",850,1.0,2,0,Primeros_pisos,3,97,0,1,0,1,1,0,0
+Alquiler de Piso en calle Ancha de Capuchinos s/n,"San Ildefonso, Granada",1180,1.0,2,0,Primeros_pisos,4,1,0,0,0,1,0,0,0
+Alquiler de Piso en calle Hortensia,Santa Fe,790,1.0,2,0,Primeros_pisos,2,78,0,0,0,1,1,0,0
+Alquiler de Piso en calle Benalua,"Albaicín, Granada",650,0.0,1,0,Primeros_pisos,1,50,0,0,0,0,0,0,0
+Alquiler de Estudio en plaza Nueva s/n,"Molinos - Santiago, Granada",650,0.0,1,0,Primeros_pisos,1,55,0,0,0,1,1,0,0
+Alquiler de Ático en calle Castañeda s/n,"Carrera de la Virgen - Paseo del Salón, Granada",630,0.0,1,0,Primeros_pisos,1,55,0,0,0,1,1,0,0
+"Alquiler de Piso en camino de Ronda, 132","Ronda - Arabial, Granada",920,1.0,1,0,Ultimos_pisos,3,90,0,0,0,0,0,0,0
+Alquiler de Piso en Recogidas,"Centro, Granada",1200,0.0,2,0,Primeros_pisos,3,1,0,0,0,0,0,0,0
+Alquiler de Piso en calle San Antón,"Figares, Granada",1200,1.0,2,0,Primeros_pisos,4,1,0,1,0,1,0,0,0
+Alquiler de Piso en pasaje de San Juan,"La Chana, Granada",1000,1.0,2,0,Primeros_pisos,4,1,1,1,0,1,1,0,0
+Alquiler de Piso en calle los Santos,"Gran Vía, Granada",1500,0.0,1,0,Primeros_pisos,5,1,0,0,0,0,0,0,0
+Alquiler de Piso en calle Laguna de Aguas Verdes,"Bola de Oro, Granada",875,1.0,2,0,Primeros_pisos,3,1,1,1,1,1,0,0,0
+"Alquiler de Piso en calle Arzobispo Pedro de Castro, 2","Joaquina Eguaras, Granada",1000,1.0,2,0,Ultimos_pisos,4,1,0,0,1,1,0,0,0
+Alquiler de Estudio en calle Puentezuelas,"Recogidas, Granada",430,1.0,1,0,Ultimos_pisos,1,26,1,0,0,0,0,0,0
+Alquiler de Piso en avenida de Andaluces,"Los Pajaritos, Granada",750,1.0,1,0,Ultimos_pisos,2,70,1,1,0,1,1,0,0
+Alquiler de Piso en calle Jardines,"Recogidas, Granada",800,0.0,1,0,Primeros_pisos,2,60,1,0,0,1,1,0,0
+Alquiler de Piso en calle San Matías,"San Matías - Pavaneras, Granada",800,1.0,1,0,Primeros_pisos,2,65,1,0,0,1,1,0,0
+Alquiler de Piso en Ronda - Arabial,"Ronda - Arabial, Granada",800,1.0,2,0,Ultimos_pisos,3,1,0,0,0,1,0,0,0
+Alquiler de Piso en Arabial,"Ronda - Arabial, Granada",1250,1.0,2,0,Ultimos_pisos,3,95,1,0,0,1,1,0,0
+Alquiler de Piso en calle Trajano,"Jardín Botánico, Granada",650,1.0,1,0,Ultimos_pisos,1,70,0,0,0,0,0,0,0
+Alquiler de Piso en avenida de Maracena,"Barrio de los Periodistas, Granada",650,0.0,1,0,Primeros_pisos,3,85,0,0,0,0,0,0,0
+"Alquiler de Estudio en cuesta Beteta, 38","Albaicín, Granada",750,0.0,1,1,Bajo,1,60,0,1,0,1,1,0,0
+Alquiler de Estudio en Zaidín,Granada,600,0.0,1,0,Bajo,1,30,0,0,0,1,0,0,0
+Alquiler de Piso en San Ildefonso,Granada,1040,1.0,1,0,Primeros_pisos,4,90,0,0,0,1,0,0,0
+Alquiler de Piso en calle Curro Cúchares,"La Cruz, Granada",950,1.0,1,0,Primeros_pisos,4,1,0,0,0,1,1,0,0
+"Alquiler de Piso en avenida de la Ilustración, 51","Campus de la Salud, Granada",990,1.0,2,0,Primeros_pisos,3,1,1,0,1,1,0,1,1
+Alquiler de Piso en Mozart s/n,"Figares, Granada",1400,1.0,2,0,Primeros_pisos,4,1,1,1,1,1,1,0,0
+Alquiler de Piso en calle Curro Cúchares,"La Cruz, Granada",950,1.0,1,0,Primeros_pisos,4,1,0,0,0,1,1,0,0
+Alquiler de Piso en San Ildefonso,Granada,1040,1.0,1,0,Primeros_pisos,4,90,0,0,0,1,0,0,0
+Alquiler de Casa o chalet independiente en San Francisco Javier,Granada,1350,0.0,2,0,Muchas_plantas,4,1,0,1,0,1,0,0,0
+Alquiler de Piso en Arabial,"Ronda - Arabial, Granada",1250,1.0,2,0,Ultimos_pisos,3,95,1,0,0,1,1,0,0
+Alquiler de Piso en San Ildefonso,Granada,950,0.0,1,0,Bajo,2,56,0,0,0,1,0,0,0
+Alquiler de Piso en Joaquina Eguaras,Granada,800,1.0,2,0,Primeros_pisos,3,1,0,0,1,1,0,0,0
+Alquiler de Piso en Casería de Montijo,"Norte, Granada",995,0.0,3,0,Primeros_pisos,5,87,1,0,0,1,0,0,0
+Alquiler de Piso en calle Doctor Fernando Escobar,"Plaza de Toros, Granada",800,0.0,1,0,Ultimos_pisos,3,1,0,0,0,1,1,0,0
+Alquiler de Casa o chalet independiente en La Cruz,"Los Pajaritos - Plaza de Toros, Granada",1000,0.0,3,0,Muchas_plantas,3,1,1,1,0,1,0,0,0
+Alquiler de Piso en Junto Puerta Real,"San Matías - Pavaneras, Granada",700,1.0,1,0,Primeros_pisos,1,60,1,0,0,1,1,0,0
+Alquiler de Piso en calle Pavaneras,"Molinos - Santiago, Granada",650,1.0,1,0,Primeros_pisos,1,50,0,0,0,1,1,0,0
+Alquiler de Piso en Carrera de la Virgen - Paseo del Salón,"Realejo, Granada",1000,0.0,1,0,Primeros_pisos,3,90,0,1,0,1,0,0,0
+Alquiler de Piso en camino de Alfacar,"Campo Verde, Granada",1140,1.0,1,0,Primeros_pisos,3,94,0,1,1,1,1,0,0
+Alquiler de Piso en calle Periodista Eduardo Molina Fajardo,"Barrio de los Periodistas, Granada",790,1.0,2,0,Bajo,2,90,1,1,1,1,0,1,1
+Alquiler de Piso en Aljomahima - Ermita,Las Gabias,550,1.0,1,0,Bajo,2,70,0,0,1,1,0,0,0
+Alquiler de Estudio en Albaicín,Granada,500,0.0,1,1,Bajo,1,35,0,0,0,1,0,0,0
+Alquiler de Estudio en Albaicín,Granada,1600,0.0,1,0,Primeros_pisos,1,40,0,1,0,1,0,0,1
+Alquiler de Piso en calle Lagartijillo,"La Cruz, Granada",950,0.0,1,0,Bajo,3,1,1,0,0,1,0,0,0
+Alquiler de Piso en Albaicín,Granada,850,0.0,1,0,Bajo,1,33,0,1,0,1,0,0,0
+Alquiler de Chalet adosado en calle Cabrera,Belicena,1300,0.0,2,1,Muchas_plantas,3,1,0,1,1,1,1,1,0
+"Alquiler de Casa o chalet independiente en calle mulhacen, 1",Maracena,850,0.0,2,1,Muchas_plantas,4,1,0,1,0,0,1,0,0
+Alquiler de Piso en Recogidas,"Centro, Granada",650,0.0,1,0,Bajo,1,37,0,0,0,1,1,0,0
+Alquiler de Ático en Albaicín,Granada,1500,0.0,1,0,Primeros_pisos,2,50,1,1,0,1,1,0,0
+Alquiler de Piso en calle Valenzuela,"Albaicín, Granada",680,0.0,1,0,Primeros_pisos,1,55,1,0,0,1,1,0,0
+"Alquiler de Piso en calle San Vicente Ferrer, 6","Figares, Granada",1250,1.0,1,0,Primeros_pisos,2,90,0,1,0,1,1,0,0
+Alquiler de Piso en Gran Capitán,"Centro, Granada",1200,1.0,2,0,Ultimos_pisos,3,1,0,0,0,1,0,0,0
+Alquiler de Piso en Los Pajaritos,"Los Pajaritos - Plaza de Toros, Granada",525,0.0,1,0,Bajo,1,29,0,0,1,1,0,0,0
+"Alquiler de Piso en calle Nicuesa, 9","Carrera de la Virgen - Paseo del Salón, Granada",850,0.0,1,0,Bajo,1,60,0,0,0,1,0,0,0
+Alquiler de Ático en calle Real de Cartuja,"San Ildefonso, Granada",700,1.0,1,0,Primeros_pisos,1,75,1,1,0,0,1,0,0
+Alquiler de Piso en Gran Capitán,"Centro, Granada",1200,1.0,2,0,Ultimos_pisos,3,1,0,0,0,1,0,0,0
+Alquiler de Piso en calle del Filólogo Julio Casares s/n,"Rosaleda - Juventud, Granada",1200,1.0,2,1,Primeros_pisos,3,1,1,1,1,0,1,1,1
+Alquiler de Piso en calle Cisne,"Los Pajaritos, Granada",800,1.0,1,0,Primeros_pisos,2,70,1,0,0,1,1,0,0
+Alquiler de Piso en Plaza de Toros,"Los Pajaritos - Plaza de Toros, Granada",1200,1.0,1,0,Primeros_pisos,4,90,0,1,0,1,0,0,0
+Alquiler de Piso en Figares,Granada,1400,1.0,2,0,Primeros_pisos,4,1,0,0,0,1,0,0,0
+Alquiler de Piso en avenida de Cadiz,"Zaidín, Granada",950,1.0,2,0,Bajo,3,95,1,0,1,1,1,0,0
+"Alquiler de Estudio en calle Conde Cifuentes, 17","Figares, Granada",750,1.0,1,0,Primeros_pisos,1,60,1,1,0,0,1,0,0
+Alquiler de Piso en plaza Romanilla,"Catedral, Granada",1100,1.0,2,0,Primeros_pisos,2,85,1,0,0,1,1,0,0
+Alquiler de Piso en plaza de Gracia,"Recogidas, Granada",575,0.0,1,0,Primeros_pisos,1,43,1,0,0,1,1,0,0
+Alquiler de Piso en Ronda - Arabial,"Ronda - Arabial, Granada",800,1.0,2,0,Ultimos_pisos,3,1,0,0,0,1,0,0,0
+Alquiler de Piso en calle Tiña,"Albaicín, Granada",750,0.0,1,0,Primeros_pisos,1,60,0,0,0,1,1,0,0
+Alquiler de Piso en Albaicín,Granada,700,1.0,1,0,Primeros_pisos,1,50,0,0,0,1,0,0,0
+Alquiler de Piso en Polígono Cartuja,"Norte, Granada",720,1.0,1,0,Ultimos_pisos,3,93,0,1,0,0,1,0,0
+Alquiler de Piso en Jardín Botánico,"Centro, Granada",650,1.0,1,0,Ultimos_pisos,1,65,0,0,0,1,0,0,0
+Alquiler de Piso en Zaidín,Granada,1100,0.0,1,0,Bajo,4,1,0,0,0,0,1,0,0
+Alquiler de Piso en Ronda - Arabial,"Ronda - Arabial, Granada",1400,1.0,1,0,Ultimos_pisos,4,1,0,0,0,1,0,0,0
+Alquiler de Piso en Los Pajaritos,"Los Pajaritos - Plaza de Toros, Granada",700,1.0,1,0,Primeros_pisos,2,70,0,1,0,0,0,0,0
+Alquiler de Piso en Ronda - Arabial,"Ronda - Arabial, Granada",1200,1.0,2,0,Ultimos_pisos,3,80,0,1,0,1,0,0,0
+Alquiler de Piso en avenida de la Constitución,"Plaza de Toros, Granada",1100,1.0,2,0,Primeros_pisos,4,1,0,1,0,1,0,0,0
+Alquiler de Piso en paseo de la Bomba,"Carrera de la Virgen - Paseo del Salón, Granada",950,0.0,2,0,Primeros_pisos,4,1,0,0,0,0,1,0,0
+"Alquiler de Dúplex en cuesta de San Antonio, 8","San Ildefonso, Granada",620,1.0,1,0,Primeros_pisos,1,69,0,0,0,0,0,0,0
+Alquiler de Piso en Plaza de Toros,"Los Pajaritos - Plaza de Toros, Granada",825,1.0,1,0,Ultimos_pisos,3,90,0,0,0,1,0,0,0
+Alquiler de Piso en Ronda - Arabial,"Ronda - Arabial, Granada",850,1.0,1,0,Primeros_pisos,3,97,0,0,0,1,0,0,0
+Alquiler de Piso en Jardín Botánico,"Centro, Granada",700,1.0,1,0,Ultimos_pisos,2,77,1,0,0,1,0,0,0
+"Alquiler de Ático en calle Arabial, 111","Ronda - Arabial, Granada",750,1.0,1,0,Ultimos_pisos,2,72,0,1,0,1,0,0,0
+"Alquiler de Piso en calle Manuel de Falla, 5","Figares, Granada",995,1.0,2,0,Primeros_pisos,3,1,0,0,1,1,0,0,0
+Alquiler de Piso en Figares,Granada,1300,1.0,2,0,Ultimos_pisos,2,1,1,0,0,1,0,0,0
+Alquiler de Piso en calle Piedra Santa,"San Matías - Pavaneras, Granada",800,1.0,1,0,Primeros_pisos,1,55,1,1,0,1,1,0,0
+Alquiler de Piso en calle Boquerón,"Gran Capitán, Granada",500,0.0,1,0,Bajo,1,41,1,0,0,0,0,0,0
+Alquiler de Piso en Jardín Botánico,"Centro, Granada",700,1.0,1,0,Ultimos_pisos,2,77,1,0,0,1,0,0,0
+Alquiler de Piso en calle Boquerón,"Gran Capitán, Granada",500,0.0,1,0,Bajo,1,41,1,0,0,0,0,0,0
+"Alquiler de Piso en calle Emperatriz Eugenia, 6","Gran Capitán, Granada",1100,1.0,2,0,Primeros_pisos,5,1,1,1,0,1,1,0,0
+Alquiler de Piso en calle Piedra Santa,"San Matías - Pavaneras, Granada",800,1.0,1,0,Primeros_pisos,1,55,1,1,0,1,1,0,0
+Alquiler de Piso en Zaidín,Granada,690,1.0,1,0,Primeros_pisos,3,95,1,0,0,1,0,0,0
+"Alquiler de Ático en calle Arabial, 111","Ronda - Arabial, Granada",750,1.0,1,0,Ultimos_pisos,2,72,0,1,0,1,0,0,0
+"Alquiler de Ático en calle Demetrio Spínola, 17","Rosaleda - Juventud, Granada",1100,1.0,1,0,Ultimos_pisos,4,1,0,1,0,1,1,0,1
+Alquiler de Piso en Ronda - Arabial,"Ronda - Arabial, Granada",850,1.0,1,0,Primeros_pisos,3,97,0,0,0,1,0,0,0
+"Alquiler de Estudio en calle Paz, 22","Recogidas, Granada",685,0.0,1,0,Primeros_pisos,1,33,1,0,0,0,1,0,0
+Alquiler de Piso en Plaza de Toros,"Los Pajaritos - Plaza de Toros, Granada",825,1.0,1,0,Ultimos_pisos,3,90,0,0,0,1,0,0,0
+Alquiler de Piso en Ronda - Arabial,"Ronda - Arabial, Granada",1400,1.0,1,0,Ultimos_pisos,4,1,0,0,0,1,0,0,0
+Alquiler de Piso en Carrera de la Virgen - Paseo del Salón,"Realejo, Granada",850,1.0,1,0,Primeros_pisos,3,95,0,0,0,1,0,0,0
+Alquiler de Casa o chalet independiente en calle Sauce s/n,Huétor-Vega,650,0.0,1,1,Muchas_plantas,3,80,1,0,1,1,1,0,0
+"Alquiler de Ático en calle Doctor Rojas Ballesteros, 2","Plaza de Toros, Granada",950,1.0,1,0,Ultimos_pisos,4,1,0,1,0,0,0,0,0
+Alquiler de Piso en calle Rosalía de Castro,"Parque Nueva Granada, Granada",690,0.0,1,0,Primeros_pisos,3,80,0,0,0,1,0,0,1
+Alquiler de Piso en calle Albahaca,"Figares, Granada",1000,1.0,2,0,Primeros_pisos,4,1,1,0,0,1,0,1,0
+"Alquiler de Piso en avenida Divina Pastora, 7","San Ildefonso, Granada",720,1.0,1,0,Ultimos_pisos,1,67,1,0,0,1,1,1,1
+Alquiler de Piso en Cuesta Escoriaza - Barranco del Abogado,"Realejo, Granada",550,1.0,1,0,Primeros_pisos,1,50,1,0,0,1,1,0,0
+"Alquiler de Piso en zenete, 5","Albaicín, Granada",600,0.0,1,0,Primeros_pisos,2,80,0,0,0,0,0,0,0
+Alquiler de Piso en Los Pajaritos,"Los Pajaritos - Plaza de Toros, Granada",1000,1.0,2,0,Ultimos_pisos,4,1,0,0,0,1,0,0,0
+"Alquiler de Piso en Plaza, 2",Albolote,750,1.0,2,0,Primeros_pisos,2,89,1,1,1,1,1,0,0
+Alquiler de Chalet adosado en Campus de la Salud,Granada,1150,0.0,3,1,Muchas_plantas,3,1,1,1,1,1,1,1,0
+Alquiler de Piso en Plaza de Toros,"Los Pajaritos - Plaza de Toros, Granada",750,1.0,1,0,Ultimos_pisos,3,85,0,0,0,1,0,0,0
+Alquiler de Piso en Los Pajaritos,"Los Pajaritos - Plaza de Toros, Granada",750,1.0,1,0,Ultimos_pisos,1,20,0,0,0,1,1,0,0
+"Alquiler de Ático en calle Agua de Cartuja, 9","San Ildefonso, Granada",600,1.0,1,0,Primeros_pisos,1,50,1,1,0,1,1,0,0
+"Alquiler de Ático en plaza de la Trinidad, 12","Catedral, Granada",750,0.0,1,0,Primeros_pisos,1,42,1,0,0,0,1,0,0
+"Alquiler de Piso en calle Reyes Católicos, 25","Catedral, Granada",1600,0.0,2,1,Primeros_pisos,6,1,1,0,0,1,0,0,0
+Alquiler de Piso en Cervantes-Palacio de Deportes,Granada,600,1.0,2,0,Primeros_pisos,3,1,1,0,0,0,0,0,0
+Alquiler de Piso en Recogidas,"Centro, Granada",1000,1.0,1,0,Primeros_pisos,2,62,0,0,1,1,1,0,0
+"Alquiler de Piso en avenida de la Ilustración, 77","Campus de la Salud, Granada",950,1.0,2,1,Primeros_pisos,2,95,1,0,1,1,0,1,1
+Alquiler de Piso en Cuesta Escoriaza - Barranco del Abogado,"Realejo, Granada",550,1.0,1,0,Primeros_pisos,1,50,1,0,0,1,1,0,0
+Alquiler de Chalet adosado en Campus de la Salud,Granada,1150,0.0,3,1,Muchas_plantas,3,1,1,1,1,1,1,1,0
+Alquiler de Piso en callejón del Señor,"Cuesta Escoriaza - Barranco del Abogado, Granada",640,0.0,1,0,Primeros_pisos,1,62,1,0,0,1,1,0,0
+Alquiler de Casa o chalet independiente en Albaicín,Granada,1100,0.0,3,0,Muchas_plantas,3,1,1,1,0,1,1,1,0
+Alquiler de Piso en glorieta de Arabial,"Figares, Granada",600,0.0,1,0,Bajo,1,50,0,0,0,0,0,0,0
+"Alquiler de Piso en cuesta alhcaba, 4","Albaicín, Granada",750,0.0,1,0,Primeros_pisos,2,75,1,0,0,0,1,0,0
+Alquiler de Piso en calle Jaén,"Zaidín, Granada",700,0.0,1,0,Primeros_pisos,2,70,1,0,0,1,0,0,0
+Alquiler de Piso en Gran Capitán,"Centro, Granada",620,0.0,1,0,Primeros_pisos,1,50,0,0,0,1,0,0,0
+"Alquiler de Ático en avenida de Juan Pablo II, 9","La Cruz, Granada",1100,1.0,2,0,Ultimos_pisos,3,1,1,1,0,0,1,0,0
+"Alquiler de Piso en calle Ángel Ganivet, 21","San Matías - Pavaneras, Granada",1100,1.0,1,0,Primeros_pisos,1,60,1,1,0,0,1,0,0
+Alquiler de Piso en Plaza de Toros,"Los Pajaritos - Plaza de Toros, Granada",850,1.0,1,0,Ultimos_pisos,1,25,0,0,0,1,1,0,0
+Alquiler de Piso en San Antón,Armilla,600,0.0,1,0,Primeros_pisos,3,83,0,1,0,0,0,0,0
+Alquiler de Piso en La Chana,Granada,750,1.0,1,0,Ultimos_pisos,3,96,0,1,0,1,0,0,0
+Alquiler de Piso en Ronda - Arabial,"Ronda - Arabial, Granada",1200,1.0,2,0,Primeros_pisos,4,1,0,0,0,1,0,0,0
+Alquiler de Piso en La Cruz,"Los Pajaritos - Plaza de Toros, Granada",1200,0.0,2,0,Primeros_pisos,4,1,0,0,0,0,1,0,0
+Alquiler de Chalet adosado en Campus de la Salud,Granada,1150,0.0,3,0,Muchas_plantas,3,1,1,1,1,1,1,1,0
+Alquiler de Piso en Campo Verde,"Norte, Granada",750,0.0,1,0,Bajo,3,79,0,0,1,1,0,0,1
+"Alquiler de Piso en calle Lavadero Zafra, 9","Gran Capitán, Granada",1100,0.0,1,0,Ultimos_pisos,3,70,0,0,0,1,1,0,0
+Alquiler de Piso en Zaidín,Granada,1100,0.0,1,0,Bajo,4,90,0,0,0,1,0,0,0
+Alquiler de Piso en calle Jaén,"Zaidín, Granada",700,0.0,1,0,Primeros_pisos,2,70,1,0,0,1,0,0,0
+Alquiler de Chalet adosado en calle Ibiza,Belicena,1300,0.0,2,0,Muchas_plantas,3,1,1,1,0,1,1,1,0
+"Alquiler de Piso en calle Aben Humeya, 12","Figares, Granada",950,1.0,1,0,Primeros_pisos,2,92,1,0,1,1,1,0,0
+"Alquiler de Piso en calle Doctor Jiménez Díaz, 3","Los Pajaritos, Granada",700,1.0,1,0,Ultimos_pisos,1,70,1,1,0,1,1,0,0
+"Alquiler de Piso en avenida Maracena, 190","Barrio de los Periodistas, Granada",670,1.0,1,1,Primeros_pisos,1,60,0,0,1,1,0,1,1
+"Alquiler de Piso en calle Juan de Ávila Segovia, 2","Ronda - Arabial, Granada",900,1.0,1,0,Primeros_pisos,3,82,1,0,0,0,0,0,0
+Alquiler de Piso en Ronda - Arabial,"Ronda - Arabial, Granada",900,1.0,2,0,Primeros_pisos,3,75,0,0,0,1,0,0,0
+"Alquiler de Piso en carril del Picón, 20","Jardín Botánico, Granada",1000,1.0,2,0,Primeros_pisos,4,90,1,0,0,0,0,0,0
+"Alquiler de Piso en avenida de Cadiz, 12","Zaidín, Granada",800,1.0,2,0,Ultimos_pisos,4,99,0,1,0,1,1,0,0
+"Alquiler de Piso en Aixa la Horra, 8","Bola de Oro, Granada",690,1.0,1,0,Ultimos_pisos,2,70,1,0,0,1,0,1,0
+"Alquiler de Piso en calle Juan de Ávila Segovia, 2","Ronda - Arabial, Granada",900,1.0,1,0,Primeros_pisos,3,82,1,0,0,0,0,0,0
+"Alquiler de Estudio en plaza del Realejo, 8","Cuesta Escoriaza - Barranco del Abogado, Granada",600,1.0,1,0,Ultimos_pisos,1,29,0,0,0,1,1,0,0
+"Alquiler de Piso en calle Doctor Jiménez Díaz, 3","Los Pajaritos, Granada",700,1.0,1,0,Ultimos_pisos,1,70,1,1,0,1,1,0,0
+Alquiler de Piso en Ronda - Arabial,"Ronda - Arabial, Granada",900,1.0,2,0,Primeros_pisos,3,75,0,0,0,1,0,0,0
+Alquiler de Piso en Figares,Granada,1150,1.0,2,0,Primeros_pisos,4,1,0,0,0,1,1,0,0
+"Alquiler de Piso en avenida Maracena, 190","Barrio de los Periodistas, Granada",670,1.0,1,1,Primeros_pisos,1,60,0,0,1,1,0,1,1
+Alquiler de Piso en Catedral,"Centro, Granada",1150,0.0,1,0,Ultimos_pisos,2,55,0,0,0,0,1,0,0
+Alquiler de Dúplex en Maracena,"Área de Granada, Granada",800,1.0,1,0,Primeros_pisos,2,72,1,1,1,1,0,0,0
+"Alquiler de Piso en calle Ovidio, 4","Barrio de los Periodistas, Granada",1000,1.0,2,0,Ultimos_pisos,3,1,1,0,1,1,0,1,1
+"Alquiler de Piso en calle San Vicente Ferrer, 6","Figares, Granada",1250,1.0,1,0,Primeros_pisos,2,98,0,0,0,0,1,0,0
+Alquiler de Piso en La Chana,Granada,650,0.0,1,0,Bajo,2,70,0,0,0,0,0,0,0
+Alquiler de Piso en cocheras de santa paula,"Catedral, Granada",500,0.0,1,0,Primeros_pisos,1,35,1,0,0,0,0,0,0
+"Alquiler de Estudio en calle Misericordia, 12","Jardín Botánico, Granada",750,0.0,1,0,Primeros_pisos,1,30,0,0,0,1,1,0,0
+Alquiler de Piso en calle Conde de Tendillas,"Jardín Botánico, Granada",540,1.0,1,0,Primeros_pisos,1,48,0,0,0,0,0,0,0
+Alquiler de Piso en Campo Verde,"Norte, Granada",730,0.0,1,0,Ultimos_pisos,3,77,1,1,1,0,1,0,0
+"Alquiler de Piso en cuesta de Rodrigo del Campo, 21","Molinos - Santiago, Granada",850,0.0,1,0,Primeros_pisos,2,76,0,0,0,0,0,0,0
+Alquiler de Piso en Campo Verde,"Norte, Granada",1400,1.0,2,0,Ultimos_pisos,5,85,0,0,0,0,1,0,0
+Alquiler de Piso en Gran Capitán,"Centro, Granada",750,1.0,1,0,Primeros_pisos,1,70,0,0,0,0,0,0,0
+"Alquiler de Piso en calle Cv Encina, 20","La Chana, Granada",900,1.0,2,0,Primeros_pisos,3,1,0,0,0,1,0,0,1
+"Alquiler de Piso en avenida de la Ilustración, 101","Campus de la Salud, Granada",870,1.0,2,1,Ultimos_pisos,2,1,1,0,1,1,1,1,1
+Alquiler de Piso en avenida de Pulianas,"San Francisco Javier, Granada",860,1.0,1,0,Primeros_pisos,3,90,1,1,0,1,1,0,0
+Alquiler de Piso en Ronda - Arabial,"Ronda - Arabial, Granada",1200,1.0,2,0,Ultimos_pisos,4,1,0,0,0,1,0,0,0
+"Alquiler de Estudio en calle Limón, 3","Albaicín, Granada",650,0.0,1,0,Bajo,1,60,1,0,0,1,0,0,0
+Alquiler de Estudio en Zaidín,Granada,600,0.0,1,0,Bajo,1,30,0,0,0,1,0,0,0
+"Alquiler de Estudio en calle San Juan de Dios, 15","Gran Capitán, Granada",500,0.0,1,0,Primeros_pisos,1,60,0,0,0,1,0,0,0
+"Alquiler de Piso en calle Hortensia, 1",Santa Fe,850,1.0,1,0,Primeros_pisos,2,71,0,0,0,1,1,0,0
+"Alquiler de Chalet pareado en calle Montevideo, 8","Zona Poniente, Armilla",1250,0.0,2,1,Muchas_plantas,3,3,1,1,0,1,1,0,0
+Alquiler de Piso en La Chana,Granada,595,1.0,1,0,Primeros_pisos,1,60,1,0,1,1,0,0,0
+"Alquiler de Piso en calle Ramón y Cajal, 54","Rosaleda - Juventud, Granada",750,1.0,2,0,Primeros_pisos,3,1,1,0,0,1,0,1,0
+"Alquiler de Piso en calle Hortensia, 1",Santa Fe,850,1.0,1,0,Primeros_pisos,2,71,0,0,0,1,1,0,0
+"Alquiler de Piso en calle de la Actriz Fabiana Laura, 21","Rosaleda - Juventud, Granada",1200,1.0,2,0,Primeros_pisos,3,90,1,1,0,0,1,1,1
+"Alquiler de Piso en Maestro Faus, 8","Cervantes-Palacio de Deportes, Granada",800,1.0,2,0,Ultimos_pisos,3,1,0,0,0,0,1,0,1
+"Alquiler de Piso en avenida Divina Pastora, 9","San Ildefonso, Granada",700,1.0,1,0,Ultimos_pisos,1,67,1,0,0,1,1,1,1
+Alquiler de Piso en La Cruz,"Los Pajaritos - Plaza de Toros, Granada",1000,1.0,2,0,Primeros_pisos,3,89,1,1,0,0,0,0,0
+"Alquiler de Chalet pareado en calle Montevideo, 8","Zona Poniente, Armilla",1250,0.0,2,1,Muchas_plantas,3,3,1,1,0,1,1,0,0
+Alquiler de Piso en San Francisco Javier,Granada,900,1.0,2,0,Primeros_pisos,4,1,0,1,0,1,0,0,0
+"Alquiler de Ático en calle Las Cruces, 7",Ogijares,800,1.0,1,1,Primeros_pisos,2,1,1,1,1,1,1,1,1
+"Alquiler de Piso en calle Veracruz, 22",Ogijares,695,1.0,1,1,Primeros_pisos,2,1,1,1,1,1,1,0,1
+Alquiler de Piso en Ronda - Arabial,"Ronda - Arabial, Granada",750,1.0,2,0,Ultimos_pisos,3,1,0,0,0,1,1,0,0
+"Alquiler de Ático en calle las Cruces, 22",Ogijares,699,1.0,1,1,Primeros_pisos,2,1,1,1,1,1,1,0,1
+Alquiler de Ático en Belen s/n,"Cuesta Escoriaza - Barranco del Abogado, Granada",570,0.0,1,0,Primeros_pisos,1,68,1,1,0,1,1,0,0
+Alquiler de Piso en La Cruz,"Los Pajaritos - Plaza de Toros, Granada",1200,1.0,2,0,Primeros_pisos,4,1,0,1,0,1,1,0,0
+"Alquiler de Piso en calle San Pablo, 34","San Francisco Javier, Granada",680,1.0,1,0,Ultimos_pisos,1,55,1,0,0,1,1,0,0
+Alquiler de Estudio en Figares,Granada,530,1.0,1,0,Primeros_pisos,1,35,0,0,0,0,1,0,0
+"Alquiler de Dúplex en calle José Manuel Jiménez Diez, 8","Zaidín, Granada",800,1.0,2,0,Primeros_pisos,2,75,1,1,1,0,0,0,0
+Alquiler de Piso en Carrera de la Virgen - Paseo del Salón,"Realejo, Granada",900,0.0,1,0,Bajo,3,90,0,0,0,0,0,0,0
+Alquiler de Piso en Ronda - Arabial,"Ronda - Arabial, Granada",950,1.0,1,0,Ultimos_pisos,3,85,0,0,0,0,0,0,0
+"Alquiler de Ático en calle Esperanza 27, 27","San Miguel, Armilla",750,1.0,2,0,Primeros_pisos,2,70,1,1,1,1,1,0,1
+Alquiler de Piso en La Chana,Granada,1250,1.0,1,0,Ultimos_pisos,4,1,0,0,0,1,0,0,0
+Alquiler de Piso en Jardín Botánico,"Centro, Granada",600,1.0,1,0,Primeros_pisos,1,50,0,0,0,1,0,0,0
+Alquiler de Piso en Plaza de Toros,"Los Pajaritos - Plaza de Toros, Granada",620,1.0,1,0,Primeros_pisos,1,58,0,1,0,1,0,0,0
+"Alquiler de Ático en calle Lanzarote, 1",Ogijares,800,1.0,1,1,Primeros_pisos,2,1,1,1,1,0,1,1,0
+Alquiler de Piso en calle Pintor López Mezquita,Albolote,500,1.0,1,1,Bajo,1,55,0,0,1,1,1,0,0
+"Alquiler de Piso en calle Martínez de la Rosa, 3","Gran Capitán, Granada",990,1.0,1,0,Primeros_pisos,3,90,1,1,0,0,0,0,0
+Alquiler de Piso en Ronda - Arabial,"Ronda - Arabial, Granada",1200,1.0,2,0,Primeros_pisos,4,1,0,1,0,1,0,0,0
+Alquiler de Piso en Plaza de Toros,"Los Pajaritos - Plaza de Toros, Granada",900,1.0,1,0,Ultimos_pisos,3,90,0,0,0,0,1,0,0
+"Alquiler de Piso en calle San Joaquin, 16","San Francisco Javier, Granada",850,1.0,2,0,Primeros_pisos,3,82,1,1,0,0,1,0,1
+Alquiler de Casa o chalet independiente en Avda. de los Ogijares,Armilla,800,0.0,1,0,Muchas_plantas,3,77,0,0,0,1,1,0,0
+"Alquiler de Chalet adosado en calle Tinar, 3",Albolote,750,0.0,2,1,Muchas_plantas,3,1,1,1,1,1,1,0,0
+Alquiler de Piso en calle Jaén,"Zaidín, Granada",700,0.0,1,0,Primeros_pisos,2,70,1,1,0,1,0,0,0
+Alquiler de Piso en calle Pintor López Mezquita,Albolote,500,1.0,1,1,Bajo,1,55,0,0,1,1,1,0,0
+"Alquiler de Piso en avenida de América, 12",Santa Fe,575,1.0,1,0,Bajo,2,86,0,1,0,0,0,0,0
+Alquiler de Piso en calle Emperatriz Eugenia,"Ronda - Arabial, Granada",1200,1.0,2,0,Primeros_pisos,4,1,0,0,0,1,0,0,0
+Alquiler de Piso en Zaidín,Granada,950,1.0,2,0,Primeros_pisos,3,90,0,0,0,1,0,0,0
+"Alquiler de Piso en avenida de la Ilustración, 12 p","Campus de la Salud, Granada",970,1.0,1,0,Primeros_pisos,3,90,1,1,0,0,1,0,0
+"Alquiler de Piso en calle Río Beiro, 2",Ogijares,695,1.0,1,1,Primeros_pisos,2,80,1,1,1,1,1,0,0
+Alquiler de Piso en Rosaleda - Juventud,"Ronda - Arabial, Granada",700,1.0,1,1,Primeros_pisos,1,45,0,1,0,0,0,1,0
+"Alquiler de Piso en Arabial, 116","Ronda - Arabial, Granada",820,1.0,1,0,Ultimos_pisos,2,80,1,0,0,0,0,0,0
+Alquiler de Piso en calle Gonzalo Gallas,"Ronda - Arabial, Granada",990,1.0,2,0,Primeros_pisos,2,86,0,0,0,1,1,0,0
+"Alquiler de Piso en calle Tórtola, 35","Los Pajaritos, Granada",1200,1.0,2,0,Primeros_pisos,4,95,0,0,0,0,0,0,0
+Alquiler de Piso en Casería de Montijo,"Norte, Granada",1200,0.0,2,0,Primeros_pisos,5,1,0,0,0,0,0,0,0
+Alquiler de Estudio en calle Puentezuelas,"Recogidas, Granada",400,0.0,1,0,Primeros_pisos,1,27,1,0,0,0,0,0,0
+Alquiler de Piso en Polígono Cartuja,"Norte, Granada",1000,0.0,1,0,Primeros_pisos,4,80,0,0,1,0,0,0,0
+Alquiler de Piso en calle Gonzalo Gallas,"Ronda - Arabial, Granada",990,1.0,2,0,Primeros_pisos,2,86,0,0,0,1,1,0,0
+Alquiler de Piso en Figares,Granada,850,1.0,1,0,Ultimos_pisos,1,70,1,0,0,1,1,0,0
+"Alquiler de Piso en calle Platon, 11","Barrio de los Periodistas, Granada",675,1.0,1,0,Primeros_pisos,2,80,1,0,0,1,1,0,0
+"Alquiler de Piso en calle Biznaga, 2","La Chana, Granada",850,1.0,1,0,Primeros_pisos,3,80,0,0,0,1,0,0,0
+Alquiler de Ático en Ronda - Arabial,"Ronda - Arabial, Granada",800,1.0,1,0,Ultimos_pisos,2,70,0,0,0,0,1,0,0
+Alquiler de Piso en calle Agua de Cartuja,"San Ildefonso, Granada",600,0.0,1,0,Primeros_pisos,1,63,1,0,0,1,0,0,0
+"Alquiler de Casa o chalet independiente en cuesta del perro alta, 11","Albaicín, Granada",850,0.0,1,1,Muchas_plantas,1,89,0,1,0,1,1,0,0
+Alquiler de Piso en La Chana,Granada,1300,0.0,2,0,Primeros_pisos,4,1,0,0,0,0,0,0,0
+"Alquiler de Piso en plaza ciudad de los Cármenes, 1","San Francisco Javier, Granada",1200,1.0,2,1,Ultimos_pisos,4,1,1,1,1,1,0,0,1
+Alquiler de Piso en plaza de los Lobos,"Jardín Botánico, Granada",750,0.0,1,0,Primeros_pisos,2,65,0,0,0,0,0,0,0
+"Alquiler de Piso en calle Víctor Hugo, 10","Campo Verde, Granada",1000,0.0,1,1,Primeros_pisos,3,95,0,0,0,0,1,0,1
+"Alquiler de Piso en plaza ciudad de los Cármenes, 1","San Francisco Javier, Granada",1200,1.0,2,1,Ultimos_pisos,4,1,1,1,1,1,0,0,1
+Alquiler de Piso en Casería de Montijo,"Norte, Granada",750,1.0,1,0,Primeros_pisos,3,93,0,0,0,0,0,0,0
+"Alquiler de Piso en calle Biznaga, 2","La Chana, Granada",850,1.0,1,0,Primeros_pisos,3,80,0,0,0,1,0,0,0
+Alquiler de Piso en Figares,Granada,1300,1.0,2,0,Primeros_pisos,4,1,1,1,0,1,1,0,0
+Alquiler de Estudio en calle Paz,"Recogidas, Granada",600,1.0,1,0,Primeros_pisos,1,30,1,0,0,1,1,0,0
+Alquiler de Piso en calle Agua de Cartuja,"San Ildefonso, Granada",600,0.0,1,0,Primeros_pisos,1,63,1,0,0,1,0,0,0
+"Alquiler de Piso en avenida Federico García Lorca, 31","Barrio de los Periodistas, Granada",1000,1.0,2,0,Primeros_pisos,3,1,1,0,1,1,1,1,1
+Alquiler de Piso en Rosaleda - Juventud,"Ronda - Arabial, Granada",1200,1.0,2,1,Primeros_pisos,3,1,0,1,1,0,0,1,0
+"Alquiler de Piso en calle San Rafael, 9",Huétor-Vega,690,0.0,1,0,Bajo,3,86,1,0,0,0,1,0,0
+Alquiler de Ático en Gran Capitán,"Centro, Granada",1200,1.0,2,0,Ultimos_pisos,4,1,0,1,1,0,0,0,0
+"Alquiler de Piso en calle Rosa, 2",Ogijares,699,1.0,1,1,Primeros_pisos,2,1,1,1,1,1,1,0,1
+Alquiler de Piso en La Chana,Granada,1200,1.0,2,0,Primeros_pisos,4,1,1,0,0,1,1,0,0
+"Alquiler de Piso en calle Hoteles de Belén Calle b, 2","Cuesta Escoriaza - Barranco del Abogado, Granada",1250,0.0,1,0,Primeros_pisos,1,45,0,0,1,1,1,0,1
+"Alquiler de Casa o chalet independiente en cuesta del perro alta, 11","Albaicín, Granada",850,0.0,1,1,Muchas_plantas,1,89,0,1,0,1,1,0,0
+"Alquiler de Estudio en calle de Ronda, 193","La Chana, Granada",595,1.0,1,0,Ultimos_pisos,1,60,1,1,1,1,1,0,0
+"Alquiler de Piso en calle Platon, 11","Barrio de los Periodistas, Granada",675,1.0,1,0,Primeros_pisos,2,80,1,0,0,1,1,0,0
+"Alquiler de Ático en calle San Diego, 37","Figares, Granada",750,0.0,2,0,Primeros_pisos,2,65,1,1,0,0,1,0,0
+"Alquiler de Piso en calle Emilia Pardo Bazán, 9 n","Joaquina Eguaras, Granada",750,1.0,2,0,Primeros_pisos,2,82,1,0,0,1,0,0,0
+Alquiler de Estudio en Gran Vía,"Centro, Granada",700,1.0,1,0,Primeros_pisos,1,40,1,0,0,0,1,0,0
+Alquiler de Piso en calle Félix Rodríguez de la Fuente,"Zaidín, Granada",800,1.0,2,0,Primeros_pisos,3,1,0,0,1,1,1,0,0
+"Alquiler de Ático en calle Jarreria, 3","Cuesta Escoriaza - Barranco del Abogado, Granada",650,0.0,1,0,Primeros_pisos,1,45,1,1,0,1,1,0,0
+Alquiler de Piso en Recogidas,"Centro, Granada",1200,1.0,1,0,Primeros_pisos,2,60,0,0,0,0,1,0,0
+Alquiler de Piso en Barrio de los Periodistas,Granada,1000,1.0,2,0,Primeros_pisos,3,1,1,0,1,1,1,1,0
+"Alquiler de Chalet pareado en avenida de Cadiz, 127","Zaidín, Granada",300,0.0,5,0,Muchas_plantas,4,1,0,0,0,0,0,0,0
+"Alquiler de Piso en Arabial, 116","Ronda - Arabial, Granada",1000,1.0,2,0,Ultimos_pisos,3,85,1,0,0,1,1,0,0
+Alquiler de Chalet pareado en calle Primavera,"Zaidín, Granada",900,0.0,2,0,Muchas_plantas,3,1,0,1,0,0,0,0,0
+Alquiler de Piso en Figares,Granada,900,1.0,1,0,Primeros_pisos,3,70,0,0,0,1,0,0,0
+"Alquiler de Piso en calle poeta Manuel de Góngora, 15","Cervantes-Palacio de Deportes, Granada",900,1.0,1,0,Primeros_pisos,2,70,1,0,0,1,0,0,0
+Alquiler de Piso en Zaidín,Granada,1000,1.0,2,0,Primeros_pisos,3,1,0,1,1,1,1,1,0
+Alquiler de Piso en Figares,Granada,900,1.0,1,0,Primeros_pisos,3,70,0,0,0,1,0,0,0
+Alquiler de Piso en Zaidín,Granada,1000,1.0,2,0,Primeros_pisos,3,1,0,1,1,1,1,1,0
+"Alquiler de Piso en cuesta Beteta, 40","Albaicín, Granada",850,0.0,1,0,Bajo,2,70,1,0,0,1,0,0,0
+"Alquiler de Piso en calle Alhóndiga, 21","Recogidas, Granada",850,1.0,1,0,Primeros_pisos,2,65,1,0,0,0,1,0,0
+Alquiler de Estudio en cuesta del Realejo,"Molinos - Santiago, Granada",600,1.0,1,0,Ultimos_pisos,1,35,0,0,0,1,1,0,0
+Alquiler de Chalet pareado en calle Primavera,"Zaidín, Granada",900,0.0,2,0,Muchas_plantas,3,1,0,1,0,0,0,0,0
+Alquiler de Piso en Los Pajaritos,"Los Pajaritos - Plaza de Toros, Granada",1500,1.0,3,1,Primeros_pisos,5,1,0,1,0,0,1,0,0
+Alquiler de Estudio en calle emperatriz eugenia,"Gran Capitán, Granada",550,1.0,1,0,Primeros_pisos,1,40,0,0,0,1,1,0,0
+Alquiler de Piso en Barrio de los Periodistas,Granada,1000,1.0,2,0,Primeros_pisos,3,1,1,0,1,1,1,1,0
+Alquiler de Piso en calle Félix Rodríguez de la Fuente,"Zaidín, Granada",800,1.0,2,0,Primeros_pisos,3,1,0,0,1,1,1,0,0
+Alquiler de Piso en calle molinos s/n,"Zona Ayuntamiento, Alhendin",650,1.0,2,0,Primeros_pisos,3,1,1,0,0,1,1,0,0
+"Alquiler de Piso en Arabial, 115 n","Ronda - Arabial, Granada",950,1.0,2,1,Ultimos_pisos,3,1,0,0,0,0,1,0,0
+Alquiler de Piso en calle Jardines,"Recogidas, Granada",650,0.0,1,0,Primeros_pisos,1,45,1,0,0,1,1,0,0
+Alquiler de Piso en calle Puentezuelas,"Recogidas, Granada",650,1.0,1,0,Primeros_pisos,2,70,1,0,0,1,1,0,0
+Alquiler de Estudio en calle Puentezuelas,"Recogidas, Granada",500,0.0,1,0,Primeros_pisos,1,28,0,0,0,1,1,0,0
+"Alquiler de Ático en calle Ángel, 2","Recogidas, Granada",1200,1.0,1,0,Ultimos_pisos,3,85,1,1,0,0,1,0,0
+Alquiler de Piso en calle Recogidas,"Recogidas, Granada",850,1.0,2,0,Ultimos_pisos,3,90,1,0,0,1,0,0,0
+"Alquiler de Piso en Arabial, 116","Ronda - Arabial, Granada",1000,1.0,2,0,Ultimos_pisos,3,85,1,0,0,1,1,0,0
+"Alquiler de Piso en calle poeta Manuel de Góngora, 15","Cervantes-Palacio de Deportes, Granada",900,1.0,1,0,Primeros_pisos,2,70,1,0,0,1,0,0,0
+Alquiler de Piso en calle Doctor Jiménez Díaz,"Los Pajaritos, Granada",700,1.0,1,0,Ultimos_pisos,1,70,1,1,0,1,1,0,0
+Alquiler de Piso en Buensuceso,"Recogidas, Granada",650,0.0,1,0,Primeros_pisos,2,50,1,0,0,1,1,0,0
+Alquiler de Piso en Ronda - Arabial,"Ronda - Arabial, Granada",975,1.0,1,0,Ultimos_pisos,3,78,0,0,0,1,0,0,0
+Alquiler de Piso en calle Fontiveros,"Zaidín, Granada",700,1.0,1,0,Ultimos_pisos,3,82,0,0,0,1,1,0,0
+Alquiler de Piso en La Zubia,La Zubia,600,0.0,1,0,Primeros_pisos,3,70,0,0,0,1,0,1,0
+"Alquiler de Piso en calle Agua del Albayzín, 1","Albaicín, Granada",800,1.0,1,0,Primeros_pisos,2,85,1,0,0,0,0,0,0
+Alquiler de Chalet adosado en La Cruz,"Los Pajaritos - Plaza de Toros, Granada",950,0.0,1,0,Muchas_plantas,3,1,0,1,0,1,1,0,0
+Alquiler de Piso en cuesta de Gomérez,"Molinos - Santiago, Granada",500,0.0,1,0,Primeros_pisos,1,38,0,0,0,0,0,0,0
+Alquiler de Piso en calle Verónica de la Virgen,"Figares, Granada",800,1.0,2,0,Primeros_pisos,2,70,0,0,0,1,1,0,0
+Alquiler de Piso en calle Santo Tomás de Villanueva,"Ronda - Arabial, Granada",810,0.0,1,0,Primeros_pisos,3,70,0,0,0,1,0,0,0
+Alquiler de Piso en cuesta de Gomérez,"Molinos - Santiago, Granada",580,0.0,1,0,Ultimos_pisos,1,35,0,1,0,0,0,0,0
+Alquiler de Piso en cuesta de Gomérez,"Molinos - Santiago, Granada",580,0.0,1,0,Ultimos_pisos,1,35,0,1,0,0,0,0,0
+Alquiler de Piso en cuesta de Gomérez,"Molinos - Santiago, Granada",500,0.0,1,0,Primeros_pisos,1,38,0,0,0,0,0,0,0
+Alquiler de Piso en plaza de la Trinidad,"Jardín Botánico, Granada",750,0.0,1,0,Primeros_pisos,1,65,0,0,0,0,0,0,0
+Alquiler de Piso en calle Piedra Santa,"San Matías - Pavaneras, Granada",900,1.0,2,0,Primeros_pisos,3,93,0,0,0,1,1,0,0
+Alquiler de Piso en calle Real de Cartuja,"San Ildefonso, Granada",625,1.0,1,0,Primeros_pisos,1,57,1,0,0,1,1,0,0
+Alquiler de Dúplex en Reyes Católicos,"Catedral, Granada",750,0.0,1,0,Ultimos_pisos,1,55,1,1,0,1,1,0,0
+"Alquiler de Piso en calle Paz, 5","Recogidas, Granada",600,1.0,1,0,Primeros_pisos,1,35,1,0,0,1,1,0,0
+Alquiler de Piso en plaza Nueva,"Albaicín, Granada",650,0.0,1,0,Primeros_pisos,1,60,0,0,0,0,0,0,0
+Alquiler de Piso en Méndez Nuñez,"Ronda - Arabial, Granada",1200,1.0,2,0,Primeros_pisos,4,1,1,0,0,0,0,0,0
+"Alquiler de Piso en camino de Ronda, 46","Figares, Granada",800,1.0,2,0,Ultimos_pisos,3,1,0,0,0,1,1,0,0
+Alquiler de Piso en Los Pajaritos,"Los Pajaritos - Plaza de Toros, Granada",660,1.0,1,0,Ultimos_pisos,1,74,1,1,0,1,1,0,0
+Alquiler de Piso en Gran Capitán,"Centro, Granada",825,1.0,2,0,Primeros_pisos,3,1,0,0,0,1,0,0,0
+Alquiler de Piso en Recogidas,"Centro, Granada",950,1.0,2,0,Primeros_pisos,3,95,1,0,0,0,1,0,0
+"Alquiler de Piso en Zona Triunfo 0, 18010","San Ildefonso, Granada",790,0.0,1,0,Primeros_pisos,1,55,0,0,0,1,0,0,0
+Alquiler de Estudio en calle Puentezuelas,"Recogidas, Granada",450,0.0,1,0,Primeros_pisos,1,28,1,0,0,0,0,0,0
+Alquiler de Piso en Los Pajaritos,"Los Pajaritos - Plaza de Toros, Granada",900,0.0,1,0,Primeros_pisos,3,65,0,0,0,0,0,0,0
+Alquiler de Piso en Plaza de Toros,"Los Pajaritos - Plaza de Toros, Granada",800,0.0,1,0,Primeros_pisos,3,1,0,0,0,0,0,0,0
+Alquiler de Estudio en Recogidas,"Centro, Granada",600,0.0,1,0,Primeros_pisos,1,40,0,0,0,0,0,0,0
+Alquiler de Chalet adosado en avenida de la Ilustración,"Campus de la Salud, Granada",1200,0.0,2,0,Muchas_plantas,3,2,1,0,1,1,1,0,0
+"Alquiler de Piso en calle Henríquez de Jorquera, 12","Polígono Cartuja, Granada",800,1.0,1,0,Ultimos_pisos,3,80,1,1,0,0,0,0,1
+"Alquiler de Piso en Placeta de Santo Cristo, 2","Catedral, Granada",1100,1.0,2,0,Ultimos_pisos,3,1,0,0,1,1,0,0,0
+"Alquiler de Estudio en Almería, 15",Monachil,480,1.0,1,0,Primeros_pisos,1,45,1,0,1,1,0,0,0
+"Alquiler de Piso en calle San Isidro, 5",Maracena,700,1.0,1,0,Bajo,3,1,0,0,1,1,1,0,0
+"Alquiler de Ático en Beiro, 16","Plaza de Toros, Granada",930,1.0,1,0,Ultimos_pisos,3,95,0,0,0,1,1,0,0
+"Alquiler de Piso en avenida de Murcia, 6","San Ildefonso, Granada",800,1.0,1,0,Primeros_pisos,3,85,0,0,0,1,0,0,0
+Alquiler de Piso en Albaicín,Granada,550,0.0,1,0,Bajo,1,44,0,0,0,0,0,0,0
+"Alquiler de Piso en calle Ciego de Arjona, 2","Plaza de Toros, Granada",900,1.0,1,1,Primeros_pisos,2,90,1,1,1,0,0,0,0
+"Alquiler de Piso en calle Cruz del Sur, 6","Los Pajaritos, Granada",700,0.0,1,0,Primeros_pisos,2,65,1,0,0,0,1,0,0
+"Alquiler de Piso en Placeta Juan de Mena, 1","Zaidín, Granada",690,0.0,1,0,Primeros_pisos,1,62,1,0,0,0,1,0,0
+"Alquiler de Piso en carretera de Málaga, 51","La Chana, Granada",780,1.0,1,0,Primeros_pisos,3,95,0,0,0,1,0,0,0
+"Alquiler de Ático en Beiro, 16","Plaza de Toros, Granada",930,1.0,1,0,Ultimos_pisos,3,95,0,0,0,1,1,0,0
+"Alquiler de Piso en avenida de Murcia, 6","San Ildefonso, Granada",800,1.0,1,0,Primeros_pisos,3,85,0,0,0,1,0,0,0
+"Alquiler de Piso en calle Ciego de Arjona, 2","Plaza de Toros, Granada",900,1.0,1,1,Primeros_pisos,2,90,1,1,1,0,0,0,0
+"Alquiler de Piso en calle José Luis Pérez Pujadas, 37","Parque Lagos, Granada",1250,1.0,2,0,Bajo,3,1,0,1,1,1,1,1,0
+"Alquiler de Estudio en calle Cristo de la Yedra, 50","San Ildefonso, Granada",650,0.0,1,0,Bajo,1,65,1,1,0,1,1,0,0
+Alquiler de Piso en La Chana,Granada,595,1.0,1,0,Primeros_pisos,1,70,1,0,0,1,1,0,0
+"Alquiler de Piso en carretera de la sierra, 14","Ctra Sierra - Acceso Nuevo Alhambra, Granada",650,1.0,1,0,Bajo,2,90,0,1,0,0,0,0,0
+"Alquiler de Piso en calle Alcaparra, 14",Atarfe,600,1.0,1,1,Primeros_pisos,2,60,0,0,1,0,0,0,0
+"Alquiler de Piso en calle Solares, 4","Cuesta Escoriaza - Barranco del Abogado, Granada",640,0.0,1,1,Primeros_pisos,2,76,0,0,0,0,0,0,0
+Alquiler de Chalet adosado en Zaidín,Granada,750,0.0,1,0,Muchas_plantas,3,1,1,1,0,1,1,0,0
+Alquiler de Piso en San Ildefonso,Granada,800,1.0,1,0,Primeros_pisos,3,95,0,1,0,1,1,0,0
+"Alquiler de Piso en avenida de Cervantes, 22","Cervantes-Palacio de Deportes, Granada",900,1.0,1,0,Ultimos_pisos,4,1,1,0,0,1,1,0,0
+Alquiler de Piso en Polígono Cartuja,"Norte, Granada",820,1.0,1,0,Ultimos_pisos,3,80,0,1,0,0,0,0,0
+Alquiler de Piso en Figares,Granada,900,1.0,1,0,Primeros_pisos,2,83,1,0,0,0,0,0,0
+"Alquiler de Estudio en calle Sierra de San Pedro, 14","Albaicín, Granada",550,0.0,1,0,Bajo,1,30,0,0,0,1,0,0,0
+"Alquiler de Piso en calle Joaquina Eguaras, 10","Joaquina Eguaras, Granada",800,1.0,2,0,Primeros_pisos,3,1,1,0,0,0,1,0,0
+Alquiler de Piso en calle Cuartelillo,"Cuesta Escoriaza - Barranco del Abogado, Granada",700,1.0,1,0,Bajo,1,62,0,0,0,1,1,0,0
+"Alquiler de Piso en calle Teruel, 16","Avda. de los Ogijares, Armilla",700,1.0,1,0,Primeros_pisos,2,66,1,0,0,1,1,0,0
+"Alquiler de Piso en calle Sócrates, 20","Ronda - Arabial, Granada",1450,1.0,2,0,Primeros_pisos,4,1,0,0,0,0,1,0,0
+"Alquiler de Piso en calle San Basilio, 10","San Francisco Javier, Granada",750,0.0,1,1,Primeros_pisos,2,84,1,0,0,1,1,0,0
+"Alquiler de Piso en camino de Ronda, 90","Ronda - Arabial, Granada",900,1.0,1,0,Ultimos_pisos,3,80,0,0,0,0,1,0,0
+"Alquiler de Casa o chalet independiente en calle Cruz de Piedra del Albaicín, 9","Albaicín, Granada",2000,0.0,2,0,Muchas_plantas,5,2,1,1,0,0,0,0,0
+Alquiler de Piso en Joaquina Eguaras,Granada,980,1.0,2,0,Ultimos_pisos,3,90,0,0,0,0,0,0,0
+"Alquiler de Piso en calle Jardines, 19","Recogidas, Granada",700,0.0,1,0,Primeros_pisos,1,40,1,0,0,0,1,0,0
+"Alquiler de Piso en calle Víctor Hugo, 5","Campo Verde, Granada",750,1.0,1,0,Ultimos_pisos,3,1,1,1,0,1,1,0,1
+"Alquiler de Piso en paseo de Cartuja, 8","San Ildefonso, Granada",680,0.0,1,0,Primeros_pisos,1,70,0,0,0,0,1,0,0
+"Alquiler de Piso en plaza del Realejo, 8","Cuesta Escoriaza - Barranco del Abogado, Granada",560,1.0,1,0,Primeros_pisos,1,55,0,0,0,1,0,0,0
+"Alquiler de Piso en plaza de Mariano Galera, 3","Casería de Montijo, Granada",625,0.0,1,0,Primeros_pisos,3,80,0,1,0,0,0,0,0
+"Alquiler de Estudio en calle Obispo Hurtado, 18","Jardín Botánico, Granada",640,1.0,1,0,Primeros_pisos,1,27,0,1,1,1,0,0,1
+"Alquiler de Piso en calle Santa Clotilde, 49","Ronda - Arabial, Granada",850,1.0,1,0,Ultimos_pisos,3,1,1,0,0,0,0,0,0
+"Alquiler de Piso en camino de Ronda, 90","Ronda - Arabial, Granada",900,1.0,1,0,Ultimos_pisos,3,80,0,0,0,0,1,0,0
+"Alquiler de Piso en plaza del Realejo, 8","Cuesta Escoriaza - Barranco del Abogado, Granada",560,1.0,1,0,Primeros_pisos,1,55,0,0,0,1,0,0,0
+"Alquiler de Piso en calle Víctor Hugo, 5","Campo Verde, Granada",750,1.0,1,0,Ultimos_pisos,3,1,1,1,0,1,1,0,1
+"Alquiler de Ático en calle Andarax, 92","Albaicín, Granada",580,0.0,1,0,Primeros_pisos,1,50,0,0,0,1,1,0,0
+"Alquiler de Estudio en calle San Matías, 8","San Matías - Pavaneras, Granada",860,1.0,1,0,Primeros_pisos,1,41,0,0,0,1,1,0,0
+"Alquiler de Ático en calle Melchor Almagro, 16","Gran Capitán, Granada",1500,1.0,2,0,Ultimos_pisos,3,1,1,0,0,0,1,0,0
+"Alquiler de Piso en calle Valle Gran Rey, 13","Barrio de los Periodistas, Granada",850,1.0,1,0,Primeros_pisos,2,70,1,0,0,1,1,1,1
+"Alquiler de Piso en paseo de Cartuja, 8","San Ildefonso, Granada",680,0.0,1,0,Primeros_pisos,1,70,0,0,0,0,1,0,0
+"Alquiler de Piso en calle Gumiel de San Pedro, 5","Albaicín, Granada",800,1.0,1,0,Primeros_pisos,3,95,1,1,0,0,1,0,0
+"Alquiler de Casa o chalet independiente en calle Cruz de Piedra del Albaicín, 9","Albaicín, Granada",2000,0.0,2,0,Muchas_plantas,5,2,1,1,0,0,0,0,0
+"Alquiler de Piso en calle Jardines, 19","Recogidas, Granada",700,0.0,1,0,Primeros_pisos,1,40,1,0,0,0,1,0,0
+"Alquiler de Piso en calle Encantado, 1",Ogijares,700,1.0,1,1,Primeros_pisos,2,1,1,0,1,0,1,0,1
+"Alquiler de Piso en avenida Salvador Allende, 13","Zaidín, Granada",900,1.0,2,0,Primeros_pisos,3,1,1,0,0,0,0,1,0
+"Alquiler de Piso en calle Aguado, 14","San Matías - Pavaneras, Granada",540,1.0,1,0,Primeros_pisos,1,50,1,1,0,1,1,0,0
+"Alquiler de Piso en calle real de motril, 58","Las Tres Cruces, Armilla",700,1.0,1,1,Primeros_pisos,2,80,1,0,1,1,1,0,0
+"Alquiler de Dúplex en calle Angulo, 4","Jardín Botánico, Granada",1050,0.0,1,0,Primeros_pisos,3,1,1,0,0,1,1,0,0
+Alquiler de Piso en Placeta Vicente Blasco Ibañez,"Zaidín, Granada",650,0.0,1,0,Primeros_pisos,2,60,0,0,0,1,1,0,0
+Alquiler de Piso en Recogidas,"Centro, Granada",650,0.0,1,0,Primeros_pisos,1,45,1,0,0,1,1,0,0
+"Alquiler de Piso en calle Granada, 10",Ogijares,695,1.0,1,1,Primeros_pisos,2,80,1,1,1,1,1,0,0
+"Alquiler de Piso en avenida Barcelona, 18","Zaidín, Granada",700,1.0,1,0,Ultimos_pisos,3,1,0,1,0,1,0,0,0
+Alquiler de Piso en Gran Vía,"Centro, Granada",650,0.0,1,0,Primeros_pisos,3,80,0,0,0,1,0,0,0
+Alquiler de Piso en Recogidas,"Centro, Granada",1150,1.0,2,0,Ultimos_pisos,2,68,0,0,0,0,0,0,0
+"Alquiler de Piso en avenida de Madrid, 1","San Ildefonso, Granada",1040,1.0,1,0,Primeros_pisos,4,90,0,1,0,0,1,0,0
+Alquiler de Piso en Los Pajaritos,"Los Pajaritos - Plaza de Toros, Granada",1200,1.0,1,0,Primeros_pisos,4,90,0,0,0,0,1,0,0
+Alquiler de Piso en San Matías - Pavaneras,"Realejo, Granada",700,0.0,1,0,Primeros_pisos,1,76,0,0,0,1,1,0,0
+"Alquiler de Chalet pareado en avenida del Sol, 20",Huétor-Vega,850,0.0,1,0,Muchas_plantas,3,2,0,1,0,0,1,0,0
+"Alquiler de Estudio en cuesta monteros, 11","Cuesta Escoriaza - Barranco del Abogado, Granada",420,0.0,1,0,Primeros_pisos,1,36,0,0,0,0,0,0,0
+"Alquiler de Piso en calle Moral de la Magdalena, 19","Recogidas, Granada",650,0.0,1,0,Primeros_pisos,2,80,0,1,0,0,0,0,0
+"Alquiler de Piso en calle Martínez Campos, 5","Recogidas, Granada",1200,1.0,2,0,Primeros_pisos,4,1,0,1,0,0,0,0,0
+"Alquiler de Piso en paseo de la Bomba, 16","Carrera de la Virgen - Paseo del Salón, Granada",700,1.0,1,0,Primeros_pisos,1,55,1,0,0,1,1,0,0
+"Alquiler de Chalet adosado en calle Fajalauza, 3","Albaicín, Granada",600,0.0,3,1,Muchas_plantas,6,1,0,1,0,0,0,0,0
+"Alquiler de Ático en calle Rosa, 2",Ogijares,699,1.0,1,1,Primeros_pisos,2,1,1,1,1,1,1,0,1
+"Alquiler de Ático en camino de Ronda, 212","Los Pajaritos, Granada",1000,1.0,2,0,Ultimos_pisos,3,90,1,0,0,1,1,0,0
+"Alquiler de Piso en calle Águila, 1","Recogidas, Granada",1100,1.0,1,0,Primeros_pisos,2,60,1,0,0,1,1,0,0
+"Alquiler de Piso en calle Espronceda, 18","Aljomahima - Ermita, Las Gabias",570,0.0,1,0,Primeros_pisos,2,70,0,1,0,1,0,0,0
+"Alquiler de Chalet pareado en avenida del Sol, 20",Huétor-Vega,850,0.0,1,0,Muchas_plantas,3,2,0,1,0,0,1,0,0
+"Alquiler de Estudio en cuesta monteros, 11","Cuesta Escoriaza - Barranco del Abogado, Granada",420,0.0,1,0,Primeros_pisos,1,36,0,0,0,0,0,0,0
+"Alquiler de Dúplex en calle Aconcagua, 40","Bola de Oro, Granada",700,1.0,2,0,Ultimos_pisos,2,1,0,1,1,1,0,0,0
+"Alquiler de Piso en calle Curro Cúchares, 17","La Cruz, Granada",650,1.0,1,0,Primeros_pisos,1,90,1,1,0,1,1,0,0
+"Alquiler de Piso en calle Gras y Granollers, 23","La Chana, Granada",780,0.0,1,0,Primeros_pisos,2,70,0,0,0,1,0,0,0
+"Alquiler de Piso en avenida de Madrid, 20","San Ildefonso, Granada",700,1.0,1,0,Ultimos_pisos,2,55,1,0,0,1,1,0,0
+"Alquiler de Piso en calle Ruiseñor, 3","Los Pajaritos, Granada",850,1.0,2,1,Primeros_pisos,3,75,1,0,0,1,0,0,0
+"Alquiler de Piso en camino de Albolote, 10",Maracena,800,0.0,1,0,Primeros_pisos,4,80,1,1,0,1,1,0,0
+"Alquiler de Piso en avenida de Dílar, 81","Zaidín, Granada",600,0.0,1,0,Bajo,1,40,0,0,0,0,0,0,0
+Alquiler de Piso en Gran Vía,"Centro, Granada",1300,1.0,2,0,Primeros_pisos,4,1,0,0,0,1,0,0,0
+Alquiler de Piso en La Chana,Granada,780,0.0,1,0,Primeros_pisos,2,70,0,0,0,0,0,0,0
+Alquiler de Piso en Jardín Botánico,"Centro, Granada",650,0.0,1,0,Primeros_pisos,1,50,0,0,0,0,0,0,0
+"Alquiler de Piso en calle Luz Casanova, 4","Polígono Cartuja, Granada",1300,1.0,2,0,Ultimos_pisos,4,1,0,1,1,1,1,0,0
+Alquiler de Piso en Casería de Montijo,"Norte, Granada",1050,0.0,1,0,Primeros_pisos,4,89,0,0,0,0,0,0,0
+Alquiler de Piso en Cervantes-Palacio de Deportes,Granada,680,1.0,1,0,Primeros_pisos,2,80,1,0,0,1,0,1,0
+Alquiler de Piso en calle Poeta César Vallejo,"Cervantes-Palacio de Deportes, Granada",750,1.0,1,0,Bajo,3,96,0,1,0,1,0,0,0
+"Alquiler de Piso en calle Valencia, 36","Zona Parque de la Ermita, Churriana de la Vega",580,1.0,1,0,Primeros_pisos,2,80,1,0,0,0,0,0,0
+"Alquiler de Chalet pareado en via del Tranvía, 15",Cajar,1500,0.0,4,1,Muchas_plantas,3,2,0,1,1,1,1,0,0
+"Alquiler de Piso en calle Juan de Ávila Segovia, 3","Ronda - Arabial, Granada",900,1.0,1,0,Primeros_pisos,3,81,1,0,0,0,0,0,0
+"Alquiler de Piso en calle Pintor Zuloaga, 22","Figares, Granada",1200,1.0,2,0,Primeros_pisos,4,1,0,1,0,0,0,0,0
+Alquiler de Piso en Zaidín,Granada,700,0.0,1,0,Bajo,2,70,1,1,0,1,0,0,0
+Alquiler de Piso en Plaza de Toros,"Los Pajaritos - Plaza de Toros, Granada",1000,1.0,2,0,Primeros_pisos,3,1,0,0,0,1,0,0,0
+"Alquiler de Piso en calle Morayma, 9","Bola de Oro, Granada",890,1.0,2,1,Primeros_pisos,4,1,1,1,1,0,0,0,1
+"Alquiler de Piso en avenida de la Constitución, 20","Plaza de Toros, Granada",2500,1.0,2,0,Ultimos_pisos,5,2,1,1,0,1,0,0,0
+"Alquiler de Chalet pareado en calle Granada, 26",Monachil,1000,0.0,1,0,Muchas_plantas,1,60,0,1,1,1,0,0,0
+"Alquiler de Piso en calle Pintor Manuel Maldonado, 20","Cervantes-Palacio de Deportes, Granada",570,1.0,1,0,Primeros_pisos,1,60,1,0,0,0,0,0,0
+"Alquiler de Estudio en Aixa la Horra, 4","Bola de Oro, Granada",600,1.0,1,0,Primeros_pisos,1,48,1,0,0,1,0,1,1
+"Alquiler de Piso en calle Tórtola, 35","Los Pajaritos, Granada",1200,1.0,2,1,Primeros_pisos,4,1,0,1,0,0,0,0,0
+"Alquiler de Piso en avenida Don Bosco, 21","Zaidín, Granada",800,1.0,1,0,Primeros_pisos,3,86,1,0,0,1,0,0,0
+"Alquiler de Piso en calle Buensuceso, 25","Recogidas, Granada",990,0.0,1,0,Primeros_pisos,2,90,1,1,0,0,1,0,0
+"Alquiler de Estudio en calle Madrid, 74",Monachil,500,1.0,1,0,Bajo,1,50,0,0,0,0,0,0,0
+"Alquiler de Ático en calle Barrichuelo de Cartuja, 6","San Ildefonso, Granada",750,0.0,1,0,Primeros_pisos,2,1,0,1,0,0,1,0,0
+"Alquiler de Piso en calle Carnicería, 1","San Matías - Pavaneras, Granada",800,1.0,1,0,Primeros_pisos,3,1,1,0,0,1,1,0,0
+"Alquiler de Piso en Placeta de Aljucer, 1","San Ildefonso, Granada",800,0.0,1,0,Primeros_pisos,3,70,0,0,0,0,0,0,0
+"Alquiler de Dúplex en Cuba, 10","Aljomahima - Ermita, Las Gabias",700,1.0,2,0,Primeros_pisos,3,1,0,1,1,1,0,1,0
+"Alquiler de Piso en calle Estepona, 7","Carrera de la Virgen - Paseo del Salón, Granada",1300,1.0,2,0,Ultimos_pisos,3,1,0,0,1,0,1,0,0
+Alquiler de Piso en calle Barrichuelo de Cartuja,"San Ildefonso, Granada",750,0.0,1,0,Bajo,1,50,1,0,0,1,1,0,0
