@@ -5,11 +5,11 @@ from sqlalchemy import URL, MetaData,Table, Column, Integer, String
 #Conexion BD
 __url_object = URL.create(
     drivername='postgresql',
-    username='idealista_admin',
-    password='idealistaJamon2025!',
+    username='',
+    password='',
     host='localhost',
     port=5432,
-    database='idealista_analyzer'
+    database=''
 )
 try:
     engine = sa.create_engine(__url_object)
